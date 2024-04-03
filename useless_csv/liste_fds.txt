@@ -1,0 +1,3145 @@
+0001  HYDROGENE
+0002  1,2-DIBROMO-3-CHLOROPROPANE
+3-Chloro-1,2-dibromopropane; DBCP; Dibromochloropropane
+0003  CHROMATE DE PLOMB
+Jaune de chrome; Acide chromique, sel de plomb (II) (1:1)
+0004  ISOCYANATE DE METHYLE
+Isocyanatométhane
+0005  DICHLORURE DE PARAQUAT
+Paraquat; Dichlorure de 1,1'-diméthyl-4,4'-bipyridinium
+0006  PARATHION
+Thiophosphate de O,O-diéthyle et de O-(4-nitrophényle)
+0007  PHOSGENE
+Chlorure de carbonyle; Dichlorure de carbonyle
+0008  TETRAETHYLPLOMB
+Tétraéthyle de plomb
+0009  ACETALDEHYDE
+Aldéhyde acétique; Ethanal; Aldéhyde éthylique
+0010  CHLORURE D'ALLYLE
+3-Chloro-1-propène; 3-Chloropropylène; Chloroallylène
+0011  ANILINE
+Benzèneamine; Aminobenzène; Phénylamine
+0012  TRIOXYDE D'ANTIMOINE
+Trioxyde de diantimoine; Oxyde d'antimoine (III); Blanc d'antimoine
+0013  ARSENIC
+Arsenic gris; Arsenic métallique
+0014  CHRYSOTILE
+Amiante, chrysotile; Amiante blanc; Chrysotile serpentine; Asbeste, chrysotyle; Amiante serpentine
+0015  BENZENE
+0016  CHLORURE DE BENZYLE
+alpha-Chlorotoluène; (Chlorométhyl)benzène
+0017  1,3-BUTADIENE
+Divinyle; Erythrène; Vinyléthylène
+0018  n-BUTYLMERCAPTAN
+1-Butanethiol; Butylmercaptan; Alcool thiobutylique
+0019  2-METHYL-2-PROPANETHIOL
+tert-Butylmercaptan
+0020  CADMIUM
+0021  DIOXYDE DE CARBONE
+Gaz carbonique; Anhydride carbonique
+0022  DISULFURE DE CARBONE
+Anhydride sulfocarbonique; Bisulfure de carbone; Sulfure de carbone
+0023  MONOXYDE DE CARBONE
+Oxyde de carbone
+0024  TETRACHLORURE DE CARBONE
+Tétrachlorométhane
+0025  1-HEXADECANETHIOL
+Hexadécylmercaptan; 1-Mercaptohexadécane; Cétylmercaptan
+0026  p-CHLOROANILINE
+p-Chloroaminobenzène; 4-Chloroaniline
+0027  CHLOROFORME
+Trichlorométhane
+0028  2-CHLORO-1-NITROBENZENE
+o-Chloronitrobenzène; o-Nitrochlorobenzène; 1-Chloro-2-nitrobenzène
+0029  CHROME
+0030  o-CRESOL
+2-Méthylphénol; 2-Hydroxytoluène
+0031  p-CRESOL
+4-Méthylphénol; 4-Hydroxytoluène
+0032  CYCLOHEXANETHIOL
+Cyclohexylmercaptan
+0033  2,4-D
+Acide 2,4-dichlorophénoxyacétique
+0034  DDT
+Dichlorodiphényltrichloroéthane; 1,1,1-Trichloro-2,2-bis(p-chlorophényl)éthane; 2,2-bis(p-Chlorophényl)-1,1,1-trichloroéthane
+0035  1-DECANETHIOL
+Décylmercaptan
+0036  PHTHALATE DE DIBUTYL
+Ester dibutylique de l'acide 1,2-benzène-dicarboxylique; Phtalate de n-butyle
+0037  1,4-DICHLOROBENZENE
+p-Dichlorobenzène; PDCB
+0038  DICHLORPROP
+Acide 2-(2,4-dichlorophénoxy)propionique; 2,4-DP; Dichloroprop
+0039  ETHER MONOETHYLIQUE DE DIETHYLENE GLYCOL
+2-(2-Ethoxyéthoxy)éthanol
+0040  ETHER MONOMETHYLIQUE DE DIETHYLENE GLYCOL
+2-(2-Méthoxyéthoxy)éthanol
+0041  1,4-DIOXANE
+Dioxyde de diéthylène; Oxyde diéthylénique; p-Dioxane
+0042  1-DODECANETHIOL
+Dodécylmercaptan; Laurylmercaptan
+0043  EPICHLOROHYDRINE
+1-Chloro-2,3-époxypropane; Oxyde de gamma-chloropropylène; 2-(Chlorométhyl)oxyrane
+0044  ETHANOL (ANHYDRE)
+Alcool éthylique
+0045  DIBROMURE D'ETHYLENE
+1,2-Dibromoéthane
+0046  FLUOR
+0047  TRICHLOROFLUOROMETHANE
+Trichloromonofluorométhane; Fluorotrichlorométhane; Trichlorure de fluorométhane
+0048  DICHLORODIFLUOROMETHANE
+R 12; Dichlorure de difluorométhane
+0049  CHLORODIFLUOROMETHANE
+Monochlorodifluorométhane; Chlorure de difluorométhane; R 22
+0050  1,1,2-TRICHLORO-1,2,2-TRIFLUOROETHANE
+Trichlorotrifluoroéthane; Trichlorure de trifluoroéthane; R 113
+0051  HEXACHLOROETHANE
+Perchloroéthane; Hexachlorure de carbone
+0052  PLOMB
+Plomb métallique
+0053  LINDANE
+gamma-1,2,3,4,5,6-Hexachlorocyclohexane; gamma-HCH
+0054  MCPA
+Acide 4-chloro-2-méthylphénoxyacétique; Acide 4-chloro-o-tolyloxyacétique
+0055  MECOPROP
+Acide 2-(4-chloro-o-tolyloxy)propionique; Acide 2-(4-chloro-2-méthylphénoxy)propionique; MCPP
+0056  MERCURE
+Quicksilver; Argent liquide
+0057  METHANOL
+Alcool méthylique; Carbinol; Alcool de bois
+0058  DICHLOROMETHANE
+Chlorure de méthylène; DCM
+0059  ETHER MONOBUTYLIQUE DE L'ETHYLENE GLYCOL
+2-Butoxyéthanol; Ether butylglycolique; EGBE; Butyl cellosolve
+0060  2-ETHOXYETHANOL
+Ether monoéthylique de l'éthylène glycol; Ether éthylglycolique; Cellosolve
+0061  2-METHOXYETHANOL
+Ether monométhylique de l'éthylène glycol; Ether monométhylglycolique; Méthyl cellosolve
+0062  NICKEL
+Nickel métallique
+0063  SULFATE DE NICKEL II
+0064  CARBONYLE DE NICKEL
+Tétracarbonyl nickel
+0065  NITROBENZENE
+0066  p-NITROPHENOL
+4-Nitrophénol; 4-Hydroxynitrobenzène
+0067  OXYDE NITREUX
+Oxyde de diazote; Protoxyde d'azote; Gaz hilarant
+0068  OZONE
+0069  PENTACHLOROPHENOL
+0070  PHENOL
+Acide carbolique; Acide phénique; Monohydroxybenzène
+0071  QUINOLEINE
+1-Benzazène; Benzo(b)pyridine; Leucoline
+0072  SELENIUM
+0073  STYRENE
+Vinylbenzène; Phényléthylène; Ethénylbenzène
+0074  DIOXYDE DE SOUFRE
+Oxyde sulfureux; Anhydride sulfureux; Oxyde de soufre
+0075  ACIDE 2,4,5-TRICHLOROPHENOXYACETIQUE
+2,4,5-T
+0076  TETRACHLOROETHYLENE
+1,1,2,2-Tétrachloroéthylène; Perchloroéthylène; Tétrachloroéthène
+0077  THALLIUM
+Thallium (métal)
+0078  TOLUENE
+Méthylbenzène; Toluol; Phénylméthane
+0079  1,1,1-TRICHLOROETHANE
+Méthylchloroforme; Méthyltrichlorométhane; alpha-Trichloroéthane
+0080  1,1,2-TRICHLOROETHANE
+Trichlorure de vinyle; beta-Trichloroéthane
+0081  TRICHLOROETHYLENE
+1,1,2-Trichloroéthylène; Trichloroéthène; Trichlorure d'éthylène; Trichlorure d'acétylène
+0082  CHLORURE DE VINYLE
+Chloroéthène; Chloroéthylène; CVM
+0083  CHLORURE DE VINYLIDENE
+1,1-Dichloroéthène; 1,1-Dichloroéthylène
+0084  o-XYLENE
+ortho-Xylène; 1,2-Diméthylbenzène
+0085  m-XYLENE
+meta-Xylène; 1,3-Diméthylbenzène
+0086  p-XYLENE
+para-Xylène; 1,4-Diméthylbenzène
+0087  ACETONE
+2-Propanone; Diméthylcétone
+0088  ACETONITRILE
+Cyanure de méthyle; Cyanométhane; Ethanenitrile
+0089  ACETYLENE
+Ethine; Ethyne
+0090  ACROLEINE
+2-Propénal; Aldéhyde acrylique; Acrylaldéhyde
+0091  ACRYLAMIDE
+2-Propénamide; Amide de l'acide acrylique
+0092  ACRYLONITRILE
+2-Propènenitrile; Cyanure de vinyle
+0093  2,2'-DIPYRIDYL
+2,2'-Bipyridine; alpha,alpha'-Bipyridyl; 2,2'-Bipyridyl; 2-(2-Pyridyl)pyridine
+0094  ALDICARBE
+N-méthylcarbamate de (2-méthyl-2-méthylthiopropylidène)amine; 2-Méthyl-2-(méthylthio)propionaldéhyde-O(méthylcarbamoyl)oxime
+0095  ALCOOL ALLYLIQUE
+2-Propène-1-ol
+0096  ETHER ALLYLGLYCIDIQUE
+Allyloxyméthyloxiranne; Oxyde d'allyle et de 2,3-époxypropyle; 1-Allyloxy-2,3-époxypropane
+0097  AMINOCARBE
+Méthylcarbamate de 4-diméthylamino-3-tolyle; N-Méthylcarbamate de diméthylamino-4 méthyl-3 phényle
+0098  AMITRAZE
+N,N-bis(2,4-Xylyliminométhyl)méthylamine
+0099  ATRAZINE
+2-Chloro-4-éthylamino-6-isopropylamino-1,3,5-triazine; 6-Chloro-N-éthyl-N'-(isopropyl)-1,3,5-triazine-2,4-diamine; 2-Chloro-4-éthylamino-6-isopropylamino-s-triazine
+0100  ETHYLENEIMINE
+Aziridine; Azacyclopropane; Dihydro-1H-azirine
+0101  CHLORURE DE BENZYLIDENE
+alpha,alpha-Dichlorotoluène
+0102  BENZALDEHYDE
+Huile volatile d'amandes amères; Essence d'amandes amères; Aldéhyde benzoïque; Amandol
+0103  ACIDE BENZOIQUE
+Acide benzènecarboxylique
+0104  BENZO(a)PYRENE
+Benzo(a)pyrène; Benzo(def)chrysène
+0105  CHLORURE DE BENZENYLE
+alpha,alpha,alpha-Trichlorotoluène; Chlorure de benzylidyne; Phénylchloroforme
+0106  BIPHENYLE
+Diphényle; Phénylbenzène
+0107  BROME
+0108  BROMOFORME
+Tribromométhane
+0109  BROMURE DE METHYLE
+Bromométhane; Monobromométhane
+0110  ETHER DIGLYCIDIQUE DU 1,4-BUTANEDIOL
+1,4-bis(2,3-Epoxypropoxy)butane
+0111  1-BUTANOL
+n-Propylcarbinol; Alcool n-butylique; n-Butanol
+0112  2-BUTANOL
+Alcool butylique secondaire; Méthyléthylcarbinol; Butanol secondaire
+0113  ISOBUTANOL
+2-Méthyl-1-propanol; Carbinol isopropylique; Alcool isobutylique
+0114  tert-BUTANOL
+Alcool butylique tertiaire; 2-Méthyl-2-propanol; Triméthylcarbinol
+0115  ETHER DE BUTYLE NORMAL ET DE GLYCIDYLE
+Oxyde de n-butyle et de glycidyle; 1-Butoxy-2,3-époxypropane; Ether de butyle et de 2,3-époxypropyle
+0116  CHLORURE DE CADMIUM
+Dichlorure de cadmium
+0117  OXYDE DE CADMIUM
+Monoxyde de cadmium
+0118  CAPROLACTAME
+Hexahydro-2H-azépin-2-one; Lactame aminocaproïque; epsilon-Caprolactame
+0119  CAPTAFOL
+1,2,3,6-Tétrahydro-N-(1,1,2,2-tétrachloroéthylthio)phtalimide
+0120  CAPTANE
+N-(Trichlorométhylthio)cyclohex-4-ène-1,2-dicarboximide
+0121  CARBARYL
+Méthylcarbamate de 1-napthyle
+0122  CARBOFURANE
+Méthylcarbamate de 2,3-dihydro-2,2-diméthylbenzofuran-7-yle
+0123  FIBRES CERAMIQUES
+Fibres céramiques réfractaires
+0124  CHLORDIMEFORME
+Chlorphénamidine; N'-(4-Chloro-o-tolyl)-N,N-diméthylformamidine
+0125  CHLORDIMEFORME, CHLORHYDRATE
+Monochlorohydrate de N'-(4-Chloro-o-tolyl)-N,N-diméthylformamidine
+0126  CHLORE
+0127  DIOXYDE DE CHLORE
+Oxyde de chlore; Peroxyde de chlore; Oxyde de chlore (IV)
+0128  2-CHLOROACETOPHENONE
+Chloro-2-phényl-1 éthanone; alpha-Chloroacétophénone; Chlorure de phénacyle
+0129  2-CHLOROANILINE
+2-Chloroaminobenzène; 1-Amino-2-chlorobenzène
+0130  3-CHLOROANILINE
+1-Amino-3-chlorobenzène; 3-Chloroaminobenzène
+0131  4-CHLORO-m-CRESOL
+p-Chloro-m-crésol; Chlorocrésol; 4-Chloro-3-méthylphénol
+0132  CHLOROETHANE
+Chlorure d'éthyle; 1-Chloroéthane
+0133  CHLOROPRENE
+2-Chloro-1,3-butadiène; 2-Chlorobuta-1,3-diène; beta-Chloroprène
+0134  CHLOROTHALONIL
+Tétrachloroisophtalonitrile; 2,4,5,6-Tétrachloro-1,3-benzènedicarbonitrile; 2,4,5,6-Tétrachloro-3-cyanobenzonitrile
+0135  OXYDE DE GLYCIDYLE ET DE TOLYLE
+1,2-Epoxy-3-(tolyloxy)propane; Oxyde de 2,3-époxypropyle et de o-tolyle
+0136  BROMURE DE CYANOGENE
+Cyanure de brome
+0137  DIAZINON
+Thiophosphate de O,O-diéthyle et de O-2-isopropyl-6-méthylpyrimidine-4-yle
+0138  OXYGENE
+0139  DICAMBA
+Acide 3,6-dichloro-2-méthoxybenzoïque
+0140  2,3-DICHLOROANILINE
+2,3-Dichloro-1-aminobenzène
+0141  2,4-DICHLOROANILINE
+2,4-Dichloro-1-aminobenzène
+0142  2,5-DICHLOROANILINE
+p-Dichloroaniline; 2,5-Dichloro-1-aminobenzène
+0143  2,6-DICHLOROANILINE
+2-6-Dichloro-1-aminobenzène
+0144  3,4-DICHLOROANILINE
+3,4-Dichloro-1-aminobenzène
+0145  ETHER DIGLYCIDIQUE
+Ether de bis(2,3-époxypropyle); 2,2'(Oxybis(méthylène))bisoxiranne
+0146  ETHER DIGLYCIDIQUE DU DIETHYLENE GLYCOL
+Ether de bis(2-(2,3-époxypropoxyéthyle)); 2,2'-(Oxybis(éthylèneoxyméthylène))bisoxiranne
+0147  1,1-DIMETHYLHYDRAZINE
+Diméthylhydrazine; N,N-Diméthylhydrazine
+0148  SULFATE DE DIMETHYLE
+Ester diméthylique de l'acide sulfurique; Monosulfate de diméthyle; DMS
+0149  DINOSEBE
+sec-Butyle-2 dinitro-4,6 phénol; 2-(1-Méthylpropyl)-4,6-dinitrophénol
+0150  m-CHLOROPHENOL
+3-Chlorophénol; 3-Chloro-1-hydroxybenzène; 3-Hydroxychlorobenzène
+0151  ETHER DIGLYCIDIQUE DU BISPHENOL A
+2,2-bis(p-(2,3-Epoxypropoxy)phényl)propane; 2,2'-((1-Méthyléthylidène)bis(4,1-phénylèneoxyméthylène))bisoxiranne; Ether diglycidique du diméthylméthane
+0152  ETHANOLAMINE
+2-Hydroxyéthylamine; 2-Aminoéthanol
+0153  ETHYLAMINE
+Ethanamine; Aminoéthane
+0154  ARGON
+0155  OXYDE D'ETHYLENE
+1,2-Epoxyéthane; Oxiranne
+0156  FOLPET
+N-(Trichlorométhylthio)phthalimide
+0157  LAINE DE VERRE
+0158  GLUTARALDEHYDE
+1,5-Pentanedial; Adéhyde glutarique; Glutaral
+0159  2,3-EPOXY-1-PROPANOL
+Glycidol; 2,3-Epoxypropane-1-ol
+0160  GLYPHOSATE
+0161  HEXACHLOROPHENE
+2,2'-Méthylène-bis(3,4,6-trichlorophénol); HCP
+0162  TRIAMIDE HEXAMETHYLPHOSPHORIQUE
+Hexaméthylphosphoramide; Hexaméthylphosphamide; HMPA
+0163  CHLORURE D'HYDROGENE
+Chlorure d'hydrogène, anhydre; Acide chlorhydrique, anhydre
+0164  PEROXYDE D'HYDROGENE (SOLUTION AQUEUSE, >60 %)
+Hydroperoxyde; Eau oxygénée, >60 %
+0165  SULFURE D'HYDROGENE
+Hydrogène sulfuré
+0166  HYDROQUINONE
+1,4-Dihydroxybenzène; 1,4-Benzènediol
+0167  IODE
+0168  PENTACARBONYLE DE FER
+Fer carbonyle
+0169  ISOPHORONE
+1,1,3-Triméthyl-3-cyclohexène-5-one; 3,5,5-Triméthylcyclohex-2-énone; Isoacétophorone
+0170  ISOPROPYLBENZENE
+Cumène; 2-Phénylpropane
+0171  OXYDE DE GLYCIDYLE ET D'ISOPROPYLE
+1,2-Epoxy-3-isopropoxypropane; Oxyde de 2,3-époxypropyle et d'isopropyle
+0172  MALATHION
+Dithiophosphate de 1,2-bis (éthoxycarbonyl) éthyle et de O,O-diméthyle
+0173  MANEBE
+Ethylènebis(dithiocarbamate) de manganèse; ((1,2-Ethanediylbis(carbamodithioato))(2-))manganèse; Ethylène-1,2-dithiocarbamate de manganèse
+0174  MANGANESE
+0175  DIOXYDE DE MANGANESE
+Oxyde de manganèse (IV); Bioxyde de manganèse; Manganèse noir
+0176  METHAMIDOPHOS
+Thiophosphoramidate de O,S-diméthyle
+0177  METHOMYL
+N-(méthylcarbamoyloxy)thioacétimidate de S-méthyle
+0178  METHYLAMINE
+Méthanamine; Aminométhane; Monométhylamine
+0179  METHYLETHYLCETONE
+Ethylméthylcétone; 2-Butanone; MEK; MEC
+0180  METHYLHYDRAZINE
+Monométhylhydrazine; 1-Méthylhydrazine; Hydrazométhane
+0181  MONOCROTOPHOS
+Phosphate de diméthyle et de cis-1-méthyl-2-(N-méthylcarbamoyl)vinyle
+0182  ETHER DIGLYCIDIQUE DU NEOPENTYLGLYCOL
+1,3-bis(2,3-Epoxypropoxy)-2,2-diméthylpropane
+0183  ACIDE NITRIQUE (> 70 % dans l'eau)
+0184  NITRATE DE POTASSIUM
+Salpêtre
+0185  NITRATE DE SODIUM
+Salpêtre du Chili
+0186  NITROGLYCERINE
+Trinitrate de glycérol; Nitroglycérol; Trinitrine
+0187  2-NITROPROPANE
+Nitroisopropane; Diméthylnitrométhane; sec-Nitropropane
+0188  OXYDE DE GLYCIDYLE ET DE PHENYLE
+1,2-Epoxy-3-phénoxypropane; Oxyde de 2,3-époxypropyle et de phényle
+0189  PHOSPHAMIDON
+Phosphate de diméthyle et de 2-chloro-2-(N,N-diéthylcarbamoyl)-1-méthylvinyle
+0190  OXYCHLORURE DE PHOSPHORE
+Trichlorure de phosphoryle
+0191  PROPOXUR
+N-Méthylcarbamate de 2-isopropoxyphényle
+0192  OXYDE DE PROPYLENE
+1,2-Epoxypropane; Méthyloxiranne
+0193  ETHER DIGLYCIDIQUE DU RESORCINOL
+m-bis(2,3-Epoxypropoxy)benzène
+0194  LAINE DE ROCHE
+0195  LAINE DE LAITIER
+0196  BROMATE DE SODIUM
+0197  STRYCHNINE
+0198  CHLORURE DE SULFURYLE
+Dichlorure de sulfuryle
+0199  TEMEPHOS
+O,O,O',O'-tétraméthyl O,O'-sulfanediylbis (1,4-phénylène) diphosphorothioate
+0200  PLOMB TETRAMETHYLE
+Tétraméthyle de plomb
+0201  TRIALLATE
+Diisopropylthiocarbamate de S-2,3,3-trichloroallyle
+0202  TRIETAZINE
+2-Chloro-4-(diéthylamino)-6-(éthylamino)-s-triazine; N,N,N'-Triéthyl-6-chloro-1,3,5-triazine-2,4-diamine
+0203  TRIETHYLAMINE
+N,N-Diéthyléthanamine
+0204  ETHER DIGLYCIDIQUE DU TRIETHYLENE GLYCOL
+Etoglucide
+0205  TRIFLURALINE
+alpha, alpha, alpha-Trifluoro-2,6-dinitro-N,N-dipropyl-p-toluidine; 2,6-Dinitro-N,N-dipropyl-4-(trifluorométhyl)benzènamine
+0206  TRIMETHYLAMINE
+N,N-Diméthylméthanamine; TMA
+0208  OXYDE DE ZINC
+Blanc de zinc; Monoxyde de zinc; Blanc permanent
+0209  ANHYDRIDE ACETIQUE
+Acide acétique, anhydride; Anhydride éthanoïque
+0210  CHLORURE D'ACETYLE
+Chlorure acétique; Chlorure d'éthanoyle; Chlorure de l'acide acétique
+0211  ADIPONITRILE
+1,4-Dicyanobutane; Butane dinitrile; Cyanure de tétraméthylène
+0212  ALLETHRINE
+(1RS)-cis-trans-Chrysanthémate de (RS)-3-allyl-2-méthyl-4-oxocyclopent-2-enyle
+0213  d-ALLETHRINE
+(1R)-cis-trans-Chrysanthémate de (RS)-3-allyl-2-méthyl-4-oxocyclopent-2-enyle
+0214  2-AMINOPYRIDINE
+o-Aminopyridine; alpha-Aminopyridine
+0215  HYDROXYDE D'AMMONIUM (solution 10%-35%)
+Hydrate d'ammonium; Ammoniac, solution aqueuse
+0216  NITRATE D'AMMONIUM
+0217  PHOSPHATE D'AMMONIUM DIBASIQUE
+Hydrogénoorthophosphate de diammonium
+0218  ACETATE DE n-AMYLE
+Acétate de n-pentyle; Acétate de 1-pentyle
+0219  ACETATE DE sec-AMYLE
+Acétate de 2-pentyle; Acétate de sec-pentyle; Acétate de 1-méthylbutyle
+0220  PENTAFLUORURE D'ANTIMOINE
+Fluorure d'antimoine (V)
+0222  ARSINE
+Trihydrure d'arsenic; Arséniure d'hydrogène; Hydrogène arsénié; Acide arsénhydrique
+0224  BENZIDINE
+4,4'-Diaminobiphényle; p,p'-Diaminobiphényle
+0225  PEROXYDE DE BENZOYLE
+0226  BERYLLIUM
+Glucinium
+0227  BIOALLETHRINE
+(1R)-trans-Chrysanthémate de (RS)-3-allyl-2-méthyl-4-oxocyclopent-2-enyle
+0228  S-BIOALLETHRINE
+(1R)-trans-Chrysanthémate de (S)-3-allyl-2-méthyl-4-oxocyclopent-2-enyle
+0229  BIORESMETHRINE
+(1R)-trans-Chrysanthémate de (5-benzyl-3-furyl)méthyle
+0230  BROMURE DE BORE
+Tribromure de bore; Bromure de bore (III)
+0231  TRIFLUORURE DE BORE
+Trifluoroborane
+0232  BUTANE (GAZ LIQUEFIE)
+Butane normal (gaz liquéfié)
+0233  ACETAMIDE
+Amide de l'acide acétique; Ethanamide
+0234  HYDRATE DE CHLORAL
+Chloral hydraté; 2,2,2-Trichloroéthane-1,1-diol
+0235  ACIDE CHLOROACETIQUE
+Acide chloroéthanoïque; Acide monochloroacétique
+0236  2-CHLOROETHANOL
+Alcool 2-chloroéthylique; Ethylène chlorohydrine; Monochlorhydrine de glycol; Chloroéthanol
+0237  ETHER bis(CHLOROMETHYLIQUE)
+Oxyde de bis(chlorométhyle); Oxybis(chlorométhane); Ether dichlorodiméthylique
+0238  ETHER DE CHLOROMETHYLE ET DE METHYLE
+Ether chlorodiméthylique; Ether méthylique monochloré; Oxyde de chlorométhyle et de méthyle
+0239  CISMETHRINE
+(1R)-cis-Chrysanthémate de (5-benzyl-3-furyl)méthyle
+0240  CUIVRE
+0241  CROTONALDEHYDE
+Aldéhyde crotonique; Butène-2-al; Méthyl-2-acroléine; Crotonaldéhyde stabilisé
+0242  CYCLOHEXANE
+Hexahydrobenzène; Hexaméthylène
+0243  CYCLOHEXANOL
+Alcool cyclohexylique; Hexahydrophénol
+0244  CYCLOHEXIMIDE
+4-(2-(3,5-Diméthyl-2-oxocyclohexyl)-2-hydroxyéthyle)
+0245  CYCLOHEXYLAMINE
+Aminocyclohexane
+0246  CYPERMETHRINE
+3-(2,2-Dichlorovinyl)-2,2-diméthylcyclopropanecarboxylate de alpha-cyano-3-phénoxybenzyle
+0247  DELTAMETHRINE
+(1R,3R)-3-(2,2-Dibromovinyl)-2,2-diméthylcyclopropane carboxylate de (S)-alpha-cyano-3-phénoxybenzyle; (1R)-(1alpha(S),3alpha)-3-(2,2-Dibromovinyl)-2,2-diméthylcyclopropanecarboxylate de alpha-cyano-3-phénoxybenzyle
+0248  TERRE A DIATOMEES (NON CALCINEE)
+Terre à diatomées amorphe; Diatomite, non calcinée; Terre à diatomées, naturelle
+0249  1,1-DICHLOROETHANE
+Dichlorure d'éthylidène
+0250  1,2-DICHLOROETHANE
+Dichlorure d'éthylène; Chlorure d'éthylène
+0251  2,3-DICHLORO-1-NITROBENZENE
+2,3-Dichloronitrobenzène; 1,2-Dichloro-3-nitrobenzène
+0252  1,3-DICHLORO-4-NITROBENZENE
+2,4-Dichloro-1-nitrobenzène
+0253  1,3-DICHLORO-2-NITROBENZENE
+2,6-Dichloronitrobenzène
+0254  1,2-DICHLORO-4-NITROBENZENE
+3,4-Dichloronitrobenzène; DCNB
+0255  1,3-DICHLORO-5-NITROBENZENE
+3,5-Dichloronitrobenzène
+0256  OXYDE DE DI-n-BUTYLETAIN
+Oxyde de dibutylétain
+0257  2-DIETHYLAMINOETHANOL
+N,N-Diéthyléthanolamine; Alcool 2-diéthylaminoéthylique
+0258  PHTALATE DE DIETHYLE
+0259  N,N-DIMETHYLACETAMIDE
+Diméthylamide de l'acide acétique; Diméthylacétamide
+0260  DIMETHYLAMINE
+0261  PHTALATE DE DIMETHYLE
+Ester diméthylique de l'acide phthalique
+0262  TEREPHTALATE DE DIMETHYLE
+Paraphtalate de diméthyle
+0263  1,2-DIPHENYLHYDRAZINE
+Hydrazobenzène; Diphénylhydrazine; N,N'-Bianiline
+0264  PEROXYDE DE DODECANOYLE
+Peroxyde de lauroyle; Peroxyde de didocécanoyle; Peroxyde de dilauroyle
+0265  DODECYLBENZENE
+1-Phényldodécane; Laurylbenzène
+0266  ETHANE
+0267  ACRYLATE D'ETHYLE
+Ester éthylique de l'acide acrylique; Propénoate d'éthyle
+0268  ETHYLBENZENE
+Ethylbenzol; Phényléthane; Phényléthyle
+0269  ETHYLENEDIAMINE
+1,2-Diaminoéthane; 1,2-Ethanediamine; Diméthylènediamine
+0270  ETHYLENE-GLYCOL
+Ethane-1,2-diol; 1,2-Dihydroxyéthane
+0271  PHTALATE DE DI(2-ETHYLHEXYLE)
+Phtalate de dioctyle secondaire; DEHP; Phtalate de bis-(2-éthylhexyle)
+0272  METHACRYLATE D'ETHYLE
+2-Méthyl-2-propénoate d'éthyle; 2-Méthylacrylate d'éthyle
+0273  FENVALERATE
+2-(4-Chlorophényl)-3-méthylbutyrate de cyano(3-phénoxybenzyl)méthyle
+0274  ACIDE FLUOROACETIQUE
+Acide alpha-fluoroacétique; Acide monofluoroacétique
+0275  FORMALDEHYDE
+Méthanal; Aldéhyde formique
+0276  FURFURAL
+Aldéhyde furfurylique; 2-Furaldéhyde
+0277  HALOTHANE
+2-Bromo-2-chloro-1,1,1-trifluoroéthane; 1-Bromo-1-chloro-2,2,2-trifluoroéthane
+0278  DIISOCYANATE D'HEXAMETHYLENE
+HDI; 1,6-Diisocyanate d'hexaméthylène; 1,6-Diisocyanatohexane
+0279  n-HEXANE
+0280  HEXAN-2,5-DIOL
+2,5-Dihydroxyhexane
+0281  HYDRAZINE (anhydre)
+Diamine
+0282  BROMURE D'HYDROGENE
+Acide bromhydrique
+0283  FLUORURE D'HYDROGENE
+Acide fluorhydrique, anhydre
+0284  SELENIURE D'HYDROGENE
+Hydrogène sélénié; Séléniure de dihydrogène
+0285  ISOBUTANOLAMINE
+2-Amino-2-méthyl-1-propanol; 2-Amino-2-méthylpropanol; 2-Aminoisobutanol; 2-Aminodiméthyléthanol
+0286  CHLORURE D'ISOBUTYLE
+1-Chloro-2-méthylpropane
+0287  CHLOROFORMIATE D'ISOPROPYLE
+Chlorocarbonate d'isopropyle; Ester isopropylique de l'acide chloroformique
+0288  OXYDE DE PLOMB (II)
+Monoxyde de plomb; Protoxyde de plomb
+0289  POUDRE DE MAGNESIUM (pyrophorique)
+0290  SULFATE DE MANGANESE, MONOHYDRATE
+0291  METHANE
+Hydrure de méthyle; Grisou
+0292  METHYLCYCLOHEXANOL (MELANGE D'ISOMERES)
+0293  1-METHYLCYCLOHEXANOL
+0294  2-METHYLCYCLOHEXANOL
+o-Méthylcyclohexanol
+0295  3-METHYLCYCLOHEXANOL
+m-Méthylcyclohexanol
+0296  4-METHYLCYCLOHEXANOL
+p-Méthylcyclohexanol
+0297  METHYLDICHLOROSILANE
+Dichlorométhylsilane; Monométhyldichlorosilane
+0298  4,4'-DIISOCYANATE DE DIPHENYLMETHANE
+MDI; 1,1'-Méthylènebis(4-isocyanatobenzène); 4,4'-Diisocyanatodiphénylméthane
+0299  METHYLMERCAPTAN
+Méthanethiol; Mercaptométhane; Sulfhydrate de méthyle; Thiométhanol
+0300  METHACRYLATE DE METHYLE
+Ester méthylique de l'acide méthacrylique; Méthyl-2-propénoate de méthyle
+0301  METHYLTRICHLOROSILANE
+Trichlorométhylsilane
+0302  MORPHOLINE
+0303  NAPHTENATE DE CUIVRE (SOLUTION)
+Acide naphténique, sel de cuivre (solution)
+0304  NAPHTENATE DE PLOMB
+Acide naphténique, sel de plomb
+0305  NEOPENTYLGLYCOL
+2,2-Diméthylpropane-1,3-diol; 1,3-Dihydroxy-2,2-diméthylpropane
+0306  2-NITROANILINE
+o-Nitroaniline; 1-Amino-2-nitrobenzène; C.I. 37025
+0307  3-NITROANILINE
+m-Nitroaniline; 1-Amino-3-nitrobenzène; C.I. 37030
+0308  4-NITROANILINE
+p-Nitroaniline; 1-Amino-4-nitrobenzène; C.I. 37035
+0309  NONYL PHENOL (MELANGE D'ISOMERES)
+0310  OCTAMETHYLCYCLOTETRASILOXANE
+0311  PERCHLOROMETHYLMERCAPTAN
+Chlorure de trichlorométhanesulfényle
+0312  PERMETHRINE
+3-(2,2-Dichlorovinyl)-2,2-diméthylcyclopropanecarboxylate de 3-phénoxybenzyle
+0313  d-PHENOTHRIN
+(1R)-cis-trans-Chrysanthémate de 3-phénoxybenzyle; 2-Diméthyl-3-(méthylpropényl)cyclopropanecarboxylate de 3-phénoxybenzyle
+0314  CARBAMATE D'ETHYLE
+Ether éthylique de l'acide carbamique; Uréthane
+0315  ANHYDRIDE PHTALIQUE
+Anhydride de l'acide benzène-1,2-dicarboxylique; Anhydride de l'acide phtalique; 1,3-Isobenzofurannedione
+0316  ACIDE PICRIQUE
+2,4,6-Trinitrophénol
+0317  PIPERIDINE
+Hexahydropyridine; Azacyclohexane; Pentaméthylèneimine
+0318  POLYDIMETHYLSILOXANE
+Diméthylpolysiloxane
+0319  PROPANE
+n-Propane
+0320  PROPIONITRILE
+Propanenitrile; Cyanure d'éthyle; Cyanoéthane
+0321  PROPYLENE GLYCOL
+Propane-1,2-diol; Méthyléthylène glycol
+0322  PROPYLENEIMINE
+2-Méthylaziridine; Méthyléthylèneimine
+0323  PYRIDINE
+Azine
+0324  RESMETHRINE
+(1RS)-cis-trans-Chrysanthémate de 5-benzyl-3-furylméthyle
+0325  RHODAMINE WT
+0326  ARSENATE DISODIQUE
+0327  SULFATE DE STRYCHNINE
+0328  ACIDE SULFAMIQUE
+Acide amidosulfonique; Acide amidosulfurique; Acide sulfamidique
+0329  TALC (EXEMPT DE SILICE ET DE FIBRES)
+0330  CHLORURE DE TEREPHTALOYLE
+Acide para-phtalique; Acide benzène-para-di-carboxylique
+0331  CHLORURE DE TEREPHTALOYLE
+Dichlorure de 1,4-benzènedicarbonyle; Dichlorure de téréphtalyle; Dichlorure de p-phénylènedicarbonyle; Dichlorure de l’acide téréphtalique
+0332  1,1,2,2-TETRACHLOROETHANE
+Tétrachlorure d'acétylène
+0333  SILICATE DE TETRAETHYLE
+Silicate d'éthyle; Orthosilicate de tétraéthyle
+0334  TETRAMETHRINE
+(1RS)-cis-trans-Chrysanthémate de 3,4,5,6-tétrahydrophthalimidométhyle
+0335  d-TETRAMETHRINE
+(1R)-cis-trans-Chrysanthémate de 3,4,5,6-tétrahydrophthalimidométhyle
+0336  SULFATE DE DITHALLIUM
+Sulfate de thallium; Sulfate de thallium (I)
+0337  THORIUM
+0338  DIOXYDE DE TITANE
+0339  DIISOCYANATE DE TOLUENE
+Diisocyanate de 4-méthyl-m-phénylène; 2,4-Diisocyanate de toluylène
+0340  2,6-DIAMINOTOLUENE
+2-Méthyl-1,3-benzènediamine; 1,3-Diamino-2-méthylbenzène; 2-Méthyl-m-phénylènediamine
+0341  ortho-TOLUIDINE
+2-Méthylbenzèneamine; o-Toluidine; 2-Aminotoluène; o-Méthylaniline
+0342  meta-TOLUIDINE
+3-Aminotoluène; m-Toluidine; m-Méthylaniline
+0343  para-TOLUIDINE
+4-Méthylbenzèneamine; 4-Aminotoluène; p-Méthylaniline
+0344  1,3,5-TRICHLOROBENZENE
+sym-Trichlorobenzène
+0345  ANHYDRIDE TRIMELLITIQUE
+1,2-Anhydride de l'acide benzène-1,2,4-tricarboxylique
+0346  ACIDE VALERIQUE
+Acide pentanoïque; Acide propylacétique; Acide valérianique
+0347  ACETATE DE VINYLE (MONOMERE)
+Acétate d'éthényle; 1-Acétoxyéthylène; Ethanoate d'éthényle
+0348  ZIRAME
+bis(N-N-Diméthyldithiocarbamate) de zinc
+0349  SULFATE DE ZINC (HEPTAHYDRATE)
+Vitriol blanc
+0350  ZINEBE
+Ethylènebis(dithiocarbamate) de zinc
+0351  OXYDE D'ALUMINIUM
+Alumine; Trioxyde d'aluminium
+0352  GLUTARALDEHYDE (SOLUTION A 50 %)
+0353  CYCLOPENTANE
+Pentaméthylène
+0354  DIBROMOMETHANE
+Bromure de méthylène; Dibromure de méthylène
+0355  ETHER DIETHYLIQUE
+Ether éthylique; Oxyde de diéthyle; Diéthyléther
+0356  ACETATE D'ISOAMYLE
+Acétate d'isopentyle; Acétate de 3-méthylbutyle
+0357  HYDROXYDE DE POTASSIUM
+Potasse caustique; Hydrate de potassium
+0358  COLOPHANE
+0359  METASILICATE DE SODIUM (ANHYDRE)
+Métasilicate de disodium; Sel sodique de l'acide silicique
+0360  HYDROXIDE DE SODIUM
+Soude caustique; Hydrate de sodium
+0361  SOLVANT STODDARD
+White spirit
+0362  ACIDE SULFURIQUE, concentré (> 51 % et < 100 %)
+Acide sulfurique; Huile de vitriol
+0363  ACIDE ACETIQUE
+Acide acétique glacial; Acide éthanoïque
+0364  ACETATE DE 2-ETHOXYETHYLE
+Acétate de l'éther monoéthylique d'éthylène glycol; Acétate de 2-éthoxyéthanol; Acétate d'éthylglycol; Acétate de cellosolve
+0365  BROMURE D'ACETYLE
+Bromure d'éthanoyle
+0366  1,1,1-TRIMETHYLOLPROPANE
+Tris(hydroxyméthyl)propane; 2-Ethyl-2-(hydroxyméthyl)-1,3-propanediol; Propylidynetriméthanol; Hexaglycérol; Hexaglycérine
+0367  ACETATE D'ETHYLE
+Ester éthylique de l'acide acétique; Ether acétique
+0368  ACRYLATE DE DECYL
+2-Propénoate de décyle; Ester décylique de l'acide acrylique
+0369  ACIDE ADIPIQUE
+Acide hexanedioïque
+0371  ALACHLORE
+2-Chloro-2',6'-diéthyl-N-(méthoxyméthyl)acétanilide
+0372  ISOTHIOCYANATE D'ALLYLE
+Isosulfocyanate d'allyle
+0373  HYDROXYDE D'ALUMINIUM
+Hydrate d'alumine; Oxyde d'aluminium trihydraté
+0374  n-BUTYLAMINE
+1-Aminobutane; Butylamine; Monobutylamine
+0375  m-ANISIDINE
+3-Aminoanisole; 3-Méthoxyaniline; 3-Méthoxybenzèneamine
+0376  ANTIPYRINE
+Phénazone
+0377  PENTOXYDE D'ARSENIC
+Oxyde d'arsenic (V); Pentaoxyde de diarsenic; Anhydride arsénique
+0378  TRIOXYDE D'ARSENIC
+Oxyde d'arsenic (III); Trioxyde de diarsenic; Arsenic blanc; Anhydride arsénieux
+0379  ACIDE ASCORBIQUE
+Vitamine C; Acide L-ascorbique; Acide L-xyloascorbique
+0380  DIAZENEDICARBOXAMIDE
+Azodicarbonamide; C,C'-Azodi(formamide)
+0381  PEROXYDE DE BARYUM
+Dioxyde de baryum; Superoxyde de baryum
+0382  BENOMYL
+Méthyl 1-(butylcarbamoyl)benzimidazol-2-ylcarbamate; Ester méthylique de l'acide carbamique et du 1-(butylamino)carbonyl-1H-benzimidazole-2-yl
+0383  BENSULIDE
+Dithiophosphate de O,O-diisopropyl-2-phénylsulfonylaminoéthyle
+0384  BENTONITE
+0385  BENZO(a)ANTHRACENE
+1,2-Benzoanthracène
+0386  DICHLORHYDRATE DE BENZENE-1,4-DIAMINE
+Dichlorhydrate de p-phénylènediamine
+0387  CHLORURE DE BENZETHONIUM
+Chlorure de N,N-diméthyl-N-(2-(2-(4-(1,1,3,3-tétraméthylbutyl)phénoxy)éthoxy)éthyl)benzèneméthanaminium; Chlorure de benzyldiméthyl(2-(2-(p-1,1,3,3-tétraméthylbutylphénoxy)éthoxy)éthyl)ammonium
+0388  BENZOFURANE
+0389  BENZOPHENONE
+Diphénylcétone; Benzoylbenzène; Phénylcétone
+0390  BENZOATE DE BENZYLE
+Ester phénylméthylique de l'acide benzoïque
+0391  BLADEX (CYANAZINE)
+2-(4-Chloro-6-éthylamino-1,3,5-triazine-2-ylamino)-2-méthylpropionitrile; 2-Chloro-4-(1-cyano-1-méthyléthylamino)-6-éthylamino-1,3,5-triazine
+0392  BROMOCHLOROMETHANE
+Chlorobromométhane
+0393  BROMODICHLOROMETHANE
+Dichlorobromométhane; Bromodichlorométhane
+0395  1,2-BUTANEDIOL
+Butane-1,2-diol; 1,2-Butylèneglycol
+0396  n-BUTENE
+n-Butylène; But-1-ène; Ethyléthylène
+0397  cis-2-BUTENE
+(Z)-But-2-ène; cis-Diméthyléthylène; bêta-cis-Butylène
+0398  trans-2-BUTENE
+(E)-But-2-ène; trans-Diméthyléthylène; bêta-trans-Butylène
+0399  ACETATE DE n-BUTYLE
+Ester n-butylique de l'acide acétique
+0400  ACRYLATE DE BUTYLE
+Ester butylique normal de l'acide acrylique; Butyl 2-propénoate; Acrylate de n-butyle
+0401  sec-BUTYLAMINE
+2-Aminobutane; 1-Méthylpropylamine; 2-Butanamine
+0402  FORMIATE DE BUTYLE
+Ester butylique de l'acide formique; Formiate de n-butyle
+0403  BUTYRALDEHYDE
+Butanal; Aldéhyde butyrique
+0404  SULFURE DE CADMIUM
+Monosulfure de cadmium
+0405  CAFEINE
+1,3,7-Triméthylxanthine; 3,7-Dihydro-1,3,7-triméthyl-1H-purine-2,6-dione; Méthylthéobromine; Méthylthéophylline
+0406  CARBURE DE CALCIUM
+Acétylure de calcium
+0407  CYANURE DE CALCIUM
+0408  HYDROXYDE DE CALCIUM
+Dihydroxyde de calcium; Hydrate de calcium; Chaux hydratée; Chaux éteinte
+0409  OXYDE DE CALCIUM
+Chaux; Chaux vive; Chaux anhydre
+0410  CARBOPHENOTHION
+Dithiophosphate de 4-chlorophénylthiométhyle et de O,O-diéthyle
+0411  CATECHOL
+Pyrocatéchol; 1,2-Benzènediol; 1,2-Dihydroxybenzène
+0413  CHLORAMINE T
+Sel de sodium du N-chloro-p-toluènesulfonamide, trihydraté; Sel de sodium du N-Chloro-4-toluènesulfonamide, trihydraté; Sel de sodium du N-Chloro 4-méthylbenzènesulfonamide, trihydraté; Tosylchloramide sodique
+0414  AMMONIAC (ANHYDRE)
+0415  2-BROMO-2-NITROPROPANE-1,3-DIOL
+Bronopol
+0416  1-CHLORO-2,4-DINITROBENZENE
+1,3-Dinitro-4-chlorobenzène; Chlorure de 2,4-dinitrophényle; CDNB
+0417  OXYDE DE BIS(2-CHLOROETHYLE)
+Ether dichloroéthylique; Ether dichloro-2,2'éthylique
+0418  GAZ MOUTARDE
+HD; Gaz moutarde; Sulfure de 2,2'-dichloroéthyle; 1,1'-Thiobis(2-chloroéthane)
+0419  CHLORURE DE METHYLE
+Chlorométhane; Monochlorométhane
+0420  CHLOROTRIFLUOROMETHANE
+CFC 13; Monochlorotrifluorométhane; Chlorure de trifluorométhyle
+0421  OXYDE DE CUIVRE (I)
+Oxyde de dicuivre; Oxyde cuivreux; Oxyde de cuivre rouge
+0422  COUMAPHOS
+Thiophosphate de O,O-diéthyle et de O-3-chloro-4-méthyl-coumarine-7-yle
+0423  ACIDE CROTONIQUE
+Acide bêta-méthylacrylique; Acide alpha-crotonique; Acide 3-méthylacrylique
+0424  CYANAMIDE
+Carbamonitrile; Cyanamide d'hydrogène
+0425  CYCLOHEXANONE
+Hexaméthylènecétone; Cétone pimélique
+0426  ACETATE DE CYCLOHEXYLE
+Ester cyclohexylique de l'acide acétique; Acétate d'hexaline; Acétate de cyclohexanol
+0427  CYCLOPENTANONE
+Cyclopentanecétone; Cétone adipique
+0428  DECANE
+n-Décane
+0429  DEMETON-O-METHYL
+Thiophosphate de O-2-éthylthioéthyle et de O,O-diméthyle
+0430  PHTALATE DE DIALLYLE
+0431  DIBENZO(a,h)ANTHRACENE
+0432  DIBORANE
+Boroéthane; Borohydrure
+0433  PHOSPHATE DE TRIS(DIBROMO-2,3 PROPYLE)
+0434  1,1-DICHLORO-1-NITROETHANE
+0435  ETHER DICHLOROISOPROPYLIQUE
+Éther bis(chloro-2 méthyl-1 éthane); 2,2'-Oxybis(1-chloropropane)
+0436  1,2-DICHLOROETHYLENE
+1,2-Dichloroéthène; Dichlorure d'acétylène; Dichloroéthylène symétrique
+0437  DICHLOROISOCYANURATE DE SODIUM
+Sel de sodium de l'acide dichloroisocyanurique; Troclosène sodique
+0438  2,4-DICHLOROPHENOL
+2,4-DCP
+0439  2,5-DICHLOROPHENOL
+1-Hydroxy-2,5-dichlorobenzène
+0440  3,5-DICHLOROPHENOL
+1-Hydroxy-3,5-dichlorobenzène
+0441  1,2-DICHLOROPROPANE
+Dichlorure de propylène
+0442  DICHLOROSILANE
+Chlorosilane
+0443  CLOPYRALIDE
+Acide 3,6-dichloropyridine-2-carboxylique; Acide 3,6-dichloropicolinique
+0444  DIETHYLAMINE
+N,N-Diéthylamine; N-Ethyléthanamine
+0445  DIETHYLBENZENE (MELANGE D'ISOMERES)
+Diéthylbenzène
+0446  DIETHYLDITHIOCARBAMATE DE SODIUM
+0447  BENZOATE DE DIETHYLENEBENZYLE
+Dibenzoate d'oxydiéthylène
+0449  DIISOPROPYLAMINE
+DIPA
+0450  METHACRYLATE DE 2-DIMETHYLAMINOETHYLE
+Méthacrylate de N,N-diméthylaminoéthyle; Ester 2-(diméthylamino)éthylique de l’acide méthacrylique; 2-Méthylprop-2-énoate de 2-(diméthylamino)éthyle
+0451  2,3-XYLIDINE
+2,3-Diméthylaniline; 2,3-Diméthylbenzèneamine; 1-Amino-2,3-diméthylbenzène; 3-Amino-o-xylène
+0453  3,4-XYLIDINE
+3,4-Diméthylaniline; 3,4-Diméthylbenzèneamine; 1-Amino-3,4-diméthylbenzène; 4-Amino-o-xylène
+0454  ETHER DIMETHYLIQUE
+Ether méthylique; Oxybisméthane; Méthoxyméthane
+0455  TRIOXYDE DE VANADIUM
+Sesquioxyde de vanadium; Trioxyde de divanadium
+0456  N,N-DIMETHYL-p-TOLUIDINE
+N,N-Diméthyltoluidine; N,N,4-Triméthylphénylamine; N,N,4-Triméthylaniline
+0457  N,N-DIMETHYLFORMAMIDE
+Diméthylformamide; DMF
+0458  2,4-XYLENOL
+2,4-Diméthylphénol; m-Xylénol; 1-Hydroxy-2,4-diméthylbenzène
+0459  DIMETHYLSULFOXYDE
+Méthylsulfoxyde; DMSO
+0460  1,2-DINITROBENZENE
+Dinitrobenzène (ortho-); o-Dinitrobenzène; 1,2-DNB
+0462  DINITRO-ortho-CRESOL
+2-Méthyl-4,6-dinitro-1-hydroxybenzène; 2-Méthyl-4,6-dinitrophénol
+0463  BENZENETHIOL
+Thiophénol; Phénylmercaptan
+0464  2,4-DINITROPHENOL HUMIDIFIE
+1-Hydroxy-2,4-dinitrobenzène
+0465  DINITROTOLUENE (MELANGE D'ISOMERES)
+DNT (mélange d'isomères); Méthyldinitrobenzène (mélange d'isomères); Dinitrotoluol (mélange d'isomères)
+0466  N,N-DIPHENYLAMINE
+N-Phénylaniline; Anilinobenzène; Diphénylamine
+0467  1,3-DIPHENYLGUANIDINE
+Diphénylguanidine; DPG; N,N-Diphénylguanidine
+0468  ETHER DIPROPYLIQUE
+Ether propylique normal
+0469  EPTC
+Dipropylthiocarbamate de S-éthyle
+0470  ETHANETHIOL
+Ethylmercaptan; Mercaptan éthylique
+0471  NOIR DE CARBONE
+0472  PHOSPHURE D'ALUMINIUM
+0473  5-ETHYLIDENE-2-NORBORNENE (stabilisé)
+ENB; 5-Ethylidènebicyclo(2,2,1)hep-2-ène; Ethylidène norbornène
+0474  TETRABROMURE DE CARBONE
+Tetrabromométhane
+0475  ETHYLENE
+Ethène
+0476  ACETATE DE 2-METHOXYETHYL
+Acétate de l'éther méthylique de l'éthylène glycol; Acétate de méthylglycol
+0477  ACIDE 2-ETHYLHEXANOIQUE
+Acide 2-éthylcaproïque; Acide 3-heptanecarboxylique; Acide butyléthylacétique
+0478  ACRYLATE DE ETHYL-2-HEXYLE
+Ester éthyl-2-hexylique de l'acide acrylique; Acrylate d'octyle; 2-Ethylhexyl-2-propénoate
+0479  IODURE D'ETHANE
+Iodoéthane; Iodure d'éthyle; Monoiodoéthane
+0480  n-ETHYLMORPHOLINE
+4-Ethylmorpholine
+0481  3,3'-DICHLOROBENZIDINE
+0482  HYPOCHLORITE DE SODIUM (SOLUTION, CHLORE ACTIF < 10%)
+Oxychlorure de sodium
+0483  PHENAMIPHOS
+N-isopropylphosphoramidate d'éthyle et de 4-méthylthio-m-tolyle
+0484  FLUOROACETATE DE SODIUM
+Composé 1080
+0485  ACIDE FORMIQUE
+Acide hydroxycarboxylique; Acide méthanoïque
+0486  ACIDE PIVALIQUE
+Acide 2,2-diméthylpropanoïque; Acide alpha,alpha-diméthylpropionique; Acide triméthylacétique
+0487  HEXACHLOROCYCLOHEXANE (MELANGE D'ISOMERES)
+1,2,3,4,5,6-Hexachlorocyclohexane (mélange d'isomères); BHC/HCH (mélange d'isomères); 1,2,3,4,5,6-Hexachlorure de benzène (mélange d'isomères)
+0488  2-HEXANOL
+Alcool hexylique secondaire
+0489  2-HEXANONE
+Méthyl-n-butylcétone (MnBK, MBK); Hexane-2-one; Propylacétone
+0490  1-HEXENE
+Butyléthylène; Hexylène
+0491  1,6-HEXANEDIOL
+1,6-Dihydroxyhexane; Hexaméthylène glycol
+0492  CYANURE D'HYDROGENE, LIQUEFIE
+Acide cyanhydrique; Acide prussique
+0493  1,1'-IMINODI-2-PROPANOL
+Diisopropanolamine; DIPA
+0494  ACETATE D'ISOBUTYLE
+Acétate de 2-méthylpropyle
+0495  ALCOOL ISODECYLIQUE (MELANGE D'ISOMERES)
+Isodécanol (mélange d'isomères)
+0496  2,2,4-TRIMETHYLPENTANE
+Isooctane
+0497  ALCOOL ISOOCTYLIQUE (MELANGE D'ISOMERES)
+Isooctanol (mélange d'isomères)
+0498  ISOPHORONEDIAMINE
+3-Aminométhyl-3,3,5-triméthylcyclohexylamine
+0499  DIISOCYANATE D'ISOPHORONE
+Isocyanate de 3-isocyanatométhyl- 3,5,5-triméthylcyclohexyle; IPDI
+0500  ACIDE ISOPHTALIQUE
+Acide benzène-1,3-dicarboxylique; Acide m-phtalique
+0501  ACIDE LACTIQUE
+Acide DL-lactique
+0502  LAURYLSULFATE DE SODIUM
+Sulfate de dodécyle et de sodium
+0503  ACIDE p-CHLOROBENZOIQUE
+Acide 4-chlorobenzoïque
+0504  OXYDE DE MAGNESIUM
+Brucite calcinée; Magnésie calcinée; Magnésie
+0505  DISULFURE DE 2-MERCAPTOBENZOTHIAZOLE
+Disulfure de benzothiazolyle
+0506  2-METHYL-1-BUTANOL
+Alcool amylique primaire actif; 2-Méthyl-1-butanol; sec-Butylcarbinol; Méthyl-2 butanol
+0507  ACETATE DE METHYLE
+Ester méthylique de l'acide acétique
+0508  4,4'-METHYLENE BIS(2-CHLOROANILINE)
+2,2'-Dichloro-4,4'-méthylènedianiline; 4,4'-Diamino-3,3'-dichlorodiphénylméthane
+0509  IODURE DE METHYLE
+Iodométhane
+0511  METHYLISOBUTYLCETONE
+4-Méthyl-2-pentanone; Acétone isopropylique; Hexone
+0513  N-METHYL-2-PYRROLIDONE
+1-Méthyl-2-pyrrolidone; NMP
+0514  VINYLTOLUENE (MELANGE D'ISOMERES)
+Méthylstyrène (mélange d'isomères)
+0515  THIA-4-PENTANAL
+Mercapto-3 propanal
+0516  METRIBUZINE
+4-Amino-6-tert-butyl-3-méthylthio-1,2,4-triazine-5(4H)-one
+0518  1-NAPHTYLAMINE
+alpha-Naphtylamine; 1-Aminonaphtalène
+0519  NICOTINE
+1-Méthyl-2-(3-pyridyl)pyrrolidine; 3-(1-Méthyl-2-pyrrolidyl)pyridine
+0520  SULFATE DE NICOTINE
+Sulfate de 1-1 méthyl-2(3-pyridyl)-pyrrolidine
+0521  TARTRATE DE NICOTINE
+Dihydrogénoditartrate de nicotine
+0522  NITROMETHANE
+0523  2-NITROPHENOL
+o-Nitrophénol; 2-Hydroxynitrobenzène; o-Hydroxynitrobenzène
+0525  N-NITROSODIMETHYLAMINE
+Diméthylnitrosamine; DMN; Diméthylnitrosoamine
+0526  N-NITROSODIPHENYLAMINE
+Diphénylnitrosamine; N-Nitroso-N-phényl benzènamine; N-Nitroso-N-phénylaniline
+0527  BENZO(g,h,i)FLUORANTHENE
+2,13-Benzofluoranthène
+0528  TETROXYDE D'OSMIUM
+Acide osmique; Tétraoxyde d'osmium
+0529  ACIDE OXALIQUE
+Acide éthanedioïque
+0530  ACIDE PALMITIQUE
+0531  PENTACHLOROBENZENE
+1,2,3,4,5-Pentachlorobenzène
+0532  PENTACHLOROPHENATE DE SODIUM
+0533  2,4-PENTANEDIONE
+Acétyl acétone
+0534  n-PENTANE
+Pentane normal; Pentane
+0535  1-PENTANOL
+Alcool n-amylique primaire
+0536  3-PENTANOL
+Alcool n-amylique secondaire
+0537  DI-n-PENTYLAMINE
+Dipentylamine; Di-n-amylamine
+0538  ETHER MONOPHENYLIQUE DE L'ETHYLENE GLYCOL
+2-Phénoxyéthanol; Phényl cellosolve; Éther de phényle et d'2-hydroxyéthyle
+0539  PHENYLACETATE
+Ester phénylique de l'acide acétique; Acétylphénol
+0540  ACETATE DE PHENYLMERCURE
+0541  NITRATE DE PHENYLMERCURE
+0542  PHENYL-beta-NAPHTHYLAMINE
+N-Phényl-2-naphthylamine; N-2-Naphthylaniline; N-Phényl bêta-naphthylamine
+0543  PHOSMET
+Dithiophosphate de O,O-diméthyle et de S-phthalimidométhyle
+0544  PENTACHLORURE DE PHOSPHORE
+0545  PENTOXYDE DE DIPHOSPHORE
+Anhydride phosphorique; Pentaoxyde de diphosphore
+0547  ACETATE DE POTASSIUM
+0548  CHLORATE DE POTASSIUM
+0549  SULFURE DE POTASSIUM
+Monosulfure de potassium
+0550  ALDEHYDE PROPIONIQUE
+Méthylacétaldéhyde; Propanal; Aldéhyde propionique
+0551  1-METHOXY-2-PROPANOL
+Ether monométhylique du propylène glycol
+0552  PROPANIL
+3',4'-Dichloropropionanilide
+0553  1-PROPANOL
+Alcool propylique; n-Propanol
+0554  ALCOOL ISOPROPYLIQUE
+2-Propanol; Propane-2-ol; Isopropanol; Diméthylcarbinol; Carbinol diméthylique
+0555  beta-PROPIOLACTONE
+1,3-Propiolactone; 3-Propanolide
+0556  PROPIONATE DE BUTYLE
+Propionate butylique; Ester butylique de l'acide propanoïque
+0557  PROPIONATE DE SODIUM
+Sel sodique de l'acide propionique
+0558  ANHYDRIDE PROPIONIQUE
+Anhydride propanoïque; Anhydride méthylacétique
+0559  PROPYLENE
+Méthyléthylène; Propène
+0560  PROPYNE
+Méthylacétylène
+0561  NITRATE DE GUANIDINE
+Mononitrate de guanidine; Nitrate de guanidinium
+0562  PYRROLIDINONE
+2-Pyrrolidinone; 2-Pyrrolidone
+0563  ACIDE SALICYLIQUE
+Acide 2-hydroxybenzoïque; Acide o-hydroxybenzoïque
+0564  MONOSILANE
+Silane; Tétrahydrure de silicium
+0565  ACETATE DE SODIUM
+Acétate de soude; Sel sodique de l'acide acétique
+0566  ALUMINATE DE SODIUM
+Dioxyde d'aluminium et de sodium
+0567  TETRABORATE DE SODIUM, DECAHYDRATE
+Borate de sodium; Borax; Biborate de soude
+0568  ACIDE STEARIQUE
+Acide octadécanoïque; Acide n-octadécylique
+0569  ACIDE SULFANILIQUE
+Acide 4-aminobenzènesulfonique
+0570  SULFATE DE DIETHYLE
+Ester diéthylique de l'acide sulfurique; Sulfate d'éthyle; Sulfate diéthylique
+0571  HEXAFLUORURE DE SOUFRE
+0572  CREOSOTE
+Huile de créosote; Créosotes (dérivées des goudrons de houille)
+0573  2,3,5,6-TETRACHLOROPHENOL
+0574  TETRACHLORURE DE SILICIUM
+Tétrachlorosilane; Chlorure de silicium
+0575  TETRAFLUOROMETHANE
+Tétrafluorure de carbone; Fréon 14; Halon 14
+0576  TETRAFLUORURE DE SILICIUM
+Tétrafluorosilane
+0577  TRIFLUOROMETHANE
+Trifluorure de carbone; Fluoroforme; R 23; Trifluorure de méthyle
+0578  TETRAHYDROFURANNE
+Oxyde de diéthylène; THF
+0579  THIOACETAMIDE
+0580  THIOMETON
+Dithiomethon; Dithiophosphate de S-2-éthylthioéthyle et de O,O-diméthyle
+0581  CHLORURE DE THIOPHOSPHORYLE
+Trichlorure de thiophosphoryle; Sulfochlorure de phosphore
+0582  TOLUENE-2,4-DIAMINE
+4-Méthyl-m-phénylènediamine
+0584  PHOSPHATE DE TRIBUTYLE
+Tri-n-butylphosphate; Butylphosphate
+0585  TRICHLORPHON
+Trichlorfon; 2,2,2-Trichloro-1-hydroxyéthylphosphonate de diméthyle
+0586  ACIDE TRICHLOROACETIQUE
+Acide trichloroéthanoïque
+0587  2,3,4-TRICHLORO-1-BUTENE
+2,3,4-Trichlorobut-1-ène
+0588  2,3,4-TRICHLOROPHENOL
+0589  2,3,5-TRICHLOROPHENOL
+0590  2,3,6-TRICHLOROPHENOL
+0591  TRICHLOROSILANE
+Silicochloroforme
+0592  TRIISOPROPANOLAMINE
+1,1',1''-Nitrilotripropane-2-ol
+0593  BORATE DE TRIMETHYLE
+0594  2,4,4-TRIMETHYL-1-PENTENE
+Diisobutylène; Octène
+0595  UREE
+Carbamide
+0596  PENTAOXYDE DE DIVANADIUM
+Pentaoxyde de vanadium; Anhydride vanadique; Oxyde de vanadium
+0597  BROMURE DE VINYLE
+Bromoéthène; Bromoéthylène; Monobromoéthylène
+0598  FLUORURE DE VINYLE
+Fluorure de vinyle (stabilisé); Fluoroéthylène; Monofluoroéthylène
+0600  XYLIDINE (MELANGE D'ISOMERES)
+Aminodiméthylbenzène; Diméthylaniline
+0601  XYLENOL (MELANGE D'ISOMERES)
+Diméthylphénol
+0602  PHOSPHURE DE ZINC
+Diphosphure de trizinc
+0603  HELIUM
+0604  KRYPTON
+0606  1,7-OCTADIENE
+0607  ETHER MONOPROPYLIQUE DE L'ETHYLENE GLYCOL
+2-Propyloxyéthanol; Propyl cellosolve
+0608  3,5,5-TRIMETHYLHEXANE-1-OL
+0609  XENON
+0610  2-NAPHTHYLAMINE
+bêta-Naphthylamine; 2-Aminonaphthalène
+0611  CYANHYDRINE D'ACETONE (STABILISEE)
+2-Cyano-2-propanol; Acétonecyanhydrine
+0612  ASPHALTE
+0613  CHLORATE DE BARYUM
+0614  CHLORURE DE BARYUM
+0615  CHLORURE DE BARYUM, DIHYDRATE
+0616  TRICHLORURE DE BORE
+0617  p-CYMENE
+1-Méthyl-4-isopropylbenzène; p-Isopropyltoluène
+0618  DIETHANOLAMINE
+2,2'-Iminodiéthanol; 2,2'-Dihydroxydiéthylamine
+0619  DIETHYLENE GLYCOL
+Diglycol; 2,2'-Oxydiéthanol; 3-Oxapentane-1,5-diol; DEG
+0620  DIETHYLENETRIAMINE
+2,2'-Iminodi(éthylamine); 3-Azapentane-1,5-diamine; DETA
+0621  ETHYLHEXALDEHYDE
+Aldéhyde éthyl-2 hexylique; 2-Ethylhexanal; Aldéhyde éthyl-2 caproïque
+0622  FENITROTHION
+Thiophosphate de O,O-diméthyle et de O-4-nitro-m-tolyle; Thiophosphate de O,O-diméthyle et de O-(méthyl-3 nitro-4 phényle)
+0623  FORMIATE D'ETHYLE
+Ester éthylique de l'acide formique; Ether formique
+0624  GLYCEROL
+Glycérine; 1,2,3-Propanetriol; Trihydroxypropane
+0625  ACRYLATE DE METHYLE
+Ester méthylique de l'acide acrylique; 2-Propénoate de méthyle
+0626  METHYL PARATHION
+Thiophosphate de O,O-diméthyle et de O-4-nitrophényle
+0627  NEON
+0628  PHOSPHORE BLANC
+Phosphore jaune; Phosphore
+0629  TEXANOL
+Monoisobutyrate de 2,2,4-triméthyl-pentane 1,3-diol; Acide isobutyrique, monoester avec 2,2,4-triméthylpentane-1,3-diol
+0630  2-AMINO-5-CHLOROTOLUENE
+4-Chloro-o-toluidine; 4-Chloro-2-méthylaniline
+0631  AMITROLE
+1,2,4-Triazole-3-ylamine; 3-Amino-1H-1,2,4-triazole; Aminotriazole
+0632  PEROXYDISULFATE D'AMMONIUM
+0633  FLUORURE DE CARBONYLE
+Oxyfluorure de carbone; Difluorure de carbonyle; Fluophosgène
+0634  BISPHENOL A
+4,4'-Isopropylidènediphénol
+0635  BROMOCHLORODIFLUOROMETHANE
+Fréon 12 B 1; R 12 B 1; Halon 1211
+0636  OXYDE DE BUTYLENE (STABILISE)
+1,2-Epoxybutane; Ethyloxiranne
+0637  para-tert-BUTYLPHENOL
+4-(1,1-Diméthyléthyl)phénol; 1-Hydroxy-4-tert-butylbenzène
+0638  HYPOCHLORITE DE CALCIUM
+Sel de calcium de l’acide hypochloreux; Oxychlorure de calcium
+0640  2-CHLOROACETAMIDE
+alpha-Chloroacétamide
+0641  2-CHLOROBENZALDEHYDE
+Aldéhyde o-chlorobenzoïque
+0642  CHLOROBENZENE
+Monochlorobenzène
+0643  CHLORODIFLUOROETHANE
+1-Chloro-1,1-difluoroéthane
+0644  ACIDE CHLORO-2-PROPANOIQUE
+Acide 2-chloropropanoique; Acide alpha-chloropropionique
+0646  m-CRESOL
+3-Crésol; 3-Méthylphénol; 3-Hydroxytoluène
+0647  ALCOOL DIACETONE
+4-Hydroxy-4-méthylpentan-2-one; 4-Hydroxy-4-méthyl-2-pentanone; 4-Hydroxy-2-kéto-4-méthylpentane; 4-Hydroxy-4-méthyl-2-pentanone
+0648  ORTHOARSENIATE DE CUIVRE (II)
+Sel de cuivre de l'acide arsénique; Arséniate de cuivre
+0649  DICHLOROTETRAFLUOROETHANE
+1,2-Dichloro-1,1,2,2-tétrafluoroéthane; CFC114
+0650  DICYANDIAMIDE
+Dicyanodiamide; Cyanoguanidine; Dicyanediamide
+0651  PHTALATE DE DICYCLOHEXYLE
+Ester dicyclohexylique de l'acide phtalique
+0652  METHACRYLONITRILE
+Méthylacrylonitrile
+0653  DIISOCYANATE DE 1,5-NAPHTYLENE
+1,5-Diisocyanatonaphthalène
+0654  DIMETHYLAMINOETHANOL
+2-Diméthylaminoéthanol; N,N-Diméthyl éthanolamine
+0655  FENTHION
+Thiophosphate de O,O-diméthyle et de O-(4-méthylthio-m-tolyle)
+0656  TRIFLUORURE DE CHLORE
+Fluorure de chlore; Chlorotrifluorure
+0657  n-HEPTANE
+0658  ISOHEPTANE
+2-Méthylhexane
+0659  HEXAMETHYLENEDIAMINE
+Diamino-1,6-hexane
+0660  HEXYLENE GLYCOL
+2-Méthyl-2,4-pentanediol
+0661  HYDROXYLAMINE
+Oxyammoniaque
+0662  CYANURE D'IODE
+Iodure de cyanogène
+0663  KEROSENE
+Pétrole lampant; Pétrole léger
+0664  FORMIATE DE METHYLE
+Ester méthylique de l'acide formique; Méthanoate de méthyle
+0665  METHYLISOBUTYLCARBINOL
+Alcool méthylamylique; 4-Méthyl-2-pentanol
+0667  NAPHTHALENE
+Naphtaline; Camphre de goudron
+0668  1,5-NAPHTHALENEDIAMINE
+1,5-Diaminonaphthalène; 1,5-Naphthylènediamine
+0669  o-PHENYLPHENOL
+Biphényl-2-ol; 2-Hydroxybiphényle
+0670  PHTHALONITRILE
+o-Benzènedinitrile
+0671  CYANURE DE POTASSIUM
+0672  PERMANGANATE DE POTASSIUM
+0673  ALCOOL PROPARGYLIQUE
+2-Propyne-1-ol; Pro-2-yne-1-ol
+0674  ETHYLATE DE SODIUM
+Ethanolate de sodium; Ethoxyde de sodium
+0675  THIOCYANATE DE SODIUM
+Sulfocyanate de sodium
+0676  1,2,4,5-TETRACHLOROBENZENE
+Tétrachlorure de benzène
+0677  TETRAHYDROTHIOPHENE
+Sulfure de tétraméthylène; Thiolane; Thiophane
+0678  THEOPHYLLINE
+3,7-Dihydro-1,3-diméthyl-1H-purine-2,6-dione; 1,3-Diméthylxanthine
+0680  THIOUREE
+Thiocarbamide
+0682  1,2,4-TRIAZOLE
+Pyrrodiazole; 1H-1,2,4-Triazole
+0683  1,2,3-TRICHLOROPROPANE
+Trichlorure d'allyle
+0684  TRIETHYL PHOSPHITE
+Ester triéthylique de l'acide phosphoreux
+0685  CHLOROTRIFLUOROETHYLENE
+1,1,2-Trifluoro 2-chloroéthylène; 2-Chloro 1,1,2-trifluoroéthylène
+0686  PHOSPHATE DE TRIMETHYLE
+Ester triméthylique de l'acide phosphorique
+0687  FLUORURE DE VINYLIDENE
+1,1-Difluoréthylène; R1132a
+0688  ACIDE ACRYLIQUE
+Acide propénique; Acide propénoïque
+0689  CYCLOPHOSPHAMIDE
+0690  DICHLORVOS
+Phosphate de 2,2-dichlorovinyle et de diméthyle; DDVP
+0691  1,3-DINITROBENZENE
+méta-Dinitrobenzène; 1,3-DNB
+0692  1,4-DINITROBENZENE
+para-Dinitrobenzène; p-Dinitrobenzène; 1,4-DNB
+0694  PHOSPHINE
+Trihydrure de phosphore; Phosphure d'hydrogène; Hydrogène phosphoré
+0695  FORMALDEHYDE (SOLUTION A 37%, sans méthanol)
+Méthanal; Formaline; Formol; Aldéhyde formique
+0696  TRICHLORURE DE PHOSPHORE
+Chlorure de phosphore
+0697  PROPAZINE
+6-chloro-N2,N4-di-isopropyl-1,3,5-triazine-2,4-diamine
+0698  SELENITE DE SODIUM
+0699  SIMAZINE
+6-Chloro-N,N-diéthyl-1,3,5-triazine-2,4-diamine
+0700  TRIPHENYLPHOSPHINE
+0701  MAGNESIUM (GRANULES)
+0702  CARBONE
+0703  1-CHLOROBUTANE
+Chlorure de butyle normal
+0704  ACIDE CITRIQUE, MONOHYDRATE
+Acide citrique hydraté
+0705  DEMETON-S-METHYL
+0706  CHLOROACETALDEHYDE (SOLUTION A 40 %)
+2-Chloroacétaldéhyde; 2-Chloroéthanal; Monochloroacétaldéhyde
+0707  ACIDE OXALIQUE DIHYDRATE
+Acide éthanedioïque dihydrate
+0708  FONOFOS
+0709  CHLORURE D'HYDROXYLAMINE
+Chlorure d'hydroxylammonium
+0710  LITHIUM
+0711  CHLORURE DE LITHIUM
+0712  DECABORANE
+Hydrure de bore; Décaborane tétradécahydrure
+0713  DIISOBUTYLCETONE
+2,6-Diméthyl-4-heptanone; 2,6-Diméthylheptane-4-one
+0714  ACIDE PERCHLORIQUE, SEL DE POTASSIUM
+Perchlorate de potassium; Hyperchlorate de potassium
+0715  ACIDE PERCHLORIQUE, SEL DE SODIUM
+Perchlorate de sodium
+0716  POTASSIUM
+Kalium
+0717  SODIUM
+Natrium
+0718  ETHER MONOETHYLIQUE DU TRIETHYLENE GLYCOL
+2-(2-(2-Ethoxyéthoxy)éthoxy)éthanol; Ethoxytriglycol; Ether monoéthylique du triglycol
+0719  2-NAPHTHOL
+2-Hydroxynaphthalène; bêta-Naphtol; Isonaphtol
+0720  BENZO(b)FLUORANTHENE
+Benz(e)acéphénanthrylène; 2,3-Benzofluoroanthène; Benzo(e)fluoranthène; 3,4-Benzofluoranthène
+0721  BENZO(k)FLUORANTHENE
+Dibenzo(b,jk)fluorène; 8,9-Benzofluoranthène; 11,12-Benzofluoranthène
+0722  1-CHLORO-3,4-DINITROBENZENE
+0723  1,1-DICHLOROPROPANE
+0724  1,3-DICHLOROPROPANE
+0725  DINITROBENZENE (MELANGE D'ISOMERES)
+DNB (mélange d'isomères)
+0726  2,3-DINITROTOLUENE
+1-Méthyl-2,3-dinitrobenzène; 2,3-DNT
+0727  2,4-DINITROTOLUENE
+1-Méthyl-2,4-dinitrobenzène; 2,4-DNT
+0728  2,6-DINITROTOLUENE
+1-Méthyl-2,6-dinitrobenzène; 2,6-DNT
+0729  3,4-DINITROTOLUENE
+1-Méthyl-3,4-dinitrobenzène; 3,4-DNT
+0730  INDENO(1,2,3-cd)PYRENE
+o-Phénylènepyrène; 2,3-Phénylènepyrène
+0731  2-METHYLHEPTANE
+0732  alpha-METHYLSTYRENE
+Isopropénylbenzène; 2-Phénylpropène
+0733  2-VINYLTOLUENE
+o-Méthylstyrène; 2-Méthylstyrène; o-Vinyltoluène
+0734  3-VINYLTOLUENE
+m-Méthylstyrène; 3-Méthylstyrène; m-Vinyltoluène
+0735  4-VINYLTOLUENE
+p-Méthylstyrène; 4-Méthylstyrène; p-Vinyltoluène
+0736  trans-beta-METHYLSTYRENE
+0737  2,4,4-TRIMETHYL-2-PENTENE
+Diisobutylène; 2,4,4-Triméthylpent-2-ène
+0738  CHLORURE D'ETAIN DIHYDRATE
+Dihydrate de chlorure d'étain (II)
+0739  BENZO(g,h,i)PERYLENE
+1,12-Benzopérylène
+0740  CHLORDANE (PRODUIT TECHNIQUE)
+1,2,4,5,6,7,8,8-Octachloro-3a,4,7,7a-tétrahydro-4,7-méthanoindane
+0741  DIMETHOATE
+Phosphamide; Dithiophosphate de méthylcarbamoylméthyle et de O,O-diméthyle
+0742  ENDOSULFAN (MELANGE D'ISOMERES)
+Sulfite de 1,2,3,4,7,7-hexachloro-8,9,10-trinorborn-2-ène-5,6-ylène diméthyle
+0743  HEPTACHLORE
+3,4,5,6,8,8a-Heptachlorodicyclopentadiène; 1,4,5,6,7,8,8-Heptachloro-3a,4,7,7a-tétrahydro-4,7-méthanoindène
+0744  PHOSPHURE DE MAGNESIUM
+Diphosphure de trimagnésium
+0745  QUINTOZENE
+Pentachloronitrobenzène; PCNB
+0746  TRICHLORURE DE RHODIUM, TRIHYDRATE
+Chlorure de rhodium, trihydraté
+0747  TETRADIFON
+Sulfone de 4-chlorophényle et de 2,4,5-trichlorophényle
+0748  ACEPHATE
+Acétylphosphoramidothioate de O,S-diméthyle; Ester O,S-diméthylique de l'acide acétylphosphoramidothioique
+0749  CHLOROBENZILATE
+0750  TRICHLORONITROMETHANE
+Chloropicrine; Nitrochloroforme; Nitrotrichlorométhane
+0751  SULFATE DE CUIVRE (anhydre)
+Sulfate cuivrique, anhydre
+0752  DICOFOL
+2,2,2-Trichloro-1,1-bis(4-chlorophényl)éthanol; 4,4'-Dichloro-alpha-(trichlorométhyl)benzhydrol
+0753  EPN
+Phénylthiophosphate de O-éthyle et de O-4-nitrophényle
+0754  MANCOZEBE
+0755  ACIDE METHYLARSONIQUE
+MAA
+0756  8-QUINOLATE DE CUIVRE
+8-Hydroxyquinoléinate de cuivre (II); Oxine-cuivre
+0757  THIRAME
+Disulfure de tétraméthylthiurame; Disulfure de bis (N,N-diméthylthiocarbamyle); TMTD
+0758  VAMIDOTHION
+Phosphorothioate de O,O-diméthyle et de S-(2-(1-méthylcarbamoyléthylthio)éthyle); Thiophosphate de O,O-diméthyle et de S-2-(1-N-méthylcarbamoyléthylmercapto)éthyle; N-Méthyl O,O-diméthylthiolophosphoryl-5-thia-3-méthyl-2-valéramide
+0759  4-AMINOBIPHENYLE
+4-Biphénylylamine; p-Biphénylamine
+0760  CHLOROACETONE
+Chloracétone
+0761  HYDROPEROXYDE DE CUMENE
+Hydroperoxyde de alpha,alpha-diméthylbenzyle; Hydroperoxyde de cumyle
+0762  1,3-CYCLOHEXADIENE
+0763  DIFENAMIDE
+2,2-Diphényl-N,N-diméthylacétamide; N,N-Diméthyl-2,2-diphénylacétamide
+0764  CHLORURE DE MAGNESIUM
+0765  ARSENATE DE CALCIUM
+Arséniate de calcium; Arséniate tricalcique; Sel calcique de l'acide arsénique
+0766  NINHYDRINE
+Indane-1,2,3-trione
+0767  PARAFORMALDEHYDE
+0768  ACIDE PHTALIQUE
+Acide benzène-ortho-di-carboxylique; Acide ortho-phtalique
+0769  OXYDE DE POTASSIUM
+Monoxyde de potassium; Oxyde de dipotassium
+0770  ACIDE PYROGALLIQUE
+1,2,3-Benzènetriol; Pyrogallol
+0771  METHYLATE DE SODIUM
+Méthoxyde de sodium; Méthanolate de sodium
+0772  ACIDE TARTARIQUE
+Acide DL-tartarique; Acide (+-)-tartrique
+0773  ACIDE P-TOLUENESULFONIQUE (max 5% acide sulfurique)
+Acide méthyl-4 benzène sulfonique; Acide toluène-4-sulfonique
+0774  ALDRINE
+HHDN; Hexachloro-1,2,3,4,10,10-hexahydro-1,4,4a,5,8,8a-exo-1,4-endo-5,8-diméthanonaphthalène
+0775  ANTIMOINE
+Antimoine noir
+0776  STIBINE
+Hydrure d'antimoine; Trihydrure d'antimoine; Hydrogène antimonié
+0777  CARBONATE DE BARYUM
+0778  OXYDE DE BARYUM
+Monoxyde de baryum
+0779  p-BENZOQUINONE
+Quinone; 1,4-Benzoquinone
+0780  CHLORANILE
+2,3,5,6-Tétrachloro-p-benzoquinone; Tétrachloro-p-benzoquinone; Tétrachloro-p-quinone
+0781  CHLORURE DE CHLORMEQUAT
+Chlorure de 2-chloroéthyltriméthylammonium
+0782  COBALT
+0783  CHLORURE DE COBALT (II)
+Dichlorure de cobalt
+0784  NITRATE DE COBALT(II), HEXAHYDRATE
+0785  OXYDE DE COBALT (III)
+Trioxyde de dicobalt; Trioxyde de cobalt
+0786  DAZOMET
+3,5-Diméthyl-1,3,5-thiadiazine-2-thione; Tétrahydro-3,5-diméthyl-1,3,5-thiadiazine-2-thione
+0787  DIELDRINE
+HEOD; Hexachloro-1,2,3,4,10,10-époxy-6,7-octahydro-1,4,4a,5,6,7,8,8a-endo-1,4-exo-5,8-diméthanonaphthalène
+0788  ETHER DE DIETHYLENE GLYCOL MONOBUTYLIQUE
+Ether monobutylique du diéthylène glycol
+0789  ACETATE DE L'ETHER BUTYLIQUE DU DIETHYLENE GLYCOL
+Acétate de 2-(2-butoxyéthoxy)éthyle; Acétate de butylcarbitol; Acétate de butyldiglycol
+0790  GLYCEROL D'ISOPROPYLIDENE
+2,2-Diméthyl-1,3-dioxolanne-4-ylméthanol
+0791  DIPHENYLETHER
+Oxyde de diphényle; Phénoxybenzène; Ether diphénylique
+0792  FERBAME
+Diméthyldithiocarbamate ferrique; Tris(diméthyldithiocarbamate) de fer
+0793  OXYDE FERREUX
+Monoxyde ferreux; Oxyde de fer (II)
+0794  ALCOOL FURFURYLIQUE
+2-Furanneméthanol
+0795  ALPHA-HEXACHLOROCYCLOHEXANE
+1-alpha,2-alpha,3-beta,4-alpha,5-bêta,6-bêta-Hexachlorocyclohexane
+0796  BETA-HEXACHLOROCYCLOHEXANE
+1-alpha,2-bêta,3-alpha,4-bêta,5-alpha,6-bêta-Hexachlorocyclohexane
+0797  PHOSALONE
+Dithiophosphate de O,O-diéthyle et de S-(6-chloro-2-oxo-2H-benzo(b) 1,3-oxazole-3-yl)méthyle
+0798  ALCOOL ISOAMYLIQUE PRIMAIRE
+3-Méthyl-1-butanol; 3-Méthylbutane-1-ol; Alcool isopentylique
+0799  ANHYDRIDE MALEIQUE
+2,5-Furanedione; Anhydride cis-butènedioïque; Anhydride de l'acide maléique
+0800  ACTETATE DE L'ETHER MONOMETHYLIQUE DU PROPYLENE GLYCOL
+Acétate de 2-méthoxy-1-méthyléthyle
+0801  2-METHYLPYRIDINE
+2-Picoline; alpha-Picoline; o-Picoline
+0802  3-METHYLPYRIDINE
+3-Picoline; bêta-Picoline; m-Picoline
+0803  4-METHYLPYRIDINE
+4-Picoline; gamma-Picoline; p-Picoline
+0804  4-NITRO-N-PHENYLBENZENAMINE
+4-Nitrodiphénylamine; 4-Nitro-N-phénylaniline; p-Nitrodiphénylamine
+0805  1,4-BENZENEDIAMINE
+1,4-Diaminobenzène; p-Phénylènediamine; 4-Aminoaniline
+0806  ACIDE PROPIONIQUE
+Acide éthylformique; Acide méthylacétique; Acide propanoïque
+0807  TRIDYMITE
+Silice, tridymite
+0808  QUARTZ
+Silice, cristalline
+0809  CRISTOBALITE
+Silice, cristobalite
+0810  ARGENT
+0811  CHROMATE DE ZINC
+Oxyde de chrome zinc; Tétraoxychromate de zinc; Sel de zinc de l'acide chromique (1:1)
+0812  CETENE
+Carbométhène; Ethénone; Cétoéthylène
+0813  HYDRURE DE LITHIUM
+0814  OXYDE DE MESITYLE
+4-Méthyl-pent-3-ène-2-one; Méthylisobutènylcétone
+0815  METHYL ISOAMYL CETONE
+5-Méthylhexane-2-one; 5-Méthyl-2-hexanone
+0816  METHYL PROPYL CETONE
+2-Pentanone; Pentane-2-one; MPC
+0817  NITROETHANE
+0818  DIFLUORURE D'OXYGENE
+Fluorure d'oxygène; Monoxyde de fluor; Monoxyde de difluor
+0819  PENTABORANE
+Nonahydrure de pentabore
+0820  DIOXYDE DE VINYLCYCLOHEXENE
+7-Oxa-3-oxirannylbicyclo(4.1.0)heptane; 1-Epoxyéthyl-3,4-époxycyclohexane; Diépoxyde de vinylcyclohexène
+0821  WARFARINE
+Coumafène; 4-Hydroxy-3-(3-oxo-1-phénylbutyl)coumarine
+0822  ACIDE 2-ACETYLOXYBENZOIQUE
+Acide acétylsalicylique; Acide 2-acétoxybenzoïque; Aspirine
+0823  ALLYLAMINE
+2-Propèn-1-amine; 3-Aminopropylène; 3-Aminopropène
+0824  2-AMINOPHENOL
+2-Aminophénol
+0825  ANTHRACENE
+Anthracine; Paranaphthalène
+0826  AZINPHOS-METHYL
+Dithiophosphate de O,O-diméthyle et de 4-oxobenzotriazine-3-ylméthyle
+0827  SULFATE DE BARYUM
+Barytine; Blanc fixe
+0828  BENTAZONE
+2,2-Dioxyde de 3-isopropyl-2,1,3-benzothiadiazine-4-one; Bendioxyde
+0829  PHTALATE DE DIISOBUTYLE
+Ester diisobutylique de l'acide phtalique
+0831  PHTHALATE DE DIISONONYLE
+0832  PHTALATE DE DIHEPTYLE
+Ester diheptylique de l'acide phtalique
+0833  ALCOOL BENZYLIQUE
+Phénylméthanol; a-Hydroxytoluène
+0834  PHTALATE DE BENZYLE ET DE BUTYLE
+0835  BINAPACRYL
+3-Méthylcrotonate de 2-sec-butyl-4,6-dinitrophényle
+0836  OXYDE DE BORE
+Acide borique; Trioxyde de dibore; Anhydride borique
+0837  BROMOTRIFLUOROMETHANE
+Trifluorobromométhane; Fluorocarbone-1301; Fréon-13B1
+0839  ACETATE DE 2-BUTOXYETHYLE
+Acétate de butylglycol; Acétate d'éther monobutylique de l'éthylène glycol
+0840  ACETATE DE BUTYLE SECONDAIRE
+Acétate de 1-méthylpropyle; Ester sec-butylique de l'acide acétique
+0841  HYDROXYTOLUENE BUTYLE
+2,6-Di-tert-butyl-4-méthylphénol; Di-tert-butyl-2,6 p-crésol; BHT
+0842  HYDROPEROXYDE DE tert-BUTYLE (SOLUTION AQUEUSE A 70 %)
+0843  CAMPHECHLORE
+Toxaphène; Camphène chloré (60%); Polychlorocamphène
+0844  CHLOROACETONITRILE
+Nitrile monochloroacétique
+0845  CHLORURE DE CHLOROACETYLE
+Chlorure de l'acide monochloroacétique; Chlorure de monochloroacétyle
+0846  1-CHLORO-4-NITROBENZENE
+para-Chloronitrobenzène; PCNB; PNCB; p-Nitrochlorobenzène
+0847  POUDRE D'HAFNIUM (pyrophorique)
+0848  CHLOROPENTAFLUOROETHANE
+1-Chloro-1,1,2,2,2-pentafluoroéthane; Fluorocarbone 115; Fréon-115
+0849  o-CHLOROPHENOL
+2-Chlorophénol
+0850  p-CHLOROPHENOL
+4-Chlorophénol
+0851  CHLORPYRIFOS
+Thiophosphate de O,O-diéthyle et de O-3,5,6-trichloro-2-pyridyle; Chlorpyriphos
+0853  CHLORURE DE CHOLINE
+Chlorure de (2-hydroxyéthyl)triméthylammoniaque; Hydrochlorure de choline
+0854  CHLORURE DE CHROMYLE
+Oxychlorure de chromyle; Dichlorure de chromyle
+0855  ACIDE CITRIQUE
+Acide citrique anhydre; Acide 2-hydroxy-1,2,3-propanetricarboxylique
+0856  ISOCYANATE DE CYCLOHEXYLE
+Isocyanatocyclohexane; Ester cyclohexylique de l'acide isocyanique; CHI
+0857  CYCLOPENTADIENE
+1,3-Cyclopentadiène; Pentole; Pyropentylène
+0858  CYHALOTHRINE
+3-(2-Chloro-3,3,3-trifluoroprop-1-ènyl)-2,2-diméthylcyclopropanecarboxylate de alpha-cyano-3-phénoxybenzyle
+0859  LAMBDA-CYHALOTHRINE
+0860  FLUORURE D'ETAIN
+Difluorure d'étain; Bifluorure d'étain
+0861  DEMETON (MELANGE D'ISOMERES)
+0862  METHYL DEMETON
+Thiophosphate de S-2-éthylthioéthyle et de 0,0-diméthyle
+0864  DEMETON-S
+Thiophosphate de diéthyle et de S-2-éthylthioéthyle
+0865  DEXTROSE
+Dextrose
+0866  DIALLYLAMINE
+0867  DICHLOBENIL
+2,6-Dichlorobenzonitrile; DBN
+0868  ACIDE DICHLOROACETIQUE
+Acide acétique dichloré
+0869  CHLORURE DE 2,2-DICHLOROACETYLE
+Chlorure de dichloroacétyle
+0870  DICHLORODIMETHYLSILANE
+Diméthyldichlorosilane
+0871  DICLORAN
+2,6-Dichloro-4-nitroaniline; 2,6-Dichloro-4-nitrobenzènamine; CNA
+0872  DICROTOPHOS
+Phosphate de (E)-2-diméthylcarbamoyl-1-méthylvinyle et de diméthyle
+0873  DICYCLOPENTADIENE
+3a,4,7,7a-Tétrahydro-4,7-méthanoindène; 3a,4,7,7a-Tétrahydro-4,7-méthano-1H-indèn
+0874  3-PENTANONE
+Diéthylcétone; Diméthylacétone; Méthacétone
+0875  PHTALATE DE DIISODECYLE
+Ester diisodécylique de l'acide 1,2-benzènedicarboxylique
+0876  PHTALATE DE DIISOOCTYLE
+Ester diisooctylique de l'acide 1,2-benzènedicarboxylique
+0877  N,N-DIMETHYLANILINE
+N,N-Diméthylphénylamine
+0878  SULFURE DE DIMETHYLE
+Diméthylsulfure; Sulfure de méthyle; Méthylthiométhane; Sulfure diméthylique
+0879  2,4,5-TRICHLOROPHENOL
+2,4,5-TCP
+0880  OXYGENE (LIQUEFIE)
+Oxygène, liquide réfrigéré
+0881  DINOCAP (MELANGE D'ISOMERES)
+0882  ACETATE DE DINOSEBE
+Acétate de sec-butyle-2 dinitro-4,6 phénol
+0883  DIOXATHION (MELANGE D'ISOMERES)
+Di(dithiophosphate) de 1,4-dioxane-2,3-diyle et de O,O,O',O'-tétraéthyle
+0884  MONOMETHYLETHER DE DIPROPYLENE GLYCOL
+(2-Méthoxyméthyléthoxy)propanol; DPGME
+0885  DIVINYLBENZENE (MELANGE D'ISOMERES)
+Vinylstyrène; DVB
+0886  ACIDE EDETIQUE
+N,N'-1,2-Ethanediylbis(N-carboxyméthyl)-glycine; Acide éthylènediaminetétraacétique; EDTA
+0887  ENFLURANE
+Ethrane; 2-Chloro-1-(difluorométhoxy)-1,1,2-trifluoroéthane; Ether 2-chloro-1,1,2-trifluoroéthyl difluorométhylique
+0888  ETHION
+Diéthion; Bis(dithiophosphate de O,O-diéthyle) de S,S'-méthylène
+0889  n-BUTYL ETHYLCETONE
+3-Heptanone
+0890  2-ETHYLHEXANOL
+2-Ethyl-1-hexanol; Alcool 2-éthylhexylique
+0891  FORMAMIDE
+Méthanamide; Carbamaldéhyde
+0892  D-SORBITOL
+D-glucitol; Alcool hexahydrique; Glucitol
+0893  GRAPHITE (NATUREL)
+Mine de plomb; Plombagine
+0894  CHLORURE DE GUANIDINE
+0895  HEXACHLOROBENZENE
+Perchlorobenzène
+0896  HEXACHLOROBUTADIENE
+1,1,2,3,4,4-Hexachloro-1,3-butadiène; Hexachlorobuta-1,3-diène; Perchlorobutadiène
+0897  SULFATE D'HYDROXYLAMINE (1:1)
+Hydrogénsulfate d’hydroxylammonium
+0898  SULFATE D'HYDROXYLAMINE
+Disulphate d'hydroxylamine
+0899  ACRYLATE DE 2-HYDROXYPROPYLE
+Acrylate de bêta-hydroxypropyle; Monoacrylate de propylène glycol; Ester 2-hydroxypropylique de l'acide acrylique
+0900  IOXYNIL
+4-Hydroxy-3,5-diiodobenzonitrile
+0901  ISOBUTANE
+2-Méthylpropane; Triméthyl méthane
+0902  ISOBUTYRALDEHYDE
+2-Méthylpropanal; Isobutanal
+0903  ACIDE ISOBUTYRIQUE
+Acide 2-méthylpropanoïque
+0904  ISOPRENE
+2-Méthyl-1,3-butadiène
+0905  ISOPROPANOLAMINE
+1-Amino-2-propanol
+0906  ETHER ISOPROPYLIQUE
+Oxyde de di-n-propyle; Oxyde de diisopropyle; Ether propylique
+0907  ACETATE D'ISOPROPYLE
+0908  ISOPROPYLAMINE
+2-Propanamine; 2-Aminopropane
+0909  N-ISOPROPYLANILINE
+N-Phénylisopropylamine
+0910  ACETATE DE PLOMB
+Di(acétate) de plomb
+0911  ARSENATE DE PLOMB
+Arsénate de plomb acide; Hydrogénoarsénate de plomb
+0912  LINALOL
+3,7-Diméthyl-1,6-octadiène-3-ol; Alcool linalylique
+0913  HYDROXYDE DE LITHIUM
+0914  HYDROXYDE DE LITHIUM, MONOHYDRATE
+0915  ACIDE MERCAPTOACETIQUE
+Acide thioglycolique; Acide 2-mercaptoéthanoïque
+0916  2-MERCAPTOETHANOL
+Thioglycol
+0917  ACIDE 2-METHYL-2-PROPENOIQUE
+Acide méthacrylique; Acide alpha-méthylacrylique
+0918  D-LIMONENE
+(R)-p-Mentha-1,8-diène; (+)-Limonène
+0919  DL-METHIONINE
+Acide 2-amino-4-(méthylthio)butyrique
+0920  METHYL n-AMYLCETONE
+2-Heptanone; Amyl méthylcétone; Méthyl pentylcétone
+0921  N-METHYLANILINE
+N-Méthylbenzèneamine; Monométhylaniline; N-Méthylphénylamine
+0922  3-METHYL-2-BUTANONE
+Méthylisopropylcétone
+0923  METHYLCYCLOHEXANE
+Hexahydrotoluène
+0924  MEVINPHOS (MELANGE D'ISOMERES)
+Phosphate de 2-méthoxycarbonyl-1-méthylvinyle et de diméthyle
+0925  NALED
+Phosphate de O-1,2-dibromo-2,2-dichloroéthyle et de O,O-diméthyle
+0926  OXYDE DE NICKEL(II)
+Monoxyde de nickel
+0927  CARBONATE DE NICKEL
+Carbonate de nickel (II)
+0928  DISULFURE DE TRINICKEL
+Sous-sulfure de nickel; Disulfure de trinickel; Cf Notes
+0929  NITROFENE
+Oxyde de 2,4-dichlorophényle et de 4-nitrophényle
+0930  DIOXYDE D'AZOTE
+Peroxyde d'azote
+0931  o-NITROTOLUENE
+2-Nitrotoluène; 1-Méthyl-2-nitrobenzène; o-Méthylnitrobenzène
+0932  p-NITROTOLUENE
+4-Nitrotoluène; 1-Méthyl-4-nitrobenzène; p-Méthylnitrobenzène
+0933  OCTANE
+n-Octane
+0934  1-OCTENE
+1-Octylène
+0935  PENTACHLORONAPHTHALENE
+0936  ALCOOL PHENYLETHYLIQUE
+2-Phényléthane-1-ol; 2-Phényléthanol
+0937  PHENOTHIAZINE
+Dibenzothiazine; Thiodiphénylamine
+0938  PHENYLHYDRAZINE
+Hydrazinobenzène; Monophénylhydrazine
+0939  DIPHENYLES POLYCHLORES (AROCLOR 1254)
+Biphényles chlorés (54% de chlore); Dérivés chloro du 1,1'-biphényle (54% chlore); PCB
+0940  ACETATE DE n-PROPYLE
+1-Acétoxypropane; Acétate de propyle; Ester n-propylique de l'acide acétique
+0941  n-PROPYLAMINE
+Propylamine; 1-Aminopropane
+0942  PROPYLENEDIAMINE
+Propylène-1,2 diamine; 1,2-propanediamine
+0943  DIACETATE DE PROPYLENE GLYCOL
+1,2-Diacétoxypropane; 1,2-Propylène diacétate; Diacétate de propane-1,2-diyle
+0944  ROTENONE
+(2R,6aS,12aS)-1,2,6,6a,12,12a-Hexahydro-2-isopropényl-8,9-diméthoxychromomèno(3,4-b)furo(2,3-h)chromène-6-one
+0945  ACIDE SELENIEUX
+Dioxyde de sélénium, monohydraté
+0946  DIOXYDE DE SELENIUM
+Anhydride sélénieux; Oxyde de sélénium
+0947  HEXAFLUORURE DE SELENIUM
+Fluorure de sélénium
+0948  OXYCHLORURE DE SELENIUM
+Dichlorure de séléninyle
+0949  TRIOXYDE DE SELENIUM
+Anhydride sélénique
+0950  AZIDE DE SODIUM
+Azoture de sodium
+0951  FLUORURE DE SODIUM
+0952  SULFATE DE SODIUM
+Sulfate de sodium anhydre; Sulfate de disodium
+0953  CHLORURE D'ETAIN (ANHYDRE)
+Tétrachlorure d'étain; Chlorure d'étain (IV)
+0954  OXYDE STANNIQUE
+Oxyde d'étain (IV); Anhydride stannique; Dioxyde d'étain
+0955  CHLORURE STANNEUX (ANHYDRE)
+Dichlorure d'étain; Protochlorure d'étain
+0956  OXYDE STANNEUX
+Monoxyde d'étain; Protoxyde d'étain; Oxyde d'étain (II)
+0957  CHROMATE DE STRONTIUM
+Strontium jaune
+0958  MONOCHLORURE DE SOUFRE
+Chlorure de soufre; Dichlorure de disoufre
+0959  TETRYL
+N-Méthyl-N,2,4,6-tétranitroaniline; Picrylnitrométhylamine
+0960  o-TOLIDINE
+4,4'-bis-o-Toluidine; 3-3'-Diméthylbenzidine
+0961  PHOSPHATE DE TRI-o-TOLYLE
+Phosphate de tritolyle; Phosphate de tricrésyle; TOCP
+0962  TRICHLORONAPHTHALENE
+0963  ESTER 2-BUTOXYETHYLIQUE DU TRICLOPYR
+[ (3,5,6-trichloropyridin-2-yl)oxy]acétate de 2-butoxyéthyle; Triclopyr-butotyl; Ester 2-butoxyéthylique de l’acide ((3,5,6-trichloro-2-pyridinyl)oxy)acétique
+0964  PHOSPHITE DE TRIS(NONYLPHENYLE)
+TNPP; Phosphite de nonylphénol (1:3); Tris(nonylphényl)phosphite
+0965  ETHER MONOBUTYLIQUE DU TRIETHYLENEGLYCOL
+Ether monobutylique du triglycol; Butoxytriglycol; 2-(2-(2-Butoxyéthoxy)éthoxy)éthanol
+0966  TRIMETHYLCHLOROSILANE
+Chlorotriméthylsilane
+0967  2,4,6-TRINITROTOLUENE
+2-Méthyl-1,3,5-trinitrobenzène; alpha-Trinitrotoluol; TNT
+0968  PHOSPHATE DE TRIS(2-ETHYLHEXYLE)
+Ester tris(2-éthylhexylique) de l'acide phosphorique
+0969  CARBONATE DE MAGNESIUM
+Magnésite; Sel de magnésium de l'acide carbonique
+0970  o-ANISIDINE
+2-Méthoxybenzèneamine; 2-Méthoxyaniline; 2-Aminoanisole
+0971  p-ANISIDINE
+4-Méthoxybenzèneamine; 4-Méthoxyaniline; 4-Aminoanisole
+0973  alpha-NAPHTYLTHIOUREE
+Antu; 1-(1-Naphtyl)-2-thiourée; 1-Naphtylthiourée
+0974  PENTAFLUORURE DE BROME
+0976  CARBONYLE DE COBALT
+Octacarbonyle de cobalt; Tétracarbonyle de cobalt
+0977  CYCLOPENTADIENYL TRICARBONYLE DE MANGANESE
+Tricarbonyl(êta-cyclopentadiényl)manganèse
+0978  ACETATE MERCURIQUE
+Acétate de mercure (II); Di(acétate) de mercure
+0979  CHLORURE MERCURIQUE
+Dichlorure de mercure; Chlorure de mercure (II)
+0980  NITRATE MERCURIQUE
+Nitrate de mercure (II); Dinitrate de mercure
+0981  OXYDE MERCURIQUE
+Oxyde de mercure (II); Oxyde de mercure; Monoxyde de mercure
+0982  SULFATE MERCURIQUE
+Sulfate de mercure
+0983  PYROPHOSPHATE DE TETRAPOTASSIUM
+Pyrophosphate de potassium; Sel de tétrapotassium de l'acide pyrophosphorique
+0984  CHLORURE MERCUREUX
+Dichlorure de mercure; Calomel
+0985  SULFOTEP
+Ester tétraéthylique de l'acide thiodiphosphorique; Dithiopyrophosphate de O,O,O,O-tétraéthyle; Dithiopyrophosphate de tétraéthyle
+0986  TELLURE
+0987  STEARATE DE ZINC
+Distéarate de zinc
+0988  ALUMINIUM EN POUDRE (pyrophorique)
+Poudre d'aluminium
+0990  CHLOROFORMIATE DE BENZYLE
+0991  ACIDE BORIQUE
+Acide boracique; Acide orthoborique
+0992  MOLYBDATE DE CALCIUM
+Oxyde de calcium et de molybdène; Molybdate de calcium (VI); Sel de calcium de l’acide molybdique (1:1)
+0995  1,3-DICHLOROPROP-1-ENE (MELANGE D'ISOMERES)
+1,3-Dichloropropylène; Dichloropropène
+0996  ACIDE FLUOROSULFONIQUE
+Acide fluorosulfurique; Acide fluosulfonique
+0997  HEXACHLORONAPHTHALENE
+0999  CARBONATE DE PLOMB
+Carbonate de plomb (2+); Céruse
+1000  NITRATE DE PLOMB
+Dinitrate de plomb; Azotate de plomb
+1001  DIOXYDE DE PLOMB
+Bioxyde de plomb; Oxyde de plomb (VI)
+1002  TETRAOXYDE DE PLOMB
+Oxyde de plomb; Oxyde de plomb rouge
+1003  MOLYBDENE
+1005  ACIDE OLEIQUE
+1006  ACIDE PERCHLORIQUE (SOLUTION A 72% )
+1007  CHLOROFORMIATE DE PHENYLE
+Chlorocarbonate de phényle; Ester phénylique de l’acide chloroformique; Chlorure de phénoxycarbonyle; Ester phénylique de l’acide carbonochloridique
+1008  ACIDE PHOSPHORIQUE
+Acide orthophosphorique
+1009  IODURE DE SODIUM
+Monoiodure de sodium
+1010  MOLYBDATE DE SODIUM (VI)
+Molybdate de disodium
+1012  NITRITE D'AMYLE
+Nitrite d'amyle (mélange d'isomères); Ester 3-méthylbutylique de l'acide nitreux; Nitrite de 3-méthylbutanol
+1013  CHLORHYDRATE D'ANILINE
+Chlorhydrate de benzèneamine; Chlorure d'anilinium; Sel d'aniline
+1014  ANISOLE
+Ether de phényle et de méthyle; Méthoxybenzène
+1015  CHLORURE DE BENZOYLE
+1016  BROMOBENZENE
+Monobromobenzène; Phénylbromide
+1017  BRUCINE, ANHYDRIQUE
+10,11-Diméthoxystrychnine; 2,3-Diméthoxystrychnidin-10-one; 2,3-Diméthylstrychnine; Diméthoxystrychnine
+1018  METHACRYLATE DE BUTYLE
+2-Méthyl butylacrylate; Ester butylique de l'acide méthacrylique
+1019  PEROXYDE DE DI-TERT-BUTYLE
+Bis(1,1-diméthyléthyl)peroxyde; Peroxyde de butyle tertiaire
+1020  gamma-BUTYROLACTONE
+Tétrahydro-2-furanone; Dihydro-2(3H)-furanone
+1021  CAMPHRE
+2-Bornanone; 2-Camphanone; 1,7,7-Triméthylbicyclo(2,2,1)heptan-2-one
+1022  CARBONATE DE DIETHYLE
+Ester diéthylique de l'acide carbonique; Carbonate d'éthyle; Ether carbonique
+1023  ENDRINE
+1024  ACETOACETATE D'ETHYLE
+Ester éthylique de l'acide acétoacétique; Acétylacétate d'éthyle; 3-Oxobutanoate d'éthyle
+1025  CHLOROFORMIATE D'ETHYLE
+Chlorocarbonate d'éthyle; Ester éthylique de l'acide chloroformique; Chlorométhanoate d'éthyle
+1026  2-CYANOETHANOL
+3-Hydroxypropionitrile; Alcool 2-cyanoéthylique
+1027  ISOBUTENE
+Isobutylène; 2-Méthylpropène
+1028  PEROXYDE DE METHYL ETHYL CETONE (Produit Technique)
+2-Butanone peroxyde; Hydroperoxyde de méthyl éthyl cétone; MEKP
+1029  PROPIONATE DE METHYL
+1030  1-OCTANOL
+Alcool caprylique; n-Octanol; 1-Hydroxyoctane; Alcool octylique
+1031  ACIDE PERACETIQUE (stabilisé)
+Acide peroxyacétique; Hydroperoxyde d'acétyle
+1032  PIPERAZINE (anhydre)
+Antiren; 1,4-Diazacyclohexane; 1,4-Diéthylènediamine; Diéthylèneimine; Hexahydropirazine
+1033  RESORCINOL
+1,3-Dihydroxybenzène; 1,3-Benzènediol; Hydroxy-3-phénol; Résorcine
+1034  TRIETHANOLAMINE
+2,2',2"-Nitrilotriéthanol; Trihydroxytriéthylamine
+1035  BISULFURE D'AMMONIUM
+1036  OXALATE D'AMMONIUM
+Sel de diammonium de l'acide oxalique; Oxalate de diammonium
+1037  NITRATE DE CALCIUM
+Dinitrate de calcium; Nitrate de calcium (II)
+1038  POLYSULFURE DE CALCIUM
+1039  ACIDE CHLOROSULFONIQUE
+1040  ACIDE FLUOROBORIQUE (solution aqueuse >= 25%)
+Acide fluoborique; Acide tétrafluoroborique; Acide borofluorohydrique; Acide hydrofluoborique
+1041  NITRATE DE MAGNESIUM
+Sel de magnesium de l'acide nitrique
+1042  PARALDEHYDE
+p-Acétaldéhyde; Paracétaldéhyde; 2,4,6-Triméthyl-1,3,5-trioxane
+1043  POLYSTYRENE
+Polymère d'éthénylbenzène
+1044  BICARBONATE DE SODIUM
+Bicarbonate de soda; Bicarbonate de soude
+1045  CHLORITE DE SODIUM
+Chlorite de soude
+1046  PERBORATE DE SODIUM TETRAHYDRATE
+1047  SULFURE DE SODIUM (ANHYDRE)
+Monosulfure de sodium
+1048  TRIBUTYLAMINE
+Tri-n-butylamine; N,N-Dibutyl-1-butanamine
+1049  TRICHLORO-1,2,4 BENZENE
+1050  1-NITROPROPANE
+1-NP
+1051  CHLORURE D'AMMONIUM
+Chlorhydrate d'ammoniaque; Sel ammoniac
+1052  BARYUM
+1053  CHLORURE DE CYANOGENE
+Chlorocyanure
+1054  CYCLOHEXENE
+Tétrahydrobenzène
+1055  DIPROPYLENE GLYCOL
+Ether 2,2'-dihydroxydipropylique; 1,1'-Diméthyldiéthylène glycol; 1,1'-Oxydipropane-2-ol
+1056  DINITRATE D'ETHYLENEGLYCOL
+Dinitrate de Glycol; Dinitrate d'éthylène; Nitroglycol
+1057  HEXAFLUOROACETONE
+Perfluoroacétone
+1059  OCTACHLORONAPHTHALENE
+1060  PHORATE
+Phosphorodithioate de O,O-diéthyle et de S-(éthylthio)méthyle
+1061  CARBURE DE SILICIUM (NON FIBREUX)
+Carbure de silicium
+1062  PHOSPHATE DE TRIPHENYLE
+Ester triphénylique de l'acide phosphorique; TPP
+1063  ESSENCE DE TEREBENTHINE
+Térébenthine
+1064  DICHLORURE DE ZINC
+Chlorure de zinc
+1065  o-CHLOROBENZYLIDENEMALONONITRILE
+2-(Chlorophényl)méthylènemalononitrile; 2-Chlorobenzylidènemalononitrile; o-Chlorobenzalmalononitrile; bêta,bêta-Dicyano-o-chlorostyrène; (2-Chlorophényl)méthylènepropanedinitrile; Gaz CS
+1066  1,2-DICHLOROBENZENE
+ortho-Dichlorobenzène
+1068  p-tert-BUTYLTOLUENE
+1-Méthyl-4-tert-butylbenzène; 4-tert-Butyltoluène; p-TBT
+1069  NITRITE DE POTASSIUM
+Sel potassique de l'acide nitreux
+1070  ACETAL DIETHYLIQUE
+1,1-Diéthoxyéthane; Ether diéthylique d'éthylidène; Acétal; Diéthylacétal de l'acétaldéhyde
+1071  ETHER ALLYLIQUE
+Ether diallylique; Ether d'allyle
+1073  ACETATE DE BARYUM
+Diacétate de baryum
+1074  BROMOACETONE
+Bromo-2-propanone; Bromure d’acétylméthyle
+1075  ACETATE DE CADMIUM
+1076  CHLORONITROANILINE
+2-Chloro-4-nitroaniline; 1-Amino-2-chloro-4-nitrobenzène; o-Chloro-p-nitroaniline; 2-Chloro-4-nitro-benzèneamine
+1078  1,3-DIAMINOBUTANE
+1-Méthyltriméthylènediamine
+1079  SUCCINATE DE DIETHYLE
+Ester diéthylique de l’acide butanedioïque; Butanedioate de diéthyle; Ester diéthylique de l’acide succinique
+1080  CARBONATE DE DIMETHYLE
+Ester diméthylique de l’acide carbonique; Carbonate de méthyle
+1081  CHLORACETATE D'ETHYLE
+1082  1-HEPTANOL
+n-Heptan-1-ol; Alcool n-heptylique; 1-Hydroxyheptane; n-Heptanol
+1083  2-HEPTANOL
+Alcool heptylique secondaire; 1-Méthylhexanol
+1084  1-HEXANOL
+Alcool hexylique; n-Hexanol; Alcool hexylique normal; Alcool caproylique
+1085  ACIDE MALONIQUE
+Acide carboxyacétique; Acide propanedioique; Acide méthanedicarboxylique
+1086  ACETOACETATE DE METHYLE
+Ester méthylique de l'acide acétoacétique
+1087  N-METHYLFORMAMIDE
+Méthylformamide; Monométhylformamide; Formylméthylamine
+1088  THIOCYANATE DE POTASSIUM
+Sulfocyanate de potassium; Potassium sulfocyanate
+1089  2,3,4,6-TETRACHLOROPHENOL
+2,4,5,6-Tétrachlorophénol; 1-Hydroxy-2,3,4,6-tétrachlorobenzène
+1090  AZOBIS(ISOBUTYRONITRILE)
+2,2'-Azobis(2-méthylpropanenitrile); 2,2'-Azodiisobutyronitrile; 2,2'-Diméthyl-2,2'azodipropionitrile
+1091  BENZOTRIAZOLE
+1H-Benzotriazole; 1,2,3-Triazaindène; 1,2,3-Benzotriazole; Azimidobenzène; 1,2-Aminoazophénylène
+1092  ACETATE DE CALCIUM
+Sel calcique de l'acide acétique
+1093  NAPHTENATE DE COBALT
+Sel de cobalt de l'acide naphténique
+1095  1,3-DICHLOROBENZENE
+m-Dichlorobenzène
+1096  HEXACHLOROCYCLOPENTADIENE
+1,2,3,4,5,5-Hexachloro-1,3-cyclopentadiène; Perchlorocyclopentadiène
+1097  4-METHOXYPHENOL
+Ether monométhylique d'hydroquinone; Méquinol
+1098  4-METHOXY-4-METHYL-2-PENTANONE
+4-Méthoxy-4-méthylpentane-2-one; 4-Méthoxy-4-méthylpentanone-2
+1099  CHLORURE DE TETRAMETHYLAMMONIUM
+Chlorure de N,N,N-triméthylméthanamium; Chlorure de tétramine
+1100  TRICLOPYR
+Acide 3,5,6-trichloro-2-pyridyloxyacétique; Acide ((3,5,6-trichloropyridin-2-yl)oxy)acétique
+1103  BENZONITRILE
+1104  1,4-BUTANEDIOL
+1,4-Butylène glycol; 1,4-Dihydroxybutane; 1,4-Tétraméthylène glycol; Butane-1,4-diol
+1105  COUMARINE
+1,2-Benzopyrone
+1106  DICHLOROMONOFLUOROMETHANE
+Fluorodichlorométhane; Fluorocarbone 21; Réfrigérant 21
+1107  2,4-DINITROANILINE
+2,4-Dinitrobenzènamine; 2,4-Dinitrophénylamine
+1108  N-ISOPROPYL-N'-PHENYL-p-PHENYLENEDIAMINE
+4-(Isopropylamino)diphénylamine; N-(1-Méthyléthyl)-N'-phényl-1,4-benzènediamine
+1109  CARBONATE DE LITHIUM
+Sel de lithium de l'acide carbonique; Carbonate de dilithium
+1110  CHLOROFORMIATE DE METHYLE
+Chlorocarbonate de méthyle; Chlorure de méthoxycarbonyle
+1111  4,4'-METHYLENEDIANILINE
+4,4'-Diaminodiphénylméthane; p,p'-Diaminodiphénylméthane; MDA; DDM; DADP
+1112  N,N'-ETHYLENE BIS(STEARAMIDE)
+N,N'-Ethylènedi(stéaramide); N,N'-Ethylène bis(octadecanamide)
+1113  N-PHENYL-1-NAPHTHYLAMINE
+N-1-Naphthylaniline; N-Phényl-alpha-naphthylamine
+1114  FLUORURE DE PERCHLORYLE
+Oxyfluorure de chlore; Trioxychlorofluorure
+1115  BROMATE DE POTASSIUM
+1116  NITRATE D'ARGENT
+1117  CHLORATE DE SODIUM
+Sel sodique de l'acide chlorique
+1118  CYANURE DE SODIUM
+1119  HYPOCHLORITE DE SODIUM (SOLUTION, CHLORE ACTIF > 10%)
+Oxychlorure de sodium
+1120  NITRITE DE SODIUM
+1121  SUCCINONITRILE DE TETRAMETHYLE
+1122  2,4,6-TRICHLOROPHENOL
+1123  TRIETHYLENETETRAMINE
+Trientine; 3,6-Diazaoctane-1,8-diamine
+1124  PHOSPHITE DE TRIPHENYLE
+1125  CHLORURE D'ALUMINIUM (ANHYDRE)
+Trichlorure d’aluminium; Chlorure d’aluminium (3:1); Chlorure d’aluminium (anhydre)
+1126  PHOSPHIDE DE CALCIUM
+1127  SULFATE DE COBALT
+Sulfate de cobalt (II)
+1128  ACETATE COBALTEUX TETRAHYDRATE
+Diacétate de cobalt tétrahydrate; Acétate de cobalt (II) tétrahydrate
+1129  PHOSPHATE DISODIQUE
+Orthophosphate de disodium; Phosphate de sodium dibasique; Monohydrogénophosphate de sodium (1 :1 :2)
+1131  ISOCYANATE DE PHENYLE
+1132  FERRICYANURE DE POTASSIUM
+Hexacyanoferrate de potassium (3-); Hexacyanoferrate de potassium (III)
+1133  PERSULFATE DE POTASSIUM
+Peroxodisulfate de dipotassium; Persulfate de potasse
+1134  BISULFITE DE SODIUM (SOLUTION AQUEUSE, 38-40 %)
+Hydrogénosulfite de sodium (solution aqueuse 38-40%); Métabisulfite de sodium (solution aqueuse 38-40%)
+1135  CARBONATE DE SODIUM ANHYDRE
+Carbonate de soude
+1136  PERSULFATE DE SODIUM
+1137  SILICATE DE SODIUM (SOLUTION 25-50%)
+1138  THIOSULFATE DE SODIUM
+Thiosulfate de disodium; Sel disodique de l’acide thiosulfurique; Hyposulfite de sodium
+1139  TRICHLOROACETATE DE SODIUM
+TCA
+1140  PYROPHOSPHATE DE TETRASODIUM
+Pyrophosphate de sodium; Sel tétrasodique de l'acide pyrophosphorique
+1141  PERLITE
+1142  DISUL-SODIUM
+2,4-Dichlorophénoxyéthylsulfate de sodium
+1144  KAOLIN
+Silicate d'aluminium hydraté
+1145  TETRACHLORURE DE PLATINE
+Chlorure de platine (IV)
+1146  p-(METHYLAMINO)PHENOL
+4-(Méthylamino)phénol
+1147  TRIETHOXYSILANE
+1148  2-MERCAPTOIMIDAZOLINE
+Imidazolidine-2-thione; Ethylène thiourée; ETU
+1149  ETHER DIBUTYLIQUE DE L'ETHYLENE GLYCOL
+1,2-Dibutoxyéthane; Cellosolve dibutylique; 1,2-Dibutoxyéthane
+1150  ETHER n-BUTYLIQUE
+Oxyde de dibutyle; 1-Butoxybutane
+1151  ETHER DIETHYLIQUE DU DIETHYLENEGLYCOL
+Oxyde de bis(2-éthoxyéthyle)
+1152  METHYLAL
+Diméthoxyméthane; Formal; Formaldéhyde-diméthylacétal
+1153  ISOPENTANE
+Ethyldiméthylméthane; 2-Méthylbutane
+1154  MELAMINE
+2,4,6-Triamino-1,3,5-triazine
+1155  1,3,5-TRIMETHYLBENZENE
+Mésitylène
+1156  ACETOPHENONE
+1-Phényléthanone; Phényl méthyl cétone
+1157  PHORONE
+2,6-Diméthylhepta-2,5-diène-4-one
+1158  T.E.P.P.
+Pyrophosphate de tétraéthyle; Diphosphate de tétraéthyle
+1159  ALCOOL TETRAHYDROFURFURYLIQUE
+Tétrahydro-2-furylméthanol
+1160  TRIETHYLENE GLYCOL
+2,2'-(Ethylènedioxy)diéthanol; Triglycol
+1161  2-(THIOCYANOMETHYLTHIO)BENZOTHIAZOLE
+Ester 2-(benzothiazolylthio)méthylique de l'acide thiocyanique; Thiocyanate de (benzothiazole-2-ylthio)méthyle
+1162  GLYOXAL (solution à 40 %)
+Ethane-1,2-dione; Biformal; Ethanedial; Oxalaldéhyde
+1163  CHLORURE DE METHANESULFONYLE
+Chlorure de sulfonylméthane
+1164  2-METHOXY-2-METHYLPROPANE
+Ether de méthyl et de butyle tertiaire; Oxyde de tert-butyle et de méthyle
+1165  FORMIATE DE SODIUM
+1166  SOUFRE
+Fleur de soufre; Soufre sublimé
+1167  ACIDE HEXANOIQUE
+Acide butylacétique; Acide caproïque
+1168  2,3-BUTANEDIONE
+Butanedione
+1169  TRICARBONYL(METHYLCYCLOPENTADIENYL)MANGANESE
+1170  2-OCTANOL
+Alcool caprylique; Octane-2-ol
+1171  DILAURATE DE DIBUTYLETAIN
+1173  ACIDE FUMARIQUE
+Acide (E)-2-butène dioïque
+1174  ACIDE GALLIQUE
+Acide 3,4,5-trihydroxybenzoïque
+1175  METABISULFITE DE POTASSIUM
+Pyrosulfite de potassium; Disulfite de dipotassium
+1176  1-TRIDECANOL
+Alcool n-tridécylique; Tridécane-1-ol
+1177  4-VINYLCYCLOHEXENE
+4-Ethényl-1-cyclohexène
+1178  PHOSPHATE DE TRISODIUM (ANHYDRE)
+Phosphate de sodium, tribasique; Orthophosphate de trisodium
+1179  ACIDE n-HEPTANOIQUE
+Acide n-heptylique; Acide heptanoïque; Acide n-heptoïque
+1180  para-CRESIDINE
+2-Méthoxy-5-méthylaniline; 5-Méthyl-ortho-anisidine; 6-Méthoxy-m-toluidine
+1181  N,N'-DIPHENYL-PARA-PHENYLENEDIAMINE
+N,N-Diphényl-1,4-benzènediamine; N-N'-Diphényl-p-phénylènediamine
+1182  BUTANE-1,3-DIOL
+1,3-Butylène glycol; 1,3-Dihydroxybutane
+1183  2-MERCAPTOBENZOTHIAZOLE
+Benzothiazole-2-thiol; MBT
+1184  CHLORURE DE CALCIUM (ANHYDRE)
+1186  ACIDE MALEIQUE
+Acide cis-1,2-éthylènedicarboxylique
+1187  BENZOATE DE METHYLE
+1188  SILICATE DE METHYLE
+Silicate de tétraméthyle; Orthosilicate de tétraméthyle; Orthosilicate de méthyle
+1189  DODECYLBENZENESULFONATE DE SODIUM
+1190  THIOPHENE
+Sulfure de divinylène; Thiacyclopentadiène; Thiofurane
+1191  SULFATE D'ALUMINIUM
+Alun
+1192  POUDRE DE CALCIUM (pyrophorique)
+Calcium élémentaire
+1193  CARBONATE DE CALCIUM
+Calcite
+1194  OXYDE DE CHROME (VI)
+Anhydride chromique; Trioxyde de chrome; Acide chromique
+1197  SULFATE DE MAGNESIUM
+1198  AZOTE (GAZ COMPRIME)
+1199  AZOTE (LIQUEFIE)
+Azote liquide; Azote (liquide refrigéré); Azote (liquide cryogénique)
+1200  SULFITE DE SODIUM
+Sel disodique de l'acide sulfureux; Sulfite de disodium
+1201  OXYDE DE STYRENE
+Oxyde de phényléthylène; (Epoxyéthyl)benzène; Phényloxiranne
+1202  TRIOXYDE DE SOUFRE
+Anhydride sulfurique
+1203  TRIACETINE
+Triacétate de glycérine
+1205  POUDRE DE ZINC (pyrophorique)
+Poudre bleue; Merrillite
+1206  NITRATE DE ZINC
+Dinitrate de zinc; Sel de zinc de l'acide nitrique
+1207  HYDROGENOARSENATE DE DIAMMONIUM
+Sel de diammonium de l'acide arsénique; Arséniate d'ammonium
+1208  ARSENIATE DE SODIUM DIBASIQUE
+Sel disodique de l'acide arsénique; Arséniate de sodium; Hydrogénoarsénate de disodium
+1209  ARSENIATE DE MAGNESIUM
+Sel de magnésium de l'acide arsénique
+1210  ARSENIATE DE POTASSIUM
+Dihydrogénoarsénate de potassium; Arséniate de potassium, monobasique
+1211  ARSENITE DE CUIVRE
+Orthoarsénite de cuivre; Arsénite de cuivre acide; Arsonate de cuivre
+1212  ARSENITE DE PLOMB
+Arsénite de plomb (II); Métaarsénite de plomb
+1213  ARSENITE DE POTASSIUM
+Métaarsénite de potassium; Arsonate de potassium
+1214  BENZOINE
+2-Hydroxy-2-phénylacétophénone; 2-Hydroxy-1,2-diphényléthanone
+1215  GYPSE
+Sulfate de calcium, dihydrate
+1216  PERFLUOROISOBUTYLENE
+Octafluoroisobutylène; 1,1,3,3,3-Pentafluoro-2-trifluorométhyl-1-propène
+1217  PLATRE DE PARIS
+Gypse hémihydrate
+1218  CITRATE DE SODIUM, ANHYDRE
+Citrate de trisodium anhydre; Sel trisodique de l'acide 2-hydroxy-1,2,3-propanetricarboxylique, anhydre
+1219  CITRATE DE SODIUM DIHYDRATE
+Citrate de trisodium dihydrate; Sel trisodique de l'acide 2-hydroxy-1,2,3-propanetricarboxylique, dihydrate
+1220  CITRATE DE SODIUM PENTAHYDRATE
+Citrate de trisodium pentahydrate; Sel trisodique de l'acide 2-hydroxy-1,2,3-propanetricarboxylique, pentahydrate
+1221  CARBONATE DE THALLIUM
+1222  1,2,3-TRICHLOROBENZENE
+1,2,6-Trichlorobenzène
+1223  FLUORURE D'AMMONIUM
+1224  TRICHLORURE D'ANTIMOINE
+Chlorure d'antimoine
+1225  BROMURE DE BENZYLE
+1226  p-BROMOANILINE
+4-Bromobenzèneamine; p-Bromophénylamine; p-Bromoaniline
+1227  3-DIMETHYLAMINOPROPYLAMINE
+1-Amino-3-diméthylaminopropane; 3-Aminopropyldiméthylamine; N-N-Diméthyl-1,3-propanediamine; N,N-Diméthyl-1,3-diaminopropane
+1228  HEXAMETHYLENETETRAMINE
+Méthénamine; Hexamine
+1229  TETRABORATE DE SODIUM, ANHYDRE
+Biborate de sodium; Tétraborate de disodium anhydre; Borax fondu
+1230  TETRACHLORURE DE TITANE
+Chlorure de titane; Tétrachlorotitane; Chlorure titanique
+1231  CHLORURE CYANURIQUE
+2,4,6-Trichloro-1,3,5-triazine; 2,4,6-Trichloro-s-triazine; 2,4,6-Trichlorotriazine
+1232  2-VINYLPYRIDINE
+2-Ethénylpyridine; alpha-Vinylpyridine
+1233  ACIDE FLUOROSILICIQUE
+Acide hexafluorosilicique; Hexafluorosilicate d'hydrogène; Acide fluosilicique
+1234  TRIFLUORURE D'AZOTE
+Fluorure d'azote; Trifluoroamine
+1235  1,1,2,2,-TETRABROMOETHANE
+Tétrabromure d'acétylène; Tétrabromoacétylène; Tétrabromoéthane symétrique
+1236  AGENT DE BLANCHIMENT FLUORESCENT 1
+FWA 1; 4,4'-bis{(4-Anilino-6-morpholino-1,3,5-triazine-2-yl)amino}stilbène-2,2'-disulfonate de disodium
+1238  ACIDE NITRILOTRIACETIQUE
+N,N-Bis(carboxyméthyl)glycine; Acide nitrilo-2,2',2"-triacétique
+1239  SEL TRISODIQUE DE L'ACIDE NITRILOACETIQUE MONOHYDRATE
+NTA sodium monohydrate; Nitriloacétate de trisodium monohydrate; Sel trisodique de la N,N-bis(carboxyméthyl)glycine, monohydrate; Sel trisodique de l'acide nitrilo-2,2',2"-triacétique, monohydrate
+1240  SEL TRISODIQUE DE L'ACIDE NITRILOACETIQUE
+NTA sodium; Nitriloacétate de trisodium; Sel trisodique de la N,N-bis(carboxyméthyl)glycine; Sel trisodique de l'acide nitrilo-2,2',2"-triacétique
+1241  o-ARSENITE DE FER (III), PENTAHYDRATE
+Arsénite ferrique
+1242  HEXAFLUOROSILICATE DE POTASSIUM
+Fluorosilicate de potassium; Silicofluorure de potassium; Hexafluorosilicate de dipotassium
+1243  HEXAFLUOROSILICATE DE SODIUM
+Fluorosilicate de sodium; Hexafluorosilicate de disodium; Silicofluorure de sodium
+1244  GERMANE
+Hydrure de germanium; Tétrahydrure de germanium
+1245  NONANE
+n-Nonane; 2,2,5-Triméthylhexane
+1246  PICLORAME
+Acide 4-amino-3,5,6-trichloropyridine-2-carboxylique; Acide 4-amino-3,5,6-trichloropicolinique
+1247  RHODIUM
+1248  SULPROFOS
+Dithiophosphate de O-éthyle, de O-(4-méthylthiophényle) et de S-propyle
+1249  TERPHENYLES HYDROGENES (HYDROGENES A 40%)
+Diphénylbenzènes hydrogénés
+1250  HEXAFLUORURE D'URANIUM
+Fluorure d'uranium
+1252  TRIFLUMIZOLE
+(E)-4-Chloro-alpha,alpha,alpha-trifluoro-N-(1-imidazole-1-yle)-2-propoxyéthylidène-o-toluidine; 1-(1((4-Chloro-2-(trifluorométhyle)phényle)imino)-2-propoxyéthyle)-1H-imidazole
+1253  ISOBUTYLAMINE
+2-Méthylpropylamine; 2-Méthyl-1-propanamine; 1-Amino-2-méthylpropane
+1254  BISULFITE D'AMMONIUM
+Hydrogénosulfite d'ammonium
+1255  PERCHLORATE D'AMMONIUM
+Sel d’ammonium de l’acide perchlorique
+1256  DIAZOMETHANE
+1257  FURANNE
+Furfuranne
+1259  METHACRYLALDEHYDE
+2-Méthylpropénal; Aldéhyde méthacrylique; Méthylacroléine
+1260  ACIDE PHENYLACETIQUE
+Acide benzèneacétique; Acide phényléthanoïque; Acide 2-phénylacétique
+1261  ETHER ETHYLVINYLIQUE
+Oxyde d'éthyle et de vinyle; Ethoxyéthylène
+1262  2-METHYLPENTANE
+Isohexane; Diméthylpropylméthane
+1263  3-METHYLPENTANE
+Diéthylméthylméthane
+1264  BROMUCONAZOLE
+1-((2RS,4RS:2RS,4SR)-4-Bromo-2-(2,4-dichlorophényle)tétrahydrofurfuryle)-1H-1,2,4-triazole; 1-((4-Bromo-2-(2,4-dichlorophényle)tétrahydro-2-furanyle)méthyle)-1H-1,2,4-triazole
+1265  FLUTOLANIL
+alpha,alpha,alpha-Trifluoro-3'-isopropoxy-o-toluanilide; N-(3-(1-Méthyléthoxy)phényle)-2-(trifluorométhyle)benzamide
+1266  HEXAFLUMURON
+1-(3,5-Dichloro-4-(1,1,2,2-tétrafluoroéthoxy)phényle)-3-(2,6-difluorobenzoyle)urée
+1267  FLOCOUMAFEN
+4-Hydroxy-3-(1,2,3,4-tétrahydro-3-(4-(4-trifluorométhylbenzyloxy)phényle)-1-naphthyle)coumarine; 4-Hydroxy-3-(1,2,3,4-tétrahydro-3-(4-((4-(trifluorométhyle)phényle)méthoxy)phényle)-1-naphthalényle)-2H-1-benzopyrane-2-one
+1268  TRINEXAPAC-ETHYLE
+4-Cyclopropyle(hydroxy)méthylène-3,5-dioxocyclohexanecarboxylate d'éthyle
+1269  PYRIPROXYFEN
+Ether de 4-phénoxyphényle et de (RS)-2-(2-pyridyloxy)propyle
+1270  DIMETHACRYLATE D'ETHYLENE-GLYCOL
+Diméthacrylate d'éthylène
+1271  PROPAQUIZAFOP
+1272  2-CYANOACRYLATE DE METHYLE
+Ester méthylique de l'acide 2-cyanoacrylique; Mécrylate
+1273  MONOLINURON
+3-(4-Chlorophényl)-1-méthoxy-1-méthylurée; N'-(4-Chlorophényl)-N-méthoxy-N-méthylurée; 3-(p-Chlorophényl)-1-méthoxy-1-méthylurée
+1274  ISOCYANURATE DE TRIGLYCIDYLE
+Isocyanurate de 1,3,5-triglycidyle; 1,3,5-tris(Oxirannylméthyl)-1,3,5-triazine-2,4,6(1H,3H,5H)-trione; Isocyanurate de tris(époxypropyle)
+1275  1-METHYLNAPHTHALENE
+alpha-Méthylnaphthalène
+1276  2-METHYLNAPHTHALENE
+bêta-Méthylnaphthalène
+1277  CARBENDAZINE
+Benzimidazole-2-ylcarbamate de méthyle; (1H-Benzimidazol-2-yl)carbamate de méthyle; Carbendazole
+1278  PHOSPHATE DE DIBUTYLE
+Hydrogénophosphate de dibutyle; Ester dibutylique de l'acide phosphorique
+1279  ISOBUTYLIDENEDIUREE
+N,N''-(Isobutylidène)diurée; IBDU
+1280  DICETENE
+But-3-ène-3-olide; 4-Méthylène-2-oxetannone; Acétyl cétène
+1281  1,1,1,2-TETRAFLUOROETHANE
+Norflurane; HFC 134A
+1282  OXYDE DE TRIBUTYLTETAIN
+Oxyde de bis(tributyltétain)
+1283  HYDROXYDE DE TRIPHENYLETAIN
+1284  ACIDE SORBIQUE
+Acide hexa-2,4-diénoïque
+1285  4,4'-OXYDI(BENZENESULPHONOHYDRAZIDE)
+1286  DIACRYLATE DE NEOPENTYLE ET DE GLYCOL
+Diacrylate de 2,2-diméthyl-1,3-propanediyle
+1287  BIS(THIOCYANATE) DE METHYLENE
+Ester méthylénique de l'acide thiocyanique; Dithiocyanate de méthylène
+1288  ACRYLATE D'HEXYLE
+Ester hexylique de l'acide acrylique; 2-Propénoate d'hexyle
+1289  METHACRYLATE DE 2-ETHYLHEXYLE
+1290  SEBACATE DE BIS(2-ETHYLHEXYLE)
+Sébaçate de dioctyle
+1291  2-(2-(2-METHOXYETHOXY)ETHOXY)ETHANOL
+Ether monométhylique du triéthylène glycol; Méthoxytriglycol
+1292  ADIPATE DE DIOCTYLE
+1293  INDIUM
+1294  3-METHYL-2-BUTENAL
+3,3-Diméthylacroléine; 3-Méthylcrotonaldéhyde
+1295  ACIDE ANTHRANILIQUE
+Acide 2-aminobenzoïque; Carboxyaniline
+1296  CHLORURE DE DIMETHYLDIOCTADECYLAMMONIUM
+Chlorure de distéaryldiméthylammonium; Chlorure de diméthyldistéarylammonium
+1297  1,4-DIMETHOXYBENZENE
+p-Méthoxyanisole
+1298  2',4'-DIMETHYLACETOACETANILIDE
+N-(2,4,-diméthylphényl)-3-oxobutanamide; 1-Acétoacétylamino-2,4-diméthylbenzène; N-Acétoacétyl-2,4-xylidine; Acétoacétyl-m-xylidide
+1299  CHLOROTRIFLUOROETHANE
+Chloro-1,1,1-trifluoroéthane; 2-Chloro-1,1,1-trifluoroéthane; 1-Chloro-2,2,2-trifluoroéthane; HCFC 133a
+1300  LINURON
+3-(3,4-Dichlorophényl)-1-méthoxy-1-méthylurée; Méthoxydiuron
+1302  m-PHENYLENEDIAMINE
+m-Diaminobenzène; 1,3-Benzènediamine; 3-Aminoaniline; 1,3-Phénylènediamine
+1303  IMAZALIL
+1-(2-(Allyloxy)-2-(2,4-dichlorophényl)éthyl)-1H-imidazole
+1304  DIMETHYLMERCURE
+1305  CHLORFENVINPHOS
+Phosphate de O,O-diéthyle et de O-(2-chloro-1-(2,4-dichlorophényl)vinyle
+1306  METHOXYCHLORE
+1,1-(2,2,2-Trichloroéthylidène)di(4-méthoxybenzène); Diméthoxy-DDT
+1309  HYDROXYSULFATE DE CHROME
+1310  DIOXYDE DE CHROME
+Oxyde de chrome
+1311  MONOXYDE D'AZOTE
+Azotoxyde
+1312  ANHYDRIDE SUCCINIQUE
+1313  ACIDE CYANURIQUE
+Acide isocyanurique
+1314  CROCIDOLITE
+Amiante riebeckite; Amiante bleu
+1315  PYRROLIDINE
+Aza-cyclopentane; Tétrahydropyrrole
+1316  CHLORURE CHROMIQUE (ANHYDRE)
+Chlorure de chrome (III); Trichlorure de chrome; Chlorure de chrome
+1317  CHLORURE CHROMEUX
+Chlorure de chrome (II); Dichlorure de chrome
+1318  SULFATE DE CADMIUM
+1319  CARBURE DE TITANE
+1320  CARBURE DE TUNGSTENE
+1321  ATTAPULGITE
+1322  RADON
+1323  FLUORURE DE CALCIUM
+Difluorure de calcium
+1324  FLUORURE D'ALUMINIUM (ANHYDRE)
+Trifluorure d'aluminium
+1325  OXYDE DE BERYLLIUM
+Monoxyde de béryllium
+1326  IODURE D'HYDROGENE
+1327  CHLORTOLURON
+3-(3-Chloro-p-tolyl)-1,1-diméthylurée
+1330  PARACETAMOL
+Acétaminophen; 4'-Hydroxyacétanilide; p-Acétylaminophénol; N-(4-Hydroxyphényl)acétamide
+1331  ACETATE DE BENZYLE
+Acétate de phénylméthyle
+1332  1-BROMOPROPANE
+Bromure de n-propyle; Bromure de propyle
+1333  HYDROGENOCARBONATE D'AMMONIUM
+Bicarbonate d'ammonium
+1334  ACIDE BUTYRIQUE
+Acide butanoïque; Acide éthylacétique
+1335  ACETATE d'HEXYLE SECONDAIRE
+Acétate de 1,3-diméthylbutyle; Acétate de 1-méthyl isoamyle; Acétate de 4-méthyl-2-pentyle
+1336  N-METHYLETHANOLAMINE
+2-Méthylaminoéthanol; Monométhyléthanolamine
+1337  DI-n-BUTYLAMINE
+Dibutylamine
+1338  BENZYLAMINE
+Aminotoluène; Méthylaniline
+1339  DICYCLOHEXYLAMINE
+N,N-Dicyclohexylamine; Dodécahydrodiphénylamine
+1340  BENZYLDIMETHYLAMINE
+N,N-Diméthylbenzèneméthanamine; N-Benzyldiméthylamine; Diméthylbenzylamine
+1341  3-CHLORO-2-METHYL-1-PROPENE
+Chlorure de méthyle allylique; Chlorure de méthylallyle
+1342  MONONITROPHENOLS
+Nitrophénols (mélange d'isomères); Nitrophénols
+1343  2,2-DICHLORO-1,1,1-TRIFLUOROETHANE
+HCFC 123
+1344  ACRYLATE DE 2-ETHYLBUTYLE
+Ester 2-éthylbutylique de l'acide acrylique; Ester 2-éthylbutylique de l'acide 2-propénoïque
+1345  p-OCTYLPHENOL
+1-(p-Hydroxyphényl)octane; 4-Octylphénol
+1346  PEROXYDE DE DICUMYLE
+Peroxyde de bis(alpha,alpha-diméthylbenzyle)
+1347  BUTOXYDE DE PIPERONYLE
+Oxyde de 2-(2-butoxyéthoxy)éthyle et de 6-propylpipéronyle
+1348  TRIPROPYLENE GLYCOL
+((Méthyléthylène)bis(oxy))dipropanol
+1349  SEBACATE DE DIBUTYLE
+Ester dibutylique de l'acide sébacique
+1350  CITRATE DE TRIETHYLE
+1351  SULFATE DE BERYLLIUM
+1352  NITRATE DE BERYLLIUM
+1353  CARBONATE DE BERYLLIUM
+Carbonate de béryllium basique
+1354  CHLORURE DE BERYLLIUM
+1355  FLUORURE DE BERYLLIUM
+Difluorure de béryllium
+1356  3,5-XYLENOL
+3,5-Diméthylphénol; 1-Hydroxy-3,5-diméthylbenzène
+1357  ETHER DIMETHYLIQUE DU DIETHYLENE GLYCOL
+Oxyde de bis(2-méthoxyéthyle)
+1358  2-CYANOACRYLATE D'ETHYLE
+Ester éthylique de l'acide 2-cyano-2-propénoïque; Ester éthylique de l'acide 2-cyanoacrylique; alpha-Cyanoacrylate d'éthyle
+1359  TRIBENURON-METHYL
+Méthyl 2-((((N-(4-méthoxy-6-méthyl-1,3,5-triazine-2-yl)méthylamino)carbonyl)amino)sulfonyl)benzoate; Ester méthylique de l'acide 2-(4-méthoxy-6-méthyl-1,3,5-triazine-2-yl(méthyl)carbomoylsulfamoyl)benzoïque
+1360  METOLACHLOR
+2-Chloro-2'-éthyl-N-(2-méthoxy-1-méthyléthyl)-6'-méthylacétanilide
+1361  METAMITRONE
+4-Amino-3-méthyl-6-phényl-1,2,4-triazine-5(4H)-one
+1362  1,2,3-TRIMETHYLBENZENE
+1363  DIBROMURE DE DIQUAT
+Dibromure de 1,1'-éthylène-2,2'-bipyridyllium; Dibromure de 9,10-dihydro-8a-10a-diazoniaphénanthrène
+1364  DODECYLAMINE
+1-Dodécanamine; 1-Aminododécane; Lauramine; Laurylamine
+1365  OCTADECYLAMINE
+1-Octadécanamine; 1-Aminooctadécane; Stéaramine; Stéarylamine
+1366  TRIPHENYLAMINE
+N,N-Diphénylbenzènamine; N,N-Diphénylaniline
+1367  ACIDE GLUTARIQUE
+Acide pentanedioïque
+1368  DICHROMATE D'AMMONIUM
+Dichromate (VI) de diammonium; Bichromate d'ammonium
+1369  DICHROMATE DE SODIUM (ANHYDRE)
+Dichromate (VI) de disodium; Sel disodique de l'acide dichromique
+1370  CHROMATE DE SODIUM
+Chromate (VI) de disodium
+1371  DICHROMATE DE POTASSIUM
+Dichromate (VI) de dipotassium; Bichromate de potassium
+1372  ANHYDRIDE TETRAHYDROPHTALIQUE
+Anhydride 4-cyclohexène-1,2-dicarboxylique; Anhydride 1,2,3,6-tétrahydrophtalique
+1373  ANHYDRIDE CHLORENDIQUE
+Anhydride 1,4,5,6,7,7-hexachloro-8,9,10-trinorborn-5-ène-2,3-dicarboxylique
+1374  ANHYDRIDE TETRACHLOROPHTHALIQUE
+1375  DIANHYDRIDE PYROMELLITIQUE
+Dianhydride benzène-1,2:4,5-tétracarboxylique; Anhydride benzène-1,2:4,5-tétracarboxylique
+1376  ANHYDRIDE HEXAHYDRO-4-METHYLPHTALIQUE
+1377  TRICHLORURE D'INDIUM
+Chlorure d'indium (III)
+1378  BROMOETHANE
+1379  DISTILLATS LEGERS (PETROLE), HYDROTRAITES
+1380  NAPHTA LOURD (PETROLE), HYDROTRAITE (< 0.1 % w/w BENZENE)
+Naphta hydrotraité à point d'ébullition bas; Naphta lourd (pétrole) (C6-C13)
+1383  PENTAERYTHRITOL
+2,2-bis(-Hydroxyméthyl)-1,3-propanediol; Tétraméthylolméthane; THME; PETP
+1385  N-ETHYLANILINE
+Ethylaniline; Monoéthylamine; Ethyl phényl amine
+1386  4-CHLOROTOLUENE
+p-Chlorotoluène; 1-Chloro-4-méthylbenzène; Chlorure de p-tolyle
+1387  TETRACHLORONAPHTHALENE
+1388  o-CHLOROSTYRENE
+2-Chlorostyrène
+1389  TRIMETHYLBENZENE (MELANGE D'ISOMERES)
+1390  CYANOGENE
+1391  5-METHYL-3-HEPTANONE
+5-Méthylheptane-3-one; Amyl éthylcétone; Ethyl sec-amyl cétone; Ethyl sec-pentylcétone
+1392  DINITRATE DE PROPYLENE GLYCOL
+1,2-Dinitrate de propylène glycol
+1393  POUDRE DE PLATINE
+Noir de platine (poudre); Eponge de platine
+1394  PENTACHLOROETHANE
+Pentachlorure d'éthane; Pentachloréthane
+1395  4-NITRODIPHENYLE
+p-Nitrodiphényle
+1396  SULFATE DE COBALT (II), HEPTAHYDRATE
+1397  NITRATE DE COBALT (II)
+Dinitrate de cobalt
+1398  TETROXYDE DE MANGANESE
+Tétraoxyde de trimanganèse
+1400  ESSENCE
+1401  SILICATE DE CALCIUM
+Silicate de calcium synthéthique
+1402  FLUORURE DE SULFURYLE
+1403  STEARATE DE MAGNESIUM
+1404  TUNGSTENE (poudre)
+1405  POUDRE DE ZIRCONIUM (pyrophorique)
+(poudre instable)
+1406  FENSULFOTHION
+Phosphorothioate de O,O-diéthyle et de O-4-méthylsulfinylphényle
+1407  PENTASULFURE DE PHOSPHORE
+1408  DISULFOTON
+Disyston; Dithiophosphate de O,O-diéthyle et de S-(2-éthylthioéthyle); Phosphorodithioate de O,O-diéthyle et de S-2(éthylthio)éthyle
+1409  CHLORURE DE THIONYLE
+Dichlorure de thionyle
+1410  CHLORACETATE DE METHYLE
+1411  m-NITROTOLUENE
+3-Méthyl-1-nitrobenzène; Nitrotoluène, méta; 1-Méthyl-3-nitrobenzène
+1412  PHOSPHATE DE BIS(ETHYL-2 HEXYL)
+Ester de bis(éthyl-2 hexyle) et de l'acide phosphorique
+1413  HEXABROMOCYCLODODECANE (MELANGE DES ISOMERES)
+1414  DIPROPYL CETONE
+Heptan-4-one
+1415  BRAI DE GOUDRON DE HOUILLE VOLATILE
+Brai de goudron de houille volatile (fraction soluble dans le benzène)
+1416  SULFATE DE CUIVRE (II) PENTAHYDRATE
+1417  ALDEHYDE VALERIQUE
+1418  2-DIBUTYLAMINOETHANOL
+N,N-dibutyl normal amino-2 éthanol; N,N-Dibutyléthanolamine
+1419  DIBROMODIFLUOROMETHANE
+Difluorodibromométhane
+1420  1,1,1,2-TETRACHLORO-2,2-DIFLUOROETHANE
+1421  1,1,2,2-TETRACHLORO-1,2-DIFLUOROETHANE
+1,2-Difluoro-1,1,2,2-tétrachloroéthane; Fluorocarbon 112
+1422  DISULFURE D'ALLYLE ET DE PROPYLE
+1423  CHLORO-1 NITRO-1 PROPANE
+1424  PHENYLPHOSPHINE
+1425  CIMENT DE PORTLAND
+Ciment hydraulique
+1426  DICHLOROACETYLENE
+1427  GLYCOLONITRILE
+Hydroxyacétonitrile; Cyanométhanol; Glyconitrile; Nitrile de l'acide glycolique
+1428  2-PENTANOL (MELANGE RACEMIQUE)
+1-Méthyl-1-butanol; alcool amylique secondaire; Méthylpropylcarbinol; 1-Méthyl-1-butanol; Pentan-2-ol
+1429  POLYACRYLATE DE SODIUM
+Sel de sodium de l’homopolymère de l’acide 2-propénoïque; Sel de sodium de l’homopolymère de l’acide acrylique
+1430  DISTILLATS NAPHTENIQUES LEGERS (PETROLE)
+Distillats naphténiques légers (pétrole), raffinés au solvant
+1431  DISTILLATS PARAFFINIQUES LOURDS (PETROLE)
+Distillats paraffiniques lourds (pétrole), raffinés au solvant
+1432  CHLORDECONE
+1,1a,3,3a,4,5,5,5a,5b,6-Décachloro-octahydro-1,3,4-méthéno-2H-cyclobuta(cd)pentalèn-2-one; Képone; Décachlorocétone
+1433  1,2,4-TRIMETHYLBENZENE
+Pseudocumène
+1434  FLUOROACETAMIDE
+2-Fluoroacétamide; Monofluoroacétamide
+1435  ISOFLURANE
+2-Chloro-2-difluorométhoxy-1,1,1-trifluoroéthane
+1436  SEVOFLURANE
+1,1,1,3,3,3-Hexafluoro-2-fluorométhoxypropane; Ether de fluorométhyle et de 2,2,2-trifluoro-1-(trifluorométhyl)éthyle
+1437  DESFLURANE
+Ether de difluorométhyle et de 1,2,2,2-tétrafluoroéthyle
+1438  DISULFIRAME
+Disulfure de tétraéthylthiurame; 1,1'-Dithiobis(N,N-diéthylthioformamide); Disulfure de bis-(N,N-diéthylthiocarbamyle)
+1439  ACIDE L-ASPARTIQUE
+1440  VASELINE (BLANCHE)
+Gelée de pétrole blanche; Gelée de pétrole
+1441  o-PHENYLENEDIAMINE
+o-Diaminobenzène; 1,2-Benzènediamine; 2-Aminoaniline; 1,2-Phénylènediamine
+1442  DIISOBUTYLAMINE
+N,N-Bis(2-méthylpropyl)amine; 2-Méthyl-N-(2-méthylpropyl)-1-propanamine
+1443  HEXYLAMINE
+Hexylamine normal; 1-Hexanamine; 1-Aminohexane
+1444  N,N-DIMETHYLCYCLOHEXYLAMINE
+Cyclohexyldiméthylamine; N,N-Diméthylaminocyclohexane
+1445  ACETATE DE TERT-BUTYLE
+Acétate de butyle tertiaire
+1446  N-PHENYL-1,4-BENZENEDIAMINE
+4-Aminodiphénylamine; N-Phényl-p-phénylènediamine
+1447  OLEUM
+Acide sulfurique fumant; Mélange d'acide sulfurique et de trioxyde de soufre
+1448  BROMACIL
+5-Bromo-3-sec-butyl-6-méthyl uracile; 5-Bromo-6-méthyl-3-(1-méthylpropyl) uracile; 5-Bromo-6-méthyl-3-(1-méthylpropyl)-2,4(1H,3H)-pyrimidinedione
+1449  CHLORACETATE DE SODIUM
+Monochloroacétate de sodium
+1450  CHLORURE DE POTASSIUM
+1451  SULFATE DE POTASSIUM
+1452  HUILE DE CASTOR
+1453  BENZO(a)FLUORENE
+11H-Benzo(a)fluorène
+1454  RIBOFLAVINE
+Lactoflavine; Vitamine B2
+1455  HYDROXYDE DE CHROME (III) HYDRATE
+1456  TETRAFLUORURE DE SOUFRE
+1457  CIRE DE PARAFFINE
+1458  2-CHLOROTOLUENE
+2-Chloro-1-méthylbenzène; o-Chlorotoluène
+1461  METABISULFITE DE SODIUM
+Disulfite de disodium; Pyrosulfite de disodium; Disulfite de sodium
+1462  1,3-BIS(AMINOMETHYL)BENZENE
+1,3-Benzènediméthanamine; m-Phénylènebis(méthylamine); m-Xylène alpha, alpha'-diamine
+1464  2,2'-DIMETHYL-4,4'-METHYLENEBIS(CYCLOHEXYLAMINE)
+3,3'-Diméthyl-4,4'-diaminodicyclohexylméthane; 4,4'-Méthylènebis-(2-méthylcyclohexanamine); Bis(4-amino-3-méthylcyclohexyl)méthane
+1465  n-BUTYRONITRILE
+Butanenitrile; 1-Cyanopropane
+1466  MALONONITRILE
+Propanedinitrile; Cyanoacétonitrile; Méthylène dinitrile
+1467  2,3,7,8-TETRACHLORODIBENZO-p-DIOXINE
+2,3,7,8-tétrachlorodibenzo [b,e] [1,4]dioxine; 2,3,7,8-TCDD; 2,3,7,8-Tétrachloro-1,4-dioxine
+1468  TETRANITROMETHANE
+1469  TRIPHOSPHATE PENTASODIQUE
+Tripolyphosphate de sodium; Triphosphate de sodium
+1470  ACIDE DODECYLBENZENESULFONIQUE
+Acide laurylbenzènesulfonique
+1471  POVIDONE-IODEE
+Polyvinylpyrrolidone iodée
+1472  o-sec-BUTYLPHENOL
+2-sec-Butylphénol; 2-(1-Méthylpropyl)phénol
+1473  DINITRATE DE DIETHYLENE GLYCOL
+Diglycoldinitrate; Dinitrate d'oxydiéthylène
+1474  PYRENE
+Benzo (d,e,f) phénanthrène; beta-Pyrène; Benzophénantrène
+1475  PYRETHRUM
+Pyrèthre
+1476  p-CHLORO-o-CRESOL
+4-Chloro-2-méthylphénol; 2-Chloro-4-méthylphénol; 4-Chloro-o-crésol
+1477  1-DECENE
+Décylène; alpha-Décène; n-1-Décène
+1478  1-VINYL-2-PYRROLIDONE
+Vinylpyrrolidone; 1-Éthényl-2-pyrrolidone; N-Vinyl-2-pyrrolidinone
+1480  NITRATE DE BARYIUM
+1482  ETHYLAMINE (solution aqueuse à 50-70%)
+Ethanamine; Aminoéthane
+1483  METHYLAMINE (solution aqueuse à 40 %)
+Méthanamine; Aminométhane; Carbinamine
+1484  TRIMETHYLAMINE (solution aqueuse à 40 %)
+N,N-Diméthylméthanamine
+1485  DIMETHYLAMINE (solution aqueuse)
+N-méthylméthanamine
+1486  1,1,1,2-TETRACHLOROETHANE
+1487  CHLORURE DE POLYVINYLE
+Polymère de chloroéthylène; PVC
+1488  POLYETHYLENE
+Homopolymère d'éthylène; PE; PEHD; PELD
+1489  ALCOOL POLYVINYLIQUE
+1490  1-DECANOL
+Décan-1-ol; Alcool n-décylique; Alcool caprique; n-Nonylcarbinol; n-Décanol
+1491  ETHER MONOISOPROPYLIQUE D'ETHYLENE GLYCOL
+2-Isopropoxyéthanol; 2-(1-Méthoxyéthoxy)-éthanol; Isopropylglycol; EGiPE
+1492  1-PROPANETHIOL
+1-Mercaptopropane; Propane-1-thiol; n-Propylmercaptan
+1493  n-OCTYLMERCAPTAN
+Octane-1-thiol
+1494  tert-OCTYLMERCAPTAN
+2,4,4-Triméthylpentane-2-thiol; 2-Méthyl-2-heptanethiol
+1495  METHYL VINYL CETONE
+Méthylène acétone; 3-Butène-2-one
+1496  2-METHOXY-2-METHYLBUTANE
+1497  SUCCINONITRILE
+Butanedinitrile; Cyanure d'éthylène; Dicyanoéthane
+1498  4-DIMETHYLAMINOAZOBENZENE
+N,N-Diméthyl-4-phénylazobenzènamine; p-Diméthylaminoazobenzène; N,N-Diméthyl-p-(phénylazo)aniline
+1499  TRICHLORURE DE FER (anhydre)
+Chlorure ferrique
+1500  CHLORPROPHAM
+Isopropyl 3-chlorocarbanilate; 1-Méthyléthyl-3-chlorophénylcarbamate; Isopropyl 3-chlorophénylcarbamate; Chlorprophame
+1501  IMIDACLOPRID
+1-((6-Chloro-3-pyridinyl)méthyl)-n-nitro-2-imidazolidinimine
+1502  SPINOSAD
+1503  FIPRONIL
+5-Amino-3-cyano-1-(2,6-dichloro-4-trifluoro-méthylphényl)-4-trifluorométhylsulfinylpyrazole
+1504  2-NITRONAPHTHALENE
+1505  SALICYLATE DE METHYLE
+Huile de bouleau; Huile de thé des bois; 2-(Méthoxycarbonyl)phénol; 2-Hydroxybenzoate de méthyle; Ester méthylique de l'acide o-hydrobenzoïque
+1506  STEARATE DE CALCIUM
+Distéarate de calcium; Sel calcique de l'acide stéarique
+1507  SUCROSE
+bêta-D-Fructofuranosyl-alpha D glucopyranoside; alpha-D-Gluco pyranosyl bêta-D-fructofuranoside; D(+)Saccharose
+1508  SILICIUM
+1509  ACIDE DICHLORO-2,2 PROPANOIQUE
+Dalapon
+1510  CARBADOX
+2-(Méthoxycarbonylhydrazonométhyl)quinoxaline 1,4-dioxyde
+1511  SESQUICARBONATE DE SODIUM DIHYDRATE
+1512  FERROCENE
+Dicyclopentadiényle de fer
+1513  NITRATE DE PROPYLE normal
+1514  XYLENESULFONATE DE SODIUM
+1515  PINDONE
+2-Pivaloylindan-1,3-dione; 2-(2,2-Diméthyl-1-oxopropyl)-1H-indène-1,3 (2H)-dione; 2-Pivaloyl-1,3-indandione
+1516  ESFENVALERATE
+(S)-alpha-Cyano-3-phénoxybenzyl-(S)-2-(4-chlorophényl)-3-méthylbutyrate
+1517  POLYETHYLENE GLYCOL (200-600)
+PEG; Polymère d'oxyéthylène; alpha-hydro-oméga-hydroxypoly(oxy-1,2-éthynediyl)
+1518  DHTDMAC (avec 15% Isopropanol)
+Chlorure de 1-octadécanaminium, N,N-diméthyle-N-octadécyle; Composés de l'ion ammonium quaternaire, bis(alkyl de suif hydrogéné)diméthyles, chlorures
+1519  2,6-XYLIDINE
+2,6-Diméthylaniline; 1-Amino-2,6-diméthylbenzène
+1520  2-NITROANISOLE
+1-méthoxy-2-nitrobenzène; o-Nitrophénylméthyléther; o-Nitroanisole
+1521  PENTANE-1-THIOL
+Amylmercaptan; Pentylmercaptan; Hydrosulfure d'amyle; 2-Méthylbutylmercaptan
+1522  OXYDE D'AMMONIUM ET DE VANADIUM
+Sel d’ammonium de l’acide vanadique
+1523  HEXANE-1-THIOL
+1-Mercaptohexane; 1-Hexylthiol; Hexylmercaptan
+1524  1,3-PROPANESULTONE
+1,2-Oxathiolane-2,2-dioxyde
+1525  o-TERPHENYL
+1,2-Diphénylbenzène; o-Diphénylbenzène
+1526  CHLORODIPHENYLARSINE
+Diphénylchloroarsine
+1527  1,2,3,4-TETRAHYDRONAPHTHALENE
+Tétraline; Tétrahydronaphtalène
+1528  SULFATE DE p-(METHYLAMINO)PHENOLE
+Sulfate de bis(4-hydroxy-N-méthylanilinium); Métol; Sulfate de 4-(méthylamino)phénol
+1529  SULFURE DE COBALT
+1530  TRINITRATE DE CHROME (III) NONAHYDRATE
+Nitrate chromique nonahydrate; Trinitrate de chrome
+1531  OXYDE DE CHROME (III)
+Oxyde chromique; Trioxyde de chrome (III)
+1532  CHLORURE DE CHROME (III) HEXAHYDRATE
+Chlorure chromique hexahydraté; Trichlorure de chrome (III) hexahydraté
+1533  CHROMATE DE tert-BUTYLE
+Chromate de bis(tert-butyle); Ester di-tert-butylique de l’acide chromique
+1534  STRONTIUM
+1535  ETAIN
+1536  BENZOATE DE SODIUM
+Sel de sodium de l'acide benzoïque
+1537  ACIDE HYDROXYACETIQUE
+Acide glycolique; Acide hydroxyéthanoïque
+1538  PHOSPHATE D'ALUMINIUM
+Orthophosphate d'aluminium; Monophosphate d'aluminium
+1539  ALCOOL UNDECYLIQUE
+1-Undécanol
+1540  PIGMENT ROUGE 53, SEL de BARIUM (2:1)
+Barium bis(2-chloro-5-((2-hydroxy-1-naphthyl)azo)toluène-4-sulphonate); D&C Rouge No 9
+1542  2-NITRO-p-PHENYLENEDIAMINE
+2-Nitro-1,4-benzènediamine; 1,4-Diamino-2-nitrobenzène; 2-Nitro-4-aminoaniline
+1543  4-NITRO-o-PHENYLENEDIAMINE
+4-Nitro-1,2-benzènediamine; 1,2-Diamino-4-nitrobenzène; 2-Amino-4-nitroaniline
+1544  SULFATE DE 2,5-TOLUENEDIAMINE (1:1)
+Sulfate de 2-Méthyl-p-phénylènediamine; Sulfate de 2,5-Diaminotoluène
+1545  BIS(DIMETHYLDITHIOCARBAMATE) DE PLOMB
+Diméthyldithiocarbamate de plomb; Bis(diméthylcarbamodithioato-S,S')plomb; Lédate; Méthyllédate
+1546  METHYLDIBROMOGLUTARONITRILE
+2-Bromo-2-(bromométhyl)-glutaronitrile; 1,2-Dibromo-2,4-dicyanobutane; 2-Bromo-2-(bromométhyl)pentanedinitrile
+1547  1,4-NAPHTOQUINONE
+1,4-Dihydro-1,4-naphthalènedione; 1,4-Naphthalènedione; 1,4-Dihydro-1,4-dicétonaphthalène
+1548  DECAHYDRONAPHTHALENE (mélange des isomères cis/trans)
+Décaline; Perhydronaphthalène; Décahydronaphthaline; Bicyclo(4.4.0)décane
+1549  2-TERT-BUTYLPHENOL
+o-tert-Butylphénol; 2-(1,1-Diméthyléthyl)phénol; 2-tert-Butyl-1-hydroxybenzène
+1550  N-ETHYL-N-BENZYLANILINE
+N-Benzyl-N-éthylaniline; Ethylbenzylaniline; N-Ethyl-N-phénylbenzylamine
+1551  OXYDE DE COBALT(II)
+Oxyde cobalteux; CI Pigment noir 13
+1552  DINITOLMIDE
+2-Méthyl-3,5-dinitrobenzamide; 3,5-Dinitro-2-méthylbenzamide
+1553  AMIDON
+Amylose; Amylopectine
+1554  FRUCTOSE
+D-Fructose; Sucre de fruit; Arabino-hexulose; D-(-)-Levulose
+1555  SULFAMATE D'AMMONIUM
+Sel monoammonium de l'acide sulfamique; Amidosulfonate d'ammonium; Sulfamidate d'ammonium
+1556  PHOSPHITE DE TRIMETHYLE
+Ester triméthylique de l'acide phosphoreux; Triméthoxyphosphine; Phosphite de méthyle
+1557  p-TOLUENESULFONAMIDE
+4-Toluènesulfonamide; 4-Méthylbenzènesulfonamide; p-Tosylamide
+1558  NONOXYNOL-9
+Nonylphénoxypolyéthoxyéthanol
+1559  HYDROXYETHYLCELLULOSE
+Ether de 2-Hydroxyéthylcellulose; 2-Hydroxyéthylcellulose
+1560  NITROCELLULOSE (moins de 12.6% d'azote )
+Nitrate de cellulose; Tétranitrate de cellulose; Pyroxilline
+1561  CARBURANT DIESEL No. 2
+Carburants, Diesel, No. 2; Essence diesel No. 2; Gasoil - non spécifié
+1562  2,4-XYLIDINE
+2,4-Diméthylaniline; 2,4-Diméthylbenzèneamine; 1-Amino-2,4-diméthylbenzène; 4-Amino-1,3-diméthylbenzène; 4-Amino-m-xylène; 4-Amino-1,3-xylène
+1563  2,4,6-TRIBROMOPHENOL
+2,4,6-TBP
+1564  PENTABROMOPHENOL
+2,3,4,5,6-Pentabromophénol
+1565  CRYOLITE
+Fluorure trisodique d'aluminium; Fluoaluminate de sodium; Fluorure d'aluminium et de sodium; Hexafluoroaluminate de sodium
+1566  1-TETRADECENE
+Tétradec-1-ène; alpha-Tétradecène
+1567  1-DODECENE
+alpha-Dodécène; alpha-Dodécylène; N-Dodéc-1-ène; Dodécylène; Dodécène
+1568  ETHER DIMETHYLIQUE de l' ETHYLENE GLYCOL
+1,2-Diméthoxyéthane; Ether diméthylique du 1,2-éthanediol; Monoglyme; 2,5-Dioxahexane; EGDME
+1569  ETHER DIETHYLIQUE de l'ETHYLENE GLYCOL
+1,2-Diéthoxyéthane; Ether diéthylique du 1,2-éthanediol; Ethylglyme; 3,6-Dioxaoctane; EGDEE
+1570  ETHER DIMETHYLIQUE du TRIETHYLENE GLYCOL
+2,5,8,11-Tétraoxadodécane; Triglyme; 1,2-bis(2-Méthoxyéthoxy)éthane; TEGDME
+1571  ETHER MONOHEXYLIQUE de l'ETHYLENE GLYCOL
+2-(Hexyloxy)éthanol; n-Hexyglycol; EGHE
+1572  ETHER MONOHEXYLIQUE du DIETHYLENE GLYCOL
+3,6-Dioxa-1-dodécanol; Hexylcarbitol; 2-(2-Hexyloxyéthoxy)éthanol; DEGHE
+1573  ETHER MONOETHYLIQUE du PROPYLENE GLYCOL
+1-Ethoxy-2-propanol; 2-Propanol-1-éthoxy; 2PG1EE
+1574  ACETATE de l'ETHER 1-ETHYLIQUE du 2-PROPYLENEGLYCOL
+1-Ethoxy-2-propanolacétate; 2-Ethoxy-1-méthyléthylacétate; 1-Ethoxy-2-acétoxypropanol; 1-Ethoxy-2-propylacétate; 2PG1EEA
+1575  CYCLOTETRAMETHYLENE TETRANITRAMINE
+HMX; 1,3,5,7-Octahydro-1,3,5,7-tétranitrotétrazocine; Octogen
+1576  PENTAERYTHRITOL TETRANITRATE
+2,2-Bis(hydroxyméthyl)-1,3-propanedioltétranitrate; PETN; Pentaérythrite-tétranitrate
+1577  TRIOXYDE DE FER
+Trioxyde de difer; Oxyde de fer jaune; Oxyde de fer rouge; Oxyde ferrique anhydre; Oxyde de fer (III); Sesquioxyde de fer
+1578  2,4-DIAMINOANISOLE
+1,3-Benzènediamine, 4-méthoxy-; 4-Méthoxy-3-phénylènediamine; 4-Méthoxy-m-phénylènediamine; C.I. Base d'Oxidation 12
+1579  2-AMINOANTHRAQUINONE
+2-Amino-9,10-anthracènedione; 2-Amino-9,10-anthraquinone; beta-Aminoanthraquinone
+1580  CHLORURE DE NITROSYLE
+Oxychlorure d'azote; Chlorure d'azote oxydé
+1581  o-TOLUENESULFONAMIDE
+2-Toluènesulfonamide; Toluène-2-sulfonamide; o-Méthylbenzènesulfonamide
+1582  o-DIANISIDINE
+C.I. Disperse Black 6; 3,3´-Diméthoxybenzidine; 3,3´-Dianisidine; 3,3´-Diméthoxy-4,4'-diaminobiphényle
+1583  iso-PHTALONITRILE
+1,3-Benzènedicarbonitrile; Isophtalodinitrile; m-Dicyanobenzène
+1584  CHLORURE DE BENZALKONIUM
+Chlorure d'alkyldiméthyl(phénylméthyl) ammonium quaternaire; Chlorure d'alkyl(C8-C18)diméthylbenzylammonium; Chlorure de (C8-C18)alkylbenzyldiméthylammonium; Chlorures d'alkyldiméthylbenzylammonium
+1585  HYDROGENOSULFATE DE POTASSIUM
+Sel monopotassique de l'acide sulfurique; Sulfate de potassium; Bisulfate de potassium
+1586  DISULFURE DE DIMETHYLE
+Disulfure de méthyle
+1587  METHYLCHLOROSILANE
+Chloro(méthyl)silane
+1588  CARBONATE DE POTASSIUM (ANHYDRE)
+Sel dipotassique de l'acide carbonique; Carbonate de dipotassium
+1589  SULFATE DE CALCIUM (ANHYDRE)
+Sel de calcium de l'acide sulfurique (1:1)
+1590  NITRATE D' AMMONIUM UREE
+Sel d'ammonium de l'acide nitrique, mélangé à l'urée
+1591  2,5-DINITROTOLUENE
+2-Méthyl-1,4-dinitrobenzène; 2,5-DNT
+1592  HYDROXYDE DE CESIUM
+Hydrate de césium
+1593  CHLOROFORMIATE de n-BUTYLE
+Chlorocarbonate de butyle; Chloroformiate de butyle; Ester butylique de l'acide chloroformique; Ester butylique de l'acide carbonochloridique
+1594  CHLOROFORMIATE D'ISOBUTYLE
+Chlorocarbonate d'isobutyle; Chloroformiate de 2-méthylpropyle; Ester isobutylique de l'acide chloroformique; Ester 2-méthylpropylique de l'acide carbonochloridique
+1595  CHLOROFORMIATE DE n-PROPYLE
+Chloroformiate de propyle; Chlorocarbonate de propyle; Ester propylique de l'acide chloroformique; Ester propylique de l'acide carbonochloridique
+1596  TANTALE
+1597  HUILE MINERALE BLANCHE
+Paraffinum liquidum; Huile de paraffine
+1598  SULFONATE DE PETROLE, SEL SODIQUE
+Sel sodique de l'acide sulfonique (pétrole); Sels sodiques d'acides sulfoniques de pétrole
+1599  PHOSPHONATE de DIMETHYLE
+Diméthylphosphite; Phosphite acide de diméthyle; Ester diméthylique de l'acide phosphonique
+1600  N-METHYL DIETHANOLAMINE
+2,2`-(Méthylimino)bis-éthanol; Diéthanolméthylamine; Bis(2-hydroxyéthyl)méthylamine
+1601  THIODIGLYCOL
+2,2`-Thiodiéthanol; Di(2-hydroxyéthyl)sulfure; Diéthanolsulfure; Thiodiéthylène glycol
+1602  C10-C13 ALKYLBENZENESULFONATE DE SODIUM
+Sel sodique de l'acide alkylbenzène sulfonique linéaire; Benzènesulfonate de sodium (alkyle linéaire); LAS
+1603  ARSENITE DE SODIUM
+Sel sodique de l'acide arsénieux; Métaarsénite de sodium; Dioxoarsénate de sodium
+1604  1,5-NAPHTHALENEDIOL
+1,5-Dihydroxynaphthalène; Naphthalène-1,5-diol
+1605  ANTHRAQUINONE
+9,10-Anthraquinone; 9,10-Anthracènedione; Diphénylcétone
+1606  PEROXYDE DE SODIUM
+Dioxyde de Sodium; Superoxyde de sodium; Peroxyde de disodium
+1607  CHROMATE DE BARIUM
+Chromate (VI) de baryum; Chromate de baryum (1:1); Sel de barium de l'acide chromique (1:1); C.I. 77103; C.I. Pigment Jaune 31
+1608  DIHYDROGENOORTHOPHOSPHATE DE POTASSIUM
+Phosphate de potassium monobasique; Sel monopotassique de l'acide phosphorique
+1609  N,N-DIETHYLANILINE
+(Diéthylamino)benzène; Phényldiéthylamine
+1610  1-OCTADECANOL
+Alcool stéarique; Octadécan-1-ol; n-Octadécanol; 1-Hydroxyoctadécane; Alcool octadécylique
+1611  2,6-DI-TERT-BUTYLPHENOL
+2,6-bis(1,1-diméthyléthyl)phénol; 2,6-DTBP
+1612  ETHER PENTABROMODIPHENYLIQUE (Produit technique)
+Dérivé pentabromo du diphényléther; Dérivé pentabromo du 1,1'-Oxybisbenzène
+1613  ACIDE PERFLUOROOCTANOIQUE
+Acide pentadécafluorooctanoïque; Acide pentadécafluoro-n-octanoïque; Acide perfluorocaprylique
+1614  ETHER n-BUTYLIQUE DU PROPYLENE GLYCOL
+1-Butoxy-2-propanol; n-Butoxypropanol
+1615  1-tert-BUTOXY-2-PROPANOL
+Ether tert-butylique du propylène glycol; 1-Méthyl-2-tert-butoxyéthanol; 1-(1,1-Diméthyléthoxy)-2-propanol; PGTBE
+1616  1-(2-BUTOXYPROPOXY)-2-PROPANOL
+Ether monobutylique du dipropylène glycol; Ether butylique du dipropylène glycol; DPGnBE; 1-(2-Méthyl-2-butoxy-éthoxy)-2-propanol
+1617  1-(1-METHYL-2-BUTOXY-ETHOXY)-2-PROPANOL
+n-Butoxy-méthyléthoxy-propanol; n-Butoxy-propoxy-propanol; DPGnBE; Ether de dipropylène glycol-n-butyl
+1618  1,4-DICHLORO-2-NITROBENZENE
+2,5-Dichloronitrobenzène; 1-Nitro-2,5-dichlorobenzène; Nitro-p-dichlorobenzène
+1619  n-HEPTANETHIOL
+n-Heptylthiol; Alcool heptylique; 1-Mercaptoheptane; Heptylmercaptan
+1620  1-NONANETHIOL
+n-Nonylmercaptan; n-Nonylthiol; 1-Mercaptononane
+1621  1-UNDECANETHIOL
+n-Undécylmercaptan; Undécylmercaptan; Undécanethiol
+1622  1-OCTADECANETHIOL
+Stéarylmercaptan; n-Octadécylmercaptan; 1-Octadécylmercaptan; 1-Mercaptooctadécane; n-Octadécanethiol
+1623  ACIDE 2,2'-DITHIODIBENZOIQUE
+Acide 2,2'-dithiobisbenzoïque; Disulfure de bis(2-carboxyphényle); Diphényldisulfure de l'acide 2,2'-dicarboxylique; Acide 2,2'-dithiosalicylique
+1625  ACIDE ARSENIQUE (80% dans l'eau)
+Acide arsénique semihydraté; Solution de l'acide orthoarsénique
+1626  ACIDE BENZENE SULFONIQUE
+Acide benzène monosulfonique; Acide phénylsulfonique
+1627  SULFURE de ZINC
+Monosulfure de zinc
+1628  BROMURE de CALCIUM
+Dibromure de calcium
+1630  DIPHOSGENE
+Chloroformiate de trichlorométhyle; Ester trichlorométhylique de l'acide chloroformique
+1631  PICRATE D'AMMONIUM
+Sel d'ammonium du 2,4,6-trinitrophénol; Carbazoate d'ammonium
+1632  MALONALDEHYDE
+Malondialdéhyde; Propanedial; Aldéhyde malonique; 1,3-Propanedialdéhyde
+1633  1-CHLORO-3-NITROBENZENE
+Chloronitrobenzène; m-Chloronitrobenzène
+1634  FORMIATE DE CALCIUM
+Diformiate de calcium; Sel de calcium de l'acide formique
+1635  N-(1,3-DIMETHYLBUTYL)-N'-PHENYL-p-PHENYLENEDIAMINE
+N-(4-Méthyl-2-pentyl)-N'-phényl-1,4-diaminobenzène; N-(1,3-diméthylbutyl)-N'-phényl-1,4-benzènediamine; N-(1,3-diméthylbutyl)-N'-phényl-p-phénylènediamine; 6PPD
+1636  METHOXYFLURANE
+2,2-Dichloro-1,1-difluoroéthylméthyléther; 2,2-Dichloro-1,1-difluoro-1-méthoxyéthane; Méthoflurane; Penthrane
+1637  N-METHYLOLACRYLAMIDE
+N-(Hydroxyméthyl)acrylamide; N-(Hydroxyméthyl)-2-propènamide; Monométhylolacrylamide; N-Méthanolacrylamide
+1638  PHTALOCYANINE DE CUIVRE
+(29H,31H-Phtalocyaninato(2-)-N29,N30,N31,N32)cuivre; (SP-4-1)-(29H,31H-phtalocyaninato(2-)-N29,N30,N31,N32)cuivre; Tétrabenzo-5,10,15,20-diazaporphyrinephtalocyanine; C.I. Pigment bleu 15
+1639  CYANAMIDE DE CALCIUM
+Carbimide calcique; Cyanamide calcique
+1641  PERHYDRO-1,3,5-TRINITRO-1,3,5-TRIAZINE
+1,3,5-Triaza-1,3,5-trinitrocyclohexane; RDX (Royal Demolition Explosive); Hexogène; Cyclonite; Cyclotriméthylènetrinitramine
+1642  ISOCYANATE DE BUTYLE
+1-Isocyanatobutane
+1643  ANHYDRIDE CYCLOHEXANEDICARBOXYLIQUE
+Acide cyclohexane-1,2-dicarboxylique anhydride; Hexahydro-1,3-isobenzofuranedione; Anhydride hexahydrophtalique; HHPA
+1644  ANHYDRIDE METHYLHEXAHYDROPHTALIQUE
+Anhydride de l'acide hexahydrométhylphtalique; Hexahydrométhyl-1,3-isobenzofuranedione; MHHPA
+1645  ANHYDRIDE METHYLTETRAHYDROPHTALIQUE
+Tétrahydrométhyl-1,3-isobenzofuranedione; MTHPA; Anhydride 1,2,3,6-tétrahydrométhylphtalique; 3a,4,7,7a-tétrahydrométhyl-1,3-isobenzofuranedione
+1651  NITRITE D'ISOBUTYLE
+Ester 2-méthylpropylique de l'acide nitreux; Ester isobutylique de l'acide nitreux
+1652  2-AMINO-4-CHLOROPHENOL
+p-Chloro-o-aminophénol; 2-Hydroxy-5-chloroaniline; 4-Chloro-2-aminophénol; C.I. 76525
+1653  OXYDE DE SODIUM
+Monoxyde de sodium; Oxyde de disodium; Monoxyde de disodium
+1654  ACIDES NAPHTENIQUES
+Acides carboxyliques, naphténiques; Fraction de pétrole acide
+1655  ETHYL-BIS(2-CHLOROETHYL)-AMINE
+Bis(2-chloroéthyl)éthylamine; 2-Chloro-N-(2-chloroéthyl)-N-éthyléthanamine; 2,2'-Dichloro-triéthylamine; HN1; Moutarde azotée
+1658  2-CHLORO-6-TRICHLOROMETHYLPYRIDINE
+Nitrapyrine; alpha,alpha,alpha,6-Tétrachloro-2-picoline; 2-Chloro-6-(trichloroméhyl)pyridine
+1659  METHIDATHION
+Phosphorodithioate de O,O-diméthyle et de S-(2,3-dihydro-5-méthoxy-2-oxo-1,3,4-thiadiazol-3-ylméthyle); Dithiophosphate de O,O-Diméthyle et de S-(5-méthoxy-1,3,4-thiadiazolinyl-3-méthyle)
+1660  ETHOPROPHOS
+Phosphorodithioate de O-éthyle et de S,S-dipropyle; Ester O-éthylique et S,S-dipropylique de l'acide phosphorodithioïque; Ethoprop
+1661  DICHLORURE DE SOUFRE
+Sulfure de chlore; Dichlorosulfane; Dichlorure monosulfurique
+1662  1,2-DIMETHYLHYDRAZINE
+Diméthylhydrazine symétrique; N,N'-Diméthylhydrazine; SDMH
+1664  3-CHLORO-1,2-PROPANEDIOL (MELANGE RACEMIQUE)
+alpha-Chlorohydrine; Glycérol alpha-monochlorohydrine; Chlorhydrine; 3-Chloro-1,2-dihydroxypropane
+1665  1-BROMO-3-CHLOROPROPANE
+1-Chloro-3-bromopropane; Chlorobromure de triméthylène
+1666  3,3'-DIAMINOBENZIDINE
+3,3',4,4'-Biphényltétramine; (1,1'-Biphényl)-3,3',4,4'-tétraamine; 3,3',4,4'-Diphényltétramine; 3,3',4,4'-Tétraaminobiphényle; Biphényl-3,3',4,4'-tétrayltétraamine
+1667  DERIVE OCTABROMO DE l'ETHER PHENYLIQUE
+Ether octabromodiphénylique; Dérivé octabromo du 1,1'-Oxybisbenzène; Oxyde d'octabromodiphényle
+1668  EPTAC (solution aqueuse à 70-75 %)
+Chlorure de 2,3-époxypropyltriméthylammonium; Chlorure de N,N,N-triméthyloxiraneméthanaminium; Chlorure de glycidyltriméthylammonium
+1669  CHPTAC (solution aqueuse à 50-70 %)
+Chlorure de 3-chloro-2-hydroxy-N,N,N-triméthyl-1-propanaminium; Chlorure de (3-Chloro-2-hydroxypropyl)triméthylammonium
+1670  TETRAHYDROBORATE DE SODIUM
+Borohydrure de sodium
+1671  ACIDE THIOCYANIQUE
+Rhodanate d'hydrogène
+1672  CHRYSENE
+Benzo[a]phénanthrène; 1,2-Benzophénanthrène; 1,2,5,6-Dibenzonaphthalène
+1673  ACIDE TRIFLUOROACETIQUE
+Acide perfluoroacétique; Acide trifluoroéthanoïque
+1674  ACENAPHTHENE
+1,2-Dihydroacénaphthylène; 1,8-Ethylènenaphthalène
+1675  ACIDE TRICHLOROISOCYANURIQUE
+1,3,5-Trichloro-s-triazine-2,4,6(1H,3H,5H)-trione; Symclosène; Trichloro-s-triazinetrione
+1676  BROMURE D'ETHIDIUM
+Bromure de 3,8-diamino-5-éthyl-6-phénylphénanthridium; Bromure de 2,7-diamino-10-éthyl-9-phénylphénanthridinium; Bromure d'homidium
+1677  PHOSPHATE DE TRIS(2-CHLOROETHYLE)
+Phosphate de tri(bêta-chloroéthyle); Orthophosphate de tris(2-chloroéthyle); Phosphate de 2-chloroéthanol (3:1); TCEP
+1678  N,N'-DIACETYLBENZIDINE
+4,4'-Diacétamidobiphényl; N,N'-(1,1'-Biphényl)-4,4'-diylbisacétamide; 4',4'''-Biacétanilide; 4,4'-Diacétylbenzidine; DABZ
+1679  METHACRYLATE DE GLYCIDYLE
+Méthacrylate de 2,3-époxypropyle; alpha-Méthyl acrylate de glycidyle; Ester 2,3-époxypropylique de l'acide méthacrylique; Méthacrylate de 2,3-époxy-1-propanol
+1680  2,4-DIAMINO-6-PHENYL-1,3,5-TRIAZINE
+6-Phényl-1,3,5-triazine-2,4-diyldiamine; Benzoguanamine; 6-Phényl-1,3,5-triazine-2,4-diamine
+1681  CHLORETHOXYFOS
+Ester O,O-diéthylique et O-(1,2,2,2-tétrachloroéthylique) de l'acide phosphorothioïque; Phosphorothioate de O,O-Diéthyl et de O-(1,2,2,2-tétrachloroéthyle)
+1682  CHLORMEPHOS
+Clorméthylphos; Phosphorodithioate de S-chlorométhyle et de O,O-diéhyle; Ester O,O-diéthylique et S-chlorométhylique de l'acide phosphorodithioïque
+1683  RAVIVATEUR FLUORESCENT 220
+C.I. Ravivateur fluorescent 220; Voir notes
+1684  4-NITROBENZOIC ACID
+Acide para-nitrobenzoïque; para-Carboxynitrobenzène
+1685  ACIDE SEBACIQUE
+Acide 1,10-décanedioïque; Acide 1,8-octanedicarboxylique; Acide décanedioïque
+1686  2,5-XYLIDINE
+2,5-Diméthylaniline; 2,5-Diméthylbenzèneamine; 1-Amino-2,5-diméthylbenzène; 2-Amino-1,4-diméthylbenzène; 2-Amino-p-xylène; 2-Amino-1,4-xylène
+1687  3,5-XYLIDINE
+3,5-Diméthylaniline; 3,5-Diméthylbenzèneamine; 1-Amino-3,5-diméthylbenzène; 5-Amino-m-xylène; 5-Amino-1,3-xylène
+1688  SEL D'ETHYLENEDIAMINETETRAACETATE DE TETRASODIUM
+Sel tétrasodique de l'acide éthylènediaminetétraacétique; Sel tétrasodique de l'acide (éthylènedinitrilo)tétraacétique; Sel tétrasodique de l'acide éthylènediaminediacétique; Sel tétrasodique de l'EDTA
+1689  ETHER BIS(PENTABROMOPHENYLIQUE)
+Ether décabromodiphénylique; Oxyde de décabromodiphényle; Dérivé décabromo du phénoxybenzène; 1,1’ oxybis(2,3,4,5,6-pentabromobenzène); DBDPE; DBDPO; DBBE; DBBO
+1695  CARBONATE DE STRONTIUM
+Strontianite; Sel de strontium de l'acide carbonique (1:1)
+1696  SULFATE DE STRONTIUM
+Célestite; Sel de strontium de l'acide sulfurique (1:1); Célestine
+1697  PERFLUOROBUTYLETHYLENE
+3,3,4,4,5,5,6,6,6-nonafluoro-1-hexène
+1698  SULFATE DE ZINC
+sulfate de zinc (anhydre); Sel de zinc de l'acide sulfurique (1:1)
+1699  ACIDE NEODECANOIQUE
+Acide 2,2-diméthyloctanoïque; Acide 2,2,3,5-tétraméthylhexanoïque; Acide 2,4-diméthyl-2-isopropylpentanoïque; Acide 2,5-diméthyl-2-éthylhexanoïque
+1700  KETOCONAZOLE
+Kétoconazole
+1701  TETRAKIS(3-(3,5-DI-TERT-BUTYL-4-HYDROXYPHENYL)PROPIONATE) DE PENTAERYTHRITOL
+Tétrakis(3,5-di-tert-butyl-4-hydroxyhydrocinnamoyloxyméthyl)méthane; Ester néopentanetétraylique de l'acide 3,5-di-tert-butyl-4-hydroxycinnamique; Tétrakis(méthylène(3,5-di-(tert)-butyl-4-hydrocinnamate)) méthane
+1702  NICOTINIC ACID
+Acide 3-pyridinecarboxylique; 3-Carboxypyridine; Acide pyridine-bêta-carboxylique; Niacine
+1703  NICOTINAMIDE
+Pyridine-3-carboxylamide; 3-Pyridinecarboxamide; Niacinamide
+1704  CAMPHENE
+2,2-Diméthyl-3-méthylène-norborane; 2,2-Diméthyl-3-méthylènebicycloheptane (2.2.1)
+1705  DIBUTYL ADIPATE
+Adipate di-n-butylique; Dibutyl hexanedioate; Ester dibutylique de l'acide hexanedioïque
+1706  ETHER D'ETHYLE ET DE TERT-BUTYLE
+ETBE; 2-Ethoxy-2-méthylpropane; Ether d'éthyle et de 1,1-diméthyléthyle
+1707  1-CHLORONAPHTHALENE
+alpha-Chloronaphthalène; Chlorure d'alpha-naphthyle
+1708  2-Chloronaphthalene
+1709  NITRATE DE CELLULOSE (sec, plus de 12,6 % d'azote)
+1710  SODIUM HYDROGENSULFIDE
+Sulfhydrate de sodium; Bisulfure de sodium; Sodiummercaptan; Sodium mercaptide; Hydrosulfure de sodium
+1711  1,3-DICHLORO-2-PROPANOL
+alpha-Dichlorohydrine; sym-Glycérol dichlorohydrine; Alcool sym-dichloroisopropylique; 1,3-Dichloro-2-propanol
+1712  1,1-DICHLORO-1-FLUOROETHANE
+Dichlorofluoroéthane; HCFC-141b
+1713  CHLORURE DE BROME
+Bromochlorure
+1714  DIISOPROPYLBENZENE (mixture)
+Bis(1-méthyléthyl)benzène
+1715  DICHLORURE DE FER
+Chlorure de fer(II); Chlorure ferreux
+1716  ACETATE DE LINALYLE
+Acétate de 3,7-diméthyl-1,6-octadièn-3-yl; Acétate de 1,5-diméthyl-1-vinylhex-4-ényle; Ester linalolique de l'acide acétique; Acétate de linalol
+1717  SODIUM DITHIONITE
+Hypodisulfite de sodium; Hydrosulfite de disodium; Hydrosulfite de sodium; Hyposulfite de sodium
+1718  TETRAETHYLENE PENTAMINE
+3,6,9-Triazaundécaméthylènediamine; 1,11-Diamino-3,6,9-triazaundécane; Tétrène; TEPA
+1719  2-METHYLBUT-3-EN-2-OL
+3-Hydroxy-3-méthylbutène; 2-Méthyl-3-butèn-2-ol; Diméthylvinylméthanol
+1720  p-PHENETIDINE
+4-Ethoxyaniline; Ethyl p-aminophénol; 4-Ethoxybenzènamine; 4-Amino-1-éhoxy benzène
+1721  IMIDAZOLE
+1,3-Diaza-2,4-cyclopentadiène; 1,3-Diazole; Glyoxaline; Miazole
+1722  1,3-PENTADIENE
+Penta-1,3-diène; 1-Méthylbutadiène; Pipérylène
+1723  ACRYLATE DE 2-HYDROXYETHYLE
+Ester 2-Hydroxyéthylique de l'acide 2-propénoïque; Monoacrylate de l'éthylène glycol; Ester hydroxyéthylique de l'acide acrylique
+1724  METHACRYLATE DE 2-HYDROXYETHYLE
+Monométhacrylate de l'éthylène glycol; Ester 2-méthylique et 2-hydroxyéthylique de l'acide 2-propénoïque; HEMA
+1725  CITRAL
+3,7-Diméthyl-2,6-octadiénal; Lémonal
+1727  2,4-DICHLOROTOLUENE
+2,4-Dichloro-1-méthylbenzène
+1728  2,6-DICHLOROTOLUENE
+1,3-dichloro-2-méthylbenzène
+1729  1,1-DIFLUOROETHANE
+Fluorure d'éthylène; HFC-152a; Fréon 152a
+1730  TRIETHYLPHOSPHATE
+Ethylphosphate; Ester triéthylique de l'acide phosphorique; Oxyde de triéthoxyphosphine; TEP
+1731  METHYLATE DE POTASSIUM
+Méthanolate de potassium; Méthoxypotassium; Méthoxyde de potassium
+1732  FUMARATE DE DIMETHYLE
+Ester diméthylique de l’acide (E)-2-butènedioïque; Ester diméthylique de l’acide bolétique; (E)-butènedioate de diméthyle; Ester diméthylique de l’acide trans-1,2-Ethylènedicarboxylique
+1733  2-BUTYNE-1,4-DIOL
+1,4-Butynediol; 1,4-Dihydroxy-2-butyne; But-2-yne-1,4-diol; 2-Butynediol
+1734  SULFATE DE CALCIUM DIHYDRATE
+Magnesie blanche; Sel de calcium de l'acide sulfurique, dihydrate; Blanc minéral
+1735  DECENE (MELANGE D'ISOMERES)
+Décène, Isomères; Décylène; Décènes
+1736  GLUCONATE DE CALCIUM
+Sel de calcium de l'acide D-Gluconique (2:1); D-gluconate de calcium
+1737  GLUCONATE DE SODIUM
+Sel monosodique de l'acide D-Gluconique; D-gluconate de Sodium
+1738  ACIDE GLUCONIQUE
+Acide D-gluconique; Acide 2,3,4,5,6-pentahydroxyhexanoïque; Acide glycogénique
+1739  DIETHYLMALONATE
+1740  VANILLINE
+4-Hydroxy-3-méthoxybenzaldéhyde; 2-Méthoxy-4-formylphénol; Aldéhyde vanillique
+1741  epsilon-CAPROLACTONE
+Acide 6-Hydroxycaproique, lactone; 2-Oxepanone; Hexan-6-olide; 1,6-Hexanolide
+1742  ACRYLATE D'HYDROXYPROPYLE, ISOMERES
+Monoacrylate de propylène glycol; Monoester de l'acide acrylique avec le propane-1,2-diol; Monoester de l'acide 2-propénoïque avec le propane-1,2-diol
+1743  ACRYLATE D'ISOOCTYLE
+Ester isooctylique de l'acide 2-propénoïque; Ester isooctylique de l'acide acrylique
+1744  PERCARBONATE DE SODIUM
+Peroxyhydrate de carbonate de sodium
+1745  1,3-DIMETHYLUREE
+N,N'-Diméthylurée; sym-Diméthylurée
+1746  2-METHYLBUT-3-YN-2-OL
+2-Méthyl-3-butyn-2-ol; Ethynyldiméthylcarbinol
+1747  HYDROXYLAMINE (solution aqueuse à 50 %)
+1748  3-METHYLBUTANAL
+Isovaléraldéhyde; Isopentaldéhyde; Isopentanal
+1749  ETHER METHYLIQUE DU TETRAETHYLENE GLYCOL
+3,6,9,12-Tétraoxotridécanol; 3,6,9,12-Tétraoxotridécan-1-ol; Méthoxytéraéthylène glycol
+1750  ETHER BUTYLIQUE DU TETRAETHYLENE GLYCOL
+3,6,9,12-Tétraoxahexadécan-1-ol; Butoxytétraéthylène glycol
+1751  ETHER METHYLIQUE DU TRIPROPYLENE GLYCOL
+[2-(2-Méthoxyméthyléthoxy)méthyléthoxy]propanol; O-Méthyltripropylène glycol
+1752  ACETATE DE L'ETHER METHYLIQUE DU DIPROPYLENE GLYCOL
+Acétate de 1(ou 2)-(2-méthoxyméhyléthoxy)propanol
+1754  ETHIOPHENCARBE
+N-méthylcarbamate de 2-(éthylthiométhyl)phényle; Méthylcarbamate d’ alpha-(éthylthio)-o-tolyle; Méthylcarbamate de 2-[(éthylthio)méthyl]phényle
+1755  MECARBAME
+O,O-Diéthylphosphorodithioate de S-(N-éthoxycarbonyl-N-méthylcarbamoylméthyle); N-(Diéthoxythiophosphorylthio)acétyl-N-méthylcarbamate d’éthyle; 6-Ethoxy-2-méthyl-3-oxo-7-oxa-5-thia-2-aza-6-sulfo-6-phosphanonanoate d’éthyle
+1756  CHLOROPHACINONE
+2-[2-(4-chlorophényl)-2-phénylacétyl]indane-1,3-dione; 2-[(4-Chlorophényl)phénylacétyl]-1H-indène-1,3(2H)-dione
+1757  DIPHACINONE
+2-(Diphénylacétyl)-1H-indène-1,3(2H)-dione; 2-(Diphénylacétyl)indane-1,3-dione
+1758  BLASTICIDINE-S
+Acide 4-[3-amino-5-(1-méthylguanidino)valéramido]-1-(4-amino-2-oxo-1(2H)-pyrimidinyl)-1,2,3,4-tétradéoxy-béta-D-érythro-hex-2-énopyranuronique; Acide 4[[(3S)-3-amino-5-[(aminoiminométhyl)méthylamino]-1-oxopentyl]amino]-1-[4-amino-2-oxo-1(2H)-pyrimidinyl]-1,2,3,4-tétradéoxy-béta-D-érythro-hex--2-énopyranuronique; Acide 3-(3-amino-5-(1-méthylguanidino)-1-oxopentylamino-6-(4-amino-2-oxo-2,3-dihydro-pyrimidin-1-yl)-2,3-dihydro-(6H)-pyranne-2- carboxylique
+1759  ACIDE 3-HYDROXY-2-NAPHTOIQUE
+Acide 3-Hydroxy-2-naphthalènecarboxylique; Acide béta-Hydroxynaphtoïque
+1760  3-METHYLBUT-2-EN-1-OL
+Alcool 3,3-Diméthylallylique; Alcool prénylique; Prénol
+1761  1,3-DICHLORO-2-BUTENE
+1,3-dichlorobutylène
+1762  CHLORURE DE p-TOLUENESULFONYLE
+Chlorure de tosyle; Chlorure de 4-toluènesulfonyle; Chlorure de 4-méthylbenzènesulfonyle
+1763  1-CHLORO-2-(CHLOROMETHYLE)BENZENE
+Chlorure de 2-chlorobenzyle; alpha-2-Dichlorotoluène; 1-Chloro-2-(chlorométhyl)benzène
+1764  CYFLUTHRINE
+Ester de l’acide 2-(2,2-dichlorovinyl)-3,3-diméthylcyclopropanecarboxylique avec le 4-fluoro-3-phénoxyphényl)hydroxyacétonitrile; Ester cyano(4-fluoro-3-phénoxyphényl)méthylique de l’acide 3-(2,2-dichloroéthényl)-2,2-diméthyl cyclopropanecarboxylique; 3-(2,2-Dichlorovinyl)-2,2-diméthylcyclopropanecarboxylate d’ alpha-cyano-4-fluoro-3-phénoxybenzyle
+1765  1-DODECANOL
+1766  METHIOCARBE
+Méthylcarbamate de 3,5-diméthyl-4-(méthylthio)phényle; Méthylcarbamate de 4-méthylthio-3,5-xylyle; Méthylcarbamate de 3,5-diméthyl-4-(méthylthio)phénol; Mercaptodiméthur
+1767  TEBUPIRIMFOS
+1768  Terbufos
+1769  FIBRES DE VERRE
+Fibres vitreuses artificielles; Filaments continus de verre; Laines minérales; Voir NOTES
+1770  CHROMATE DE POTASSIUM
+1771  CHROMATE DE CALCIUM
+1772  5-ETHYL-2-METHYLPYRIDINE
+1773  2,2-DIMETHYLPROPANE
+1774  Bunker fuel
+1775  CHROMATE DE ZINC ET DE POTASSIUM
+1776  2,3,3,3-TETRAFLUOROPROPENE
+1777  ACIDE FLUORHYDRIQUE (SOLUTION AQUEUSE A 70 %)
+1778  ACIDE PHOSPHORIQUE (SOLUTION AQUEUSE A 85%)
+1779  TETRAFLUOROETHYLENE
+Gaz réfrigérant R1114; 1,1,2,2-Tétrafluoroéthène; Perfluoroéthylène; Perfluoroéthène; Tétrafluoroéthène
+1780  OXYDE DE ZINC (NANOPARTICULES)
+Monoxyde de zinc (sous forme nano); Oxyde de zinc (II) (sous forme nano)
+1782  DIOXYDE DE TITANE (NANOPARTICULES) P25
+Dioxyde de titane pigmentaire; Particules < 100 nm
+1783  DIISOCYANATE DE TOLUENE (mélange 80/20 des isomères 2,4- et 2,6-)
+TDI 80/20
+1784  ORTHO-PHTALALDEHYDE
+1,2-Benzènedicarboxaldéhyde; Phtaldialdéhyde; o-Phtalaldéhyde
+1785  DICHLOROISOCYANURATE DE SODIUM DIHYDRATE
+Troclosène sodique, dihydraté; Sel de sodium dihydraté de l'acide dichloroisocyanurique
