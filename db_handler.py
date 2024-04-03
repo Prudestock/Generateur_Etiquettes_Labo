@@ -2,7 +2,7 @@ import sqlite3
 import re
 from colored_logger import log
 
-CONNECTION = sqlite3.connect("/Users/joffrey/Documents/Codage/PycharmProjects/EtiquettesLaboPyQt/fds.db")
+CONNECTION = sqlite3.connect("fds.db")
 
 
 def insert_in_db(db_connection: sqlite3.Connection, column: str, value: str) -> None:
