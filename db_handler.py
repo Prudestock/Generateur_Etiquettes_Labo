@@ -1,8 +1,12 @@
 import sqlite3
 import re
 from colored_logger import log
+import os
 
-CONNECTION = sqlite3.connect("fds.db")
+cwd = os.getcwd()
+log.debug(f"{cwd}")
+db = cwd+"/fds.db"
+CONNECTION = sqlite3.connect(db)
 
 
 def insert_in_db(db_connection: sqlite3.Connection, column: str, value: str) -> None:
@@ -35,7 +39,7 @@ def update_db(produit: str, column: str, value: str,db_connection=CONNECTION):
 
 def read_db(db_connection: sqlite3.Connection, produit: str) -> None:
     """Permet de lire toutes les valeurs pour une entrée donnée"""
-    results = db_connection.cursor().execute(f"""SELECT * FROM fds WHERE name=\"{produit.upper()}\"""")
+    results = db_connection.cursor().execute(f"""SELECT * FROM fds WHERE name=\'{produit.upper()}\'""")
     result = results.fetchone()
     if result is None:
         log.info(f"Requete \"{produit.upper()}\" non trouvée")
@@ -60,7 +64,7 @@ def read_db_from_product(db_connection: sqlite3.Connection, produit: str, param:
     if param in ["number", "name", "synonyms", "long_url", "short_url",
                  "attention", "sante", "polluant", "corrosif", "toxique", "oxydant", "quantite"]:
 
-        results = db_connection.cursor().execute(f"""SELECT {param} FROM fds WHERE name=\"{produit.upper()}\"""")
+        results = db_connection.cursor().execute(f"""SELECT {param} FROM fds WHERE name=\'{produit.upper()}\'""")
         result = results.fetchone()
         if result is None:
             log.info(f"Requete \"{produit.upper()}\" non trouvée")
