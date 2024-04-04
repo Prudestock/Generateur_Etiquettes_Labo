@@ -62,7 +62,8 @@ def create_picto(picto, disclaimer: str):
 def get_list_of_dangers(product: str) -> list:
     """returns a list of paths with dangers associated to the chemical"""
     dangers = []
-    sql = f"""SELECT attention,sante,polluant,corrosif,toxique,oxydant,inflammable FROM fds WHERE name = \'{product.upper()}\'"""
+    sql = f"""SELECT attention,sante,polluant,corrosif,toxique,oxydant,inflammable 
+    FROM fds WHERE name = \'{product.upper()}\'"""
     c = CONNECTION.cursor()
     c.execute(sql)
     result = c.fetchone()
@@ -155,7 +156,7 @@ def image_resize_w_final_size(image: Image, final_w: int = 690, final_h: int = 5
 def add_url_below_qr():
     FONT = ImageFont.truetype("./Assets/Fonts/arial.ttf", 50)
     c = CONNECTION.cursor()
-    sql = "SELECT name,short_url FROM fds WHERE short_url IS NOT ''"""
+    sql = "SELECT name,short_url FROM 'fds' WHERE short_url IS NOT ''"""
     c.execute(sql)
     for row in c:
         prod = re.sub("\s", "_", row[0])
@@ -191,17 +192,21 @@ def generate_sticker(produit: str, concentration: str):
         qr = image_resize_w_factor(f'./Assets/QR_Codes/QR+URL/QR+URL_{file_name}.png')
     except FileNotFoundError:  # Si pas de QR code
         qr = Image.new('RGB', (360, 500), "white")
-    list_dangers = get_list_of_dangers(product=produit)  # Récupère les dangers dans la BD
+    list_dangers = get_list_of_dangers(product=produit)
     dangers = assemble_pictograms(images=list_dangers)  # Crée l'image avec les pictos
-    dangers = dangers.resize(size=(690, 300), resample=Image.Resampling.LANCZOS)  # Adapte la taille
+    if len(list_dangers)>1:# Récupère les dangers dans la BD
+        dangers = dangers.resize(size=(690, 300), resample=Image.Resampling.LANCZOS)  # Adapte la taille
+    else :
+         dangers = dangers.resize(size=(290, 300), resample=Image.Resampling.LANCZOS)  # Adapte la taille
     dangers = ImageOps.expand(dangers, border=5, fill="black")  # Ajoute une bordure autour des pictos
 
     bg = Image.new('RGBA', (1050, 750), color="white") # Image finale
     bg.paste(lbl, (0, 0))
     bg.paste(qr, (0, 250))
-    bg.paste(dangers, (325, 300)) # TO DO - CENTRER LES PICTOS
+    bg.paste(dangers, (350, 290)) # TO DO - CENTRER LES PICTOS
+    bg = ImageOps.expand(bg,border=5,fill="black")
     bg.show() # Montre l'image
 
 
 # add_url_below_qr()
-generate_sticker("DIOXYDE DE SOUFRE", "1g/L")
+generate_sticker("VANILLINE", "1g/L")
