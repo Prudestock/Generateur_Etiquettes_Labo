@@ -1,3 +1,6 @@
+import random
+from models.quote_picker import get_quote
+
 class HomeController:
     def __init__(self, model, view):
         self.model = model
@@ -6,9 +9,11 @@ class HomeController:
         self._bind()
 
     def _bind(self):
-        #self.frame.signout_btn.config(command=self.logout)
-        pass
+        self.frame.quote_btn.config(command=self.quoting)
 
-    def logout(self):
-        #self.model.auth.logout()
-        pass
+    def quoting(self):
+        quote = get_quote("./Assets/Files/Citations.txt")
+        self.frame.quote.set(value=quote)
+        self.frame.quote_btn.config(textvariable = self.frame.quote)
+
+

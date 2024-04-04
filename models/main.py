@@ -1,3 +1,5 @@
+from models.home import HomeModel
+
 class Model:
     def __init__(self):
-        pass
+        self.home = HomeModel()

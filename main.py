@@ -1,9 +1,3 @@
-# Currently empty
-# Should launch a Tkinter_App
-
-
-
-
 from models.main import Model
 from views.main import View
 from controllers.main import Controller

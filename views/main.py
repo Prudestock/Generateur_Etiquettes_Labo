@@ -6,7 +6,6 @@ class View:
     def __init__(self):
         self.root = Root()
         self.frames = {}
-
         self._add_frame(HomeView, "home")
 
     def _add_frame(self, Frame, name):
