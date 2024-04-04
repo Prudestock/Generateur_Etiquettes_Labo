@@ -1,5 +1,6 @@
 from .root import Root
 from .home import HomeView
+from .labelgenerator import LabelView
 
 
 class View:
@@ -7,6 +8,7 @@ class View:
         self.root = Root()
         self.frames = {}
         self._add_frame(HomeView, "home")
+        self._add_frame(LabelView, "label")
 
     def _add_frame(self, Frame, name):
         self.frames[name] = Frame(self.root)
