@@ -10,7 +10,7 @@ class HomeController:
 
     def _bind(self):
         self.frame.quote_btn.config(command=self.quoting)
-        self.frame.generate_btn.config(command = self.click)
+        self.frame.generate_btn.config(command = self.switch_to_labelgen)
         self.frame.get_info_btn.config(command=self.click)
         self.frame.calc_btn.config(command=self.click)
 
@@ -21,5 +21,11 @@ class HomeController:
 
     def click(self):
         print("CLICKED!")
+
+    def switch_to_labelgen(self):
+        self.view.switch("label")
+
+    def switch_to_stock(self):
+        self.view.switch("stock")
 
 

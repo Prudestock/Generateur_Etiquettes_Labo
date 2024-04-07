@@ -3,9 +3,9 @@ import re
 from colored_logger import log
 import os
 
-cwd = os.getcwd()
-log.debug(f"{cwd}")
+cwd = os.path.normpath(os.path.dirname(os.path.abspath(__file__)))
 db = cwd+"/fds.db"
+#log.debug(f"PATH DB = {db}")
 CONNECTION = sqlite3.connect(db)
 
 

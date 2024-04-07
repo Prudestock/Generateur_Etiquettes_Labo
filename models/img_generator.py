@@ -4,6 +4,10 @@ import re
 from colored_logger import log
 
 
+SIZE_S = (7,4)
+SIZE_L = (14,7)
+
+
 def nth_repl(s, sub=" ", repl="\n", n=3):
     log.debug(f"s={s},sub={sub},repl={repl},n={n}")
     find = s.find(sub)
@@ -92,6 +96,8 @@ def assemble_pictograms(images: list) -> Image:
     total_width = 0
     temp_width = 0
     height = 0
+    if images == []:
+        return None
     for image in images:
         im = Image.open(image)
         total_width += im.size[0] + 50 * len(images)  # Getting the total length of the generated image
@@ -102,6 +108,7 @@ def assemble_pictograms(images: list) -> Image:
         im = Image.open(image)
         new_image.paste(im, (temp_width, 0))
         temp_width += (im.size[0] + 50)
+    new_image=new_image.resize(size=(690, 300))
     # new_image.save(f'{output}.jpg', format="JPEG")
     return new_image
 
@@ -166,7 +173,7 @@ def add_url_below_qr():
         _, _, w, h = draw.textbbox((0, 0), row[1], font=FONT)
         draw.multiline_text(((660 - w) / 2, (60 - h) / 2), row[1], font=FONT, fill="black")
         name = re.sub("\s", "_", row[0])
-        im_qr = "./Assets/QR_Codes/QR/QR_" + name + ".png"
+        im_qr = "../Assets/QR_Codes/QR/QR_" + name + ".png"
         image_qr = Image.open(im_qr)
         image_qr_size = image_qr.size
         image_url_size = image_url.size
@@ -176,7 +183,7 @@ def add_url_below_qr():
 
         new_image.paste(image_qr, (0, 0))  # Adds the QR_Code
         new_image.paste(image_url, (0, image_qr_size[1] - 70))
-        path = f"./Assets/QR_Codes/{output_name}.png"
+        path = f"../Assets/QR_Codes/{output_name}.png"
         new_image.save(path, "PNG")
         # new_image.show()
 
@@ -184,29 +191,34 @@ def add_url_below_qr():
 def generate_sticker(produit: str, concentration: str):
     assert type(concentration) is str
     assert type(produit) is str
+    bg = Image.new('RGBA', (1050, 750), color="white")  # Image finale
     produit = produit.upper()  # Mise en forme
     lbl = create_lbl(produit=produit, concentration=concentration)  # Création de l'en-tête
 
     try:
         file_name = re.sub(" ", "_", produit)
         qr = image_resize_w_factor(f'./Assets/QR_Codes/QR+URL/QR+URL_{file_name}.png')
+        bg.paste(qr, (0, 250))
     except FileNotFoundError:  # Si pas de QR code
         qr = Image.new('RGB', (360, 500), "white")
-    list_dangers = get_list_of_dangers(product=produit)
-    dangers = assemble_pictograms(images=list_dangers)  # Crée l'image avec les pictos
-    if len(list_dangers)>1:# Récupère les dangers dans la BD
-        dangers = dangers.resize(size=(690, 300), resample=Image.Resampling.LANCZOS)  # Adapte la taille
-    else :
-         dangers = dangers.resize(size=(290, 300), resample=Image.Resampling.LANCZOS)  # Adapte la taille
-    dangers = ImageOps.expand(dangers, border=5, fill="black")  # Ajoute une bordure autour des pictos
 
-    bg = Image.new('RGBA', (1050, 750), color="white") # Image finale
+    list_dangers = get_list_of_dangers(product=produit)
+    log.debug(f"DANGERS POUR {produit} = {list_dangers}")
+    if list_dangers != []:
+        dangers = assemble_pictograms(images=list_dangers)  # Crée l'image avec les pictos
+        if len(list_dangers)>1:# Récupère les dangers dans la BD
+            #dangers = dangers.resize(size=(690, 300))  # Adapte la taille
+            #dangers = dangers.resize(size=(290, 300), resample=Image.Resampling.LANCZOS)  # Adapte la taille
+            dangers = ImageOps.expand(dangers, border=5, fill="black")  # Ajoute une bordure autour des pictos
+            bg.paste(dangers, (350, 290))  # TO DO - CENTRER LES PICTOS
+
+
     bg.paste(lbl, (0, 0))
-    bg.paste(qr, (0, 250))
-    bg.paste(dangers, (350, 290)) # TO DO - CENTRER LES PICTOS
+
+
     bg = ImageOps.expand(bg,border=5,fill="black")
     bg.show() # Montre l'image
 
 
 # add_url_below_qr()
-generate_sticker("VANILLINE", "1g/L")
+#generate_sticker("AMIDON", "1g/L")

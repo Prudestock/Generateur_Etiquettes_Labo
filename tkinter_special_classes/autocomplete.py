@@ -160,3 +160,4 @@ class AutocompleteEntry(Frame, object):
         widget = event.widget
         value = widget.get(int(widget.curselection()[0]))
         self.text.set(value)
+        self.listbox.grid_forget()

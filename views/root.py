@@ -23,7 +23,8 @@ class Root(Tk):
 
         menu_file = Menu(menu_bar, tearoff=0)
         menu_file.add_command(label="Génerer des étiquettes", command=self.do_something)
-        menu_file.add_command(label="Obtenir des informations", command=self.do_something)
+        menu_file.add_command(label="Gérer les stocks", command=self.do_something)
+        menu_file.add_command(label="Obtenir des informations sur un produit", command=self.do_something)
         menu_file.add_command(label="Calculer", command=self.do_something)
         # menu_file.add_separator()
         # menu_file.add_command(label="Exit", command=self.quit)

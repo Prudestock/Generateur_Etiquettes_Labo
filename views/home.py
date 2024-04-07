@@ -6,6 +6,8 @@ class HomeView(Frame):
         super().__init__(*args, **kwargs)
         self.grid_columnconfigure(0, weight=1)
         self.grid_columnconfigure(1, weight=0)
+        for i in range(5):
+            self.grid_rowconfigure(i,weight=1)
 
         self.quote = StringVar(self)
         self.quote.set(value="Coucou les loulous!")
@@ -16,11 +18,17 @@ class HomeView(Frame):
         self.generate_btn = Button(self,
                                    text="Générer des étiquettes",
                                    height=3)
+
         self.get_info_btn = Button(self,
                                    text="Obtenir des informations sur un produit de la base",
                                    height=3)
+
+        self.stock_btn = Button(self,
+                               text="Gérer les stocks",
+                               height=3)
+
         self.calc_btn = Button(self,
-                               text="calculer",
+                               text="Calculer",
                                height=3)
 
         self.quote_btn = Button(self,
@@ -34,6 +42,7 @@ class HomeView(Frame):
 
         self.hello.grid(column=0, row=0, sticky="we")
         self.generate_btn.grid(column=0, row=1, sticky="we", padx=25)
-        self.get_info_btn.grid(column=0, row=2, sticky="we", padx=25)
-        self.calc_btn.grid(column=0, row=3, sticky="we", padx=25)
-        self.quote_btn.grid(column=0, row=4, sticky="we", pady=10)
+        self.stock_btn.grid(column=0, row=2, sticky="we", padx=25)
+        self.get_info_btn.grid(column=0, row=3, sticky="we", padx=25)
+        self.calc_btn.grid(column=0, row=4, sticky="we", padx=25)
+        self.quote_btn.grid(column=0, row=5, sticky="we", pady=10)
