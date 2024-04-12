@@ -214,10 +214,8 @@ def generate_sticker(produit: str, concentration: str):
 
 
     bg.paste(lbl, (0, 0))
-
-
     bg = ImageOps.expand(bg,border=5,fill="black")
-    bg.show() # Montre l'image
+    return bg # Montre l'image
 
 
 # add_url_below_qr()

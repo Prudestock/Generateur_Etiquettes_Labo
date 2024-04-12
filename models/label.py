@@ -6,6 +6,7 @@ class LblModel(ObservableModel):
         super().__init__()
         self.product_filled = False
         self.conc_filled = False
+        self.lbl_list = []
 
     def update_product(self, status:bool):
         if status :
@@ -15,9 +16,11 @@ class LblModel(ObservableModel):
         self.trigger_event("product_filled")
 
     def update_conc(self,status:bool):
-        log.debug(f"valeur de self.conc_filled = {self.conc_filled}")
         if status:
             self.conc_filled = True
         else :
             self.conc_filled = False
         self.trigger_event("conc_filled")
+
+    def update_view(self, now):
+        self.trigger_event("label_generated")
